@@ -1,0 +1,36 @@
+<bill session="116" type="s" number="2658" updated="2020-12-28T22:01:32Z">
+  <state datetime="2019-10-22">REFERRED</state>
+  <status>
+    <introduced datetime="2019-10-22"/>
+  </status>
+  <introduced datetime="2019-10-22"/>
+  <titles>
+    <title type="display">ACCESS Act of 2019</title>
+    <title type="official" as="introduced">A bill to promote competition and reduce consumer switching costs in the provision of online communications services.</title>
+    <title type="short" as="introduced">ACCESS Act of 2019</title>
+    <title type="short" as="introduced">Augmenting Compatibility and Competition by Enabling Service Switching Act of 2019</title>
+  </titles>
+  <sponsor bioguide_id="W000805"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001277" joined="2019-10-22"/>
+    <cosponsor bioguide_id="H001089" joined="2019-10-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2019-10-22">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2019-10-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+  </subjects>
+  <amendments/>
+  <summary date="2019-10-22T04:00:00Z" status="Introduced in Senate">Augmenting Compatibility and Competition by Enabling Service Switching Act of 2019 or the ACCESS Act of 2019 This bill requires large communications platform providers with more than 100 million monthly users (e.g., Facebook, Instagram, Twitter, etc.) to establish interfaces (e.g., application programming interfaces (APIs)) that make user data portable and services interoperable. These interfaces must be made available for users and competitor platforms to access and transfer such user data. Competitors accessing user data through an interface must keep the data reasonably secure and may not use it for commercial purposes. Users also may designate third parties that meet certain requirements, including registering with the Federal Trade Commission (FTC), to manage their user data. A communications platform may place reasonable limits on competitors' access to its interoperability interface. The bill further requires the National Institute of Standards and Technology to develop model technical standards for implementing platform interoperability.</summary>
+  <committee-reports/>
+</bill>

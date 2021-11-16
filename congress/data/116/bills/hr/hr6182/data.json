@@ -1,0 +1,148 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-03-10", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-03-10", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6182-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "D000630", 
+      "district": "19", 
+      "name": "Delgado, Antonio", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-03-10", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000597", 
+      "district": "1", 
+      "name": "Pingree, Chellie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-03-10", 
+      "state": "ME", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001216", 
+      "district": "8", 
+      "name": "Schrier, Kim", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-03-10", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000467", 
+      "district": "15", 
+      "name": "Thompson, Glenn", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-03-10", 
+      "state": "PA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-03-10", 
+  "number": "6182", 
+  "official_title": "To amend the Soil and Water Resources Conservation Act of 1977 with respect to assessments of conservation programs, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s3429-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Farmer-Driven Conservation Outcomes Act of 2020", 
+  "sponsor": {
+    "bioguide_id": "F000455", 
+    "district": "11", 
+    "name": "Fudge, Marcia L.", 
+    "state": "OH", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-03-10", 
+  "subjects": [
+    "Agricultural conservation and pollution", 
+    "Agriculture and food", 
+    "Congressional oversight", 
+    "Environmental assessment, monitoring, research", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Performance measurement"
+  ], 
+  "subjects_top_term": "Agriculture and food", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Farmer-Driven Conservation Outcomes Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Farmer-Driven Conservation Outcomes Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Farmer-Driven Conservation Outcomes Act of 2020", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Soil and Water Resources Conservation Act of 1977 with respect to assessments of conservation programs, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-07-13T18:41:57Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr6182.xml"
+}

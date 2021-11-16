@@ -1,0 +1,112 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-07-30", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-07-30", 
+      "action_code": "", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s4386-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-07-30", 
+  "number": "4386", 
+  "official_title": "A bill to decriminalize and reschedule cannabis, to provide for the regulation of cannabis and cannabis products to protect public health and safety, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Substance Regulation and Safety Act of 2020", 
+  "sponsor": {
+    "bioguide_id": "S001203", 
+    "district": null, 
+    "name": "Smith, Tina", 
+    "state": "MN", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-07-30", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Crime and law enforcement", 
+    "Department of Agriculture", 
+    "Department of Justice", 
+    "Department of Transportation", 
+    "Drug safety, medical device, and laboratory regulation", 
+    "Drug trafficking and controlled substances", 
+    "Drug, alcohol, tobacco use", 
+    "Government information and archives", 
+    "Health promotion and preventive care", 
+    "Law enforcement administration and funding", 
+    "Medical research", 
+    "Racial and ethnic relations", 
+    "Research administration and funding", 
+    "Retail and wholesale trades", 
+    "Roads and highways", 
+    "Trade restrictions", 
+    "Transportation programs funding", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Substance Regulation and Safety Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Substance Regulation and Safety Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Substance Regulation and Safety Act of 2020", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to decriminalize and reschedule cannabis, to provide for the regulation of cannabis and cannabis products to protect public health and safety, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-10-26T21:21:09Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s4386.xml"
+}

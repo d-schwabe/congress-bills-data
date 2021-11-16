@@ -1,0 +1,802 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-05-07", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-05-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-05-16", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on National Parks, Forests, and Public Lands.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-07-10", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-11-20", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Subcommittee on National Parks, Forests, and Public Lands Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-11-20", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-11-20", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 21 - 13.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2020-02-04", 
+      "action_code": "H12200", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 116-387.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-04", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "310", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 310.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2020-02-10T19:15:37-05:00", 
+      "action_code": "H1L210", 
+      "bill_ids": [
+        "hres844-116", 
+        "hjres79-116"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 844 Reported to House. Rule provides for consideration of H.R. 2546 and H.J. Res. 79. The resolution provides for one hour of debate on each measure. The resolution provides for consideration of H.R. 2546 under a structured rule and consideration of H.J.Res. 79 under a closed rule with a motion to recommit with or without instructions for each measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T12:22:31-05:00", 
+      "action_code": "H30000", 
+      "bill_ids": [
+        "hres844-116"
+      ], 
+      "references": [
+        {
+          "reference": "CR H1058-1104", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H1066-1089", 
+          "type": "text"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 844.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T12:22:36-05:00", 
+      "action_code": "H8D000", 
+      "bill_ids": [
+        "hjres79-116"
+      ], 
+      "references": [], 
+      "text": "Rule provides for consideration of H.R. 2546 and H.J. Res. 79. The resolution provides for one hour of debate on each measure. The resolution provides for consideration of H.R. 2546 under a structured rule and consideration of H.J.Res. 79 under a closed rule with a motion to recommit with or without instructions for each measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T12:23:19-05:00", 
+      "action_code": "H32020", 
+      "bill_ids": [
+        "hres844-116"
+      ], 
+      "references": [], 
+      "text": "House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 844 and Rule XVIII.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T12:23:20-05:00", 
+      "action_code": "H32400", 
+      "references": [], 
+      "text": "The Speaker designated the Honorable James P. McGovern to act as Chairman of the Committee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T12:23:56-05:00", 
+      "action_code": "H8D000", 
+      "references": [], 
+      "text": "GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 2546.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T13:30:47-05:00", 
+      "action_code": "H8D000", 
+      "bill_ids": [
+        "hres844-116"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H.Res. 844, the Committee of the Whole proceeded with 10 minutes of debate on the DeGette amendment No. 1.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T13:37:18-05:00", 
+      "action_code": "H8D000", 
+      "references": [], 
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on the DeGette amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the ayes had prevailed. Mr. Tipton demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T13:38:13-05:00", 
+      "action_code": "H8D000", 
+      "bill_ids": [
+        "hres844-116"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 844, the Committee of the Whole proceeded with 10 minutes of debate on the McClintock amendment No. 2.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T13:45:49-05:00", 
+      "action_code": "H8D000", 
+      "references": [], 
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on the McClintock amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. McClintock demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T13:46:50-05:00", 
+      "action_code": "H8D000", 
+      "bill_ids": [
+        "hres844-116"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 844, the Committee of the Whole proceeded with 10 minutes of debate on the McClintock amendment No. 3.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T13:55:34-05:00", 
+      "action_code": "H8D000", 
+      "references": [], 
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on the McClintock amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. McClintock demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T13:56:28-05:00", 
+      "action_code": "H8D000", 
+      "bill_ids": [
+        "hres844-116"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 844, the Committee of the Whole proceeded with 10 minutes of debate on the Brown (MD) amendment No. 4.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T13:59:58-05:00", 
+      "action_code": "H8D000", 
+      "bill_ids": [
+        "hres844-116"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 844, the Committee of the Whole proceeded with 10 minutes of debate on the Panetta amendment No. 5.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T14:06:18-05:00", 
+      "action_code": "H8D000", 
+      "references": [], 
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Panetta amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the ayes had prevailed. Mr. Panetta demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T14:06:43-05:00", 
+      "action_code": "H8D000", 
+      "bill_ids": [
+        "hres844-116"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 844, the Committee of the Whole proceeded with 10 minutes of debate on the Westerman amendment No. 6.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T14:15:30-05:00", 
+      "action_code": "H8D000", 
+      "references": [], 
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Westerman amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Westerman demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T14:16:07-05:00", 
+      "action_code": "H8D000", 
+      "bill_ids": [
+        "hres844-116"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 844, the Committee of the Whole proceeded with 10 minutes of debate on the Westerman amendment No. 7.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T14:24:28-05:00", 
+      "action_code": "H8D000", 
+      "references": [], 
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Westerman amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Westerman demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T14:25:06-05:00", 
+      "action_code": "H8D000", 
+      "bill_ids": [
+        "hres844-116"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 844, the Committee of the Whole proceeded with 10 minutes of debate on the Cunningham amendment No. 8.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T14:29:50-05:00", 
+      "action_code": "H8D000", 
+      "references": [], 
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Cunningham amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the ayes had prevailed. Mr. Cunningham demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T14:30:29-05:00", 
+      "action_code": "H8D000", 
+      "bill_ids": [
+        "hres844-116"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 844, the Committee of the Whole proceeded with 10 minutes of debate on the Tipton amendment No. 9.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T14:42:18-05:00", 
+      "action_code": "H8D000", 
+      "references": [], 
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Tipton amendment, the Chair put the question on adoption of the amendment, and by voice vote announced that the noes had prevailed. Mr. Tipton demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T14:42:54-05:00", 
+      "action_code": "H8D000", 
+      "bill_ids": [
+        "hres844-116"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 844, the Committee of the Whole proceeded with 10 minutes of debate on the Tipton amendment No. 10.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T14:48:40-05:00", 
+      "action_code": "H8D000", 
+      "bill_ids": [
+        "hres844-116"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 844, the Committee of the Whole proceeded with 10 minutes of debate on the Kilmer amendment No. 11.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T14:55:23-05:00", 
+      "action_code": "H8D000", 
+      "bill_ids": [
+        "hres844-116"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 844, the Committee of the Whole proceeded with 10 minutes of debate on the Schrier amendment No. 12.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T15:02:00-05:00", 
+      "action_code": "H32340", 
+      "references": [], 
+      "text": "Ms. DeGette moved that the committee rise.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T15:02:12-05:00", 
+      "action_code": "H32341", 
+      "references": [], 
+      "text": "On motion that the committee rise Agreed to by voice vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T15:02:21-05:00", 
+      "action_code": "H32700", 
+      "references": [], 
+      "text": "Committee of the Whole House on the state of the Union rises leaving H.R. 2546 as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T15:32:13-05:00", 
+      "action_code": "H30000", 
+      "references": [
+        {
+          "reference": "CR H1104-1112", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T15:32:23-05:00", 
+      "action_code": "H32050", 
+      "references": [], 
+      "text": "The House resolved into Committee of the Whole House on the state of the Union for further consideration.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T15:32:26-05:00", 
+      "action_code": "H8D000", 
+      "references": [], 
+      "text": "UNFINISHED BUSINESS - The Chair announced that the unfinished business was on adoption of amendments, which had been debated earlier and on which further proceedings had been postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T16:35:46-05:00", 
+      "action_code": "H32600", 
+      "references": [], 
+      "text": "The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2546.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T16:36:47-05:00", 
+      "action_code": "H35000", 
+      "references": [], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T16:36:58-05:00", 
+      "action_code": "H34400", 
+      "references": [], 
+      "text": "The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T16:37:43-05:00", 
+      "action_code": "H36100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [
+        {
+          "reference": "CR H1110", 
+          "type": "text"
+        }
+      ], 
+      "text": "Mr. McClintock moved to recommit with instructions to the Committee on Natural Resources.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T16:37:56-05:00", 
+      "action_code": "H8D000", 
+      "references": [], 
+      "text": "Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the McClintock motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to allow mechanical wildfire mitigation in wilderness areas designated under the bill to protect life, property or the environment.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T16:48:24-05:00", 
+      "action_code": "H8A000", 
+      "references": [], 
+      "text": "The previous question on the motion to recommit with instructions was ordered without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T16:55:55-05:00", 
+      "action_code": "H36110", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "On motion to recommit with instructions Failed by the Yeas and Nays: 199 - 215 (Roll no. 68).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-12T17:01:53-05:00", 
+      "action_code": "H37100", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "69", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by the Yeas and Nays: 231 - 183 (Roll no. 69).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2020-02-12T17:01:55-05:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-13", 
+      "action_code": "", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "hamdt800-116", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "800"
+    }, 
+    {
+      "amendment_id": "hamdt799-116", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "799"
+    }, 
+    {
+      "amendment_id": "hamdt798-116", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "798"
+    }, 
+    {
+      "amendment_id": "hamdt797-116", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "797"
+    }, 
+    {
+      "amendment_id": "hamdt796-116", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "796"
+    }, 
+    {
+      "amendment_id": "hamdt795-116", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "795"
+    }, 
+    {
+      "amendment_id": "hamdt794-116", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "794"
+    }, 
+    {
+      "amendment_id": "hamdt793-116", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "793"
+    }, 
+    {
+      "amendment_id": "hamdt792-116", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "792"
+    }, 
+    {
+      "amendment_id": "hamdt791-116", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "791"
+    }, 
+    {
+      "amendment_id": "hamdt790-116", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "790"
+    }, 
+    {
+      "amendment_id": "hamdt789-116", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "789"
+    }
+  ], 
+  "bill_id": "hr2546-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [
+    "H. Rept. 116-387"
+  ], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }, 
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "discharged", 
+        "hearings", 
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks, Forests, and Public Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "N000191", 
+      "district": "2", 
+      "name": "Neguse, Joe", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-05-07", 
+      "state": "CO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-07-10", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2020-02-12T17:01:53-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-05-07", 
+  "number": "2546", 
+  "official_title": "To designate certain lands in the State of Colorado as components of the National Wilderness Preservation System, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres844-116", 
+      "identified_by": "House", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1708-116", 
+      "identified_by": "House", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2215-116", 
+      "identified_by": "House", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2250-116", 
+      "identified_by": "House", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2199-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2642-116", 
+      "identified_by": "House", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr5714-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1109-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1110-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1111-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1382-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s3288-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Protecting America's Wilderness Act", 
+  "sponsor": {
+    "bioguide_id": "D000197", 
+    "district": "1", 
+    "name": "DeGette, Diana", 
+    "state": "CO", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2020-02-12T17:01:53-05:00", 
+  "subjects": [
+    "Advisory bodies", 
+    "Air quality", 
+    "Archaeology and anthropology", 
+    "Aviation and airports", 
+    "California", 
+    "Climate change and greenhouse gases", 
+    "Colorado", 
+    "Congressional oversight", 
+    "Ecology", 
+    "Electric power generation and transmission", 
+    "Environmental assessment, monitoring, research", 
+    "Fires", 
+    "Forests, forestry, trees", 
+    "Government studies and investigations", 
+    "Historical and cultural resources", 
+    "Indian lands and resources rights", 
+    "Lakes and rivers", 
+    "Land transfers", 
+    "Land use and conservation", 
+    "Military education and training", 
+    "Military facilities and property", 
+    "Military readiness", 
+    "Monuments and memorials", 
+    "Parks, recreation areas, trails", 
+    "Product development and innovation", 
+    "Public lands and natural resources", 
+    "Public utilities and utility rates", 
+    "Research and development", 
+    "Washington State", 
+    "Water use and supply", 
+    "Wilderness and natural areas, wildlife refuges, wild rivers, habitats", 
+    "Wildlife conservation and habitat protection"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Passed House", 
+    "date": "2020-02-12T13:19:34Z", 
+    "text": "Protecting America's Wilderness Act\n\nThis bill designates wilderness areas, potential wilderness areas, recreation areas, scenic areas, trails, and wild and scenic rivers in Colorado, California, and Washington, among other things.\n\nTITLE I--COLORADO WILDERNESS\n\nColorado Wilderness Act of 2020\n\n(Sec. 102) The bill designates specified federal lands in Colorado as wilderness and as components of the National Wilderness Preservation System.\n\nIf the Bureau of Reclamation determines that lands within the West Elk Wilderness Addition are necessary for the future expansion of the Blue Mesa Reservoir, the boundary must be revised.\n\nLands within the exterior boundaries of any designated wilderness area that are owned by a private entity or by Colorado are included in the wilderness area if such lands are acquired by the United States. These lands may be acquired only as provided in the Wilderness Act.\n\n(Sec. 103) The grazing of livestock in the wilderness areas designated by this title shall be administered according to certain provisions of the Wilderness Act and the guidelines set forth in a certain House report.\n\nThe Colorado Army National Guard, through the High-Altitude Army National Guard Aviation Training Site, may conduct aerial navigation training maneuver exercises over the potential wilderness areas designated by this bill.\n\nThe Bureau of Land Management (BLM) may continue authorizing competitive running events currently permitted in the Redcloud Peak Wilderness and Handies Peak Wilderness Areas.\n\nFederal land that is traded for privately owned land within the perimeter of the Redcloud Peak Wilderness or the Handies Peak Wilderness Areas shall be located in Hinsdale County, Colorado.\n\nThe bill designates specified lands managed by the BLM as the Pisgah East Wilderness, the Pisgah West Wilderness, or the Flat Tops Wilderness upon publication by the BLM of a notice in the Federal Register that all nonconforming uses of such lands authorized by this bill have ceased.\n\n(Sec. 104) The bill provides for the securing, adjudication, and use of U.S. water rights for certain of the wilderness areas designated by this title.\n\n(Sec. 106) The Department of Defense shall study the impacts that the expansion of wilderness designations in the Western United States would have on the readiness of the Armed Forces with respect to aviation training.\n\nTITLE II--NORTHWEST CALIFORNIA WILDERNESS, RECREATION, AND WORKING FORESTS\n\nNorthwest California Wilderness, Recreation, and Working Forests Act\n\nSubtitle A--Restoration and Economic Development\n\n(Sec. 211) The bill establishes the South Fork Trinity-Mad River Restoration Area, which shall comprise approximately 729,089 acres of federal land administered by the Forest Service and approximately 1,280 acres of federal land administered by the BLM.\n\nIn the restoration area, the agencies\n\n shall prioritize restoration activities, may use prescribed burning and managed wildland fire, and shall decommission identified unneeded National Forest System roads and identified unauthorized roads. The agencies may conduct vegetation management projects in areas of the restoration area only where necessary to, among other things, maintain or restore the characteristics of ecosystem composition and structure. The projects may be (1) in areas in which fish and wildlife habitat is significantly compromised as a result of past management practices (including plantations), and (2) within designated riparian reserves only where necessary to maintain the integrity of fuel breaks and to enhance fire resilience. The agencies must use the best available science in planning and implementing the projects.\n\nThe bill permits the grazing of livestock in the restoration area, where already established, to continue. The agencies may issue annual targeted grazing permits for livestock grazing, where not already established, to control noxious weeds, to aid in the control of wildfire within the wildland-urban interface, or to provide other ecological benefits. The agencies must use the best available science when determining whether to issue such permits.\n\nThe bill withdraws the restoration area from\n\n entry, appropriation, and disposal under the public land laws; location, entry, and patent under the mining laws; and disposition under all laws relating to mineral and geothermal leasing or mineral materials. The agencies shall\n\n use stewardship contracts to implement this section; and use revenue derived from such stewardship contracts for restoration and other activities within the restoration area, including staff and administrative costs to support consultation activities for restoration projects. Collaboratively developed restoration projects within the restoration area may be carried out in accordance with the provisions for hazardous fuel reduction projects under the Healthy Forests Restoration Act of 2003.\n\nThe Forest Service shall\n\n in collaboration with the BLM and interested persons, use a multiparty monitoring, evaluation, and accountability process to assess the positive or negative ecological, social, and economic effects of restoration projects within the restoration area; and incorporate the monitoring results into the management of the restoration area. The agencies may use forest residues from restoration projects, including shaded fuel breaks, in the restoration area for research and development of biobased products that result in net carbon sequestration.\n\n(Sec. 212) The Department of the Interior is authorized to undertake initiatives to restore degraded redwood forest ecosystems in Redwood National and State Parks in partnership with California, local agencies, and nongovernmental organizations.\n\n(Sec. 213) The bill establishes the California Public Lands Remediation Partnership to\n\n coordinate the activities of federal, state, tribal, and local authorities and the private sector in the remediation of high priority lands in California affected by illegal marijuana cultivation or other illegal activities; and use the resources and expertise of each agency, authority, or entity in implementing the activities. The Department of Agriculture (USDA) shall convene the partnership on a regular basis to carry out this section.\n\nUSDA and Interior may provide technical and financial assistance to the partnership or any members of the partnership to carry out this title.\n\n(Sec. 214) The Forest Service may establish a visitor center in Weaverville, California, to serve visitors and to assist in fulfilling the purposes of the Whiskeytown-Shasta-Trinity National Recreation Area. The visitor center must be designed to interpret the resources of the recreation area and other nearby federal lands.\n\n(Sec. 215) USDA and Interior may establish a visitor center in Del Norte County, California, to serve visitors and to assist in fulfilling the purposes of Redwood National and State Parks, the Smith River National Recreation Area, and other nearby federal lands.\n\n(Sec. 216) In revising the land and resource management plan for the Shasta-Trinity, Six Rivers, Klamath, and Mendocino National Forests, the Forest Service shall\n\n consider the purposes of the South Fork Trinity-Mad River Restoration Area, and include or update the fire management plans for the wilderness areas and wilderness additions established by this title. (Sec. 217) Interior shall study the feasibility and suitability of establishing overnight accommodations near the northern and southern boundaries of the Redwood National and State Parks.\n\nIf the study determines that establishing the accommodations is suitable and feasible, Interior may enter into agreements with qualified private and nonprofit organizations for the development, operation, and maintenance of such accommodations.\n\nSubtitle B--Recreation\n\n(Sec. 221) The bill establishes the Horse Mountain Special Management Area, which comprises 7,399 acres of federal land administered by the Forest Service in Humboldt County in California, to enhance the recreational and scenic values of the special management area while conserving the plants, wildlife, and other natural resource values of such area.\n\nThe Forest Service must develop a comprehensive plan for the long-term management of the special management area.\n\nThe management plan shall ensure that recreational use within the special management area does not cause significant adverse impacts on the plants and wildlife of such area.\n\nThe Forest Service shall continue to authorize, maintain, and enhance the recreational use of the special management area.\n\nThe use of motorized vehicles in the special management area shall be permitted only on roads and trails designated for their use, except for the winter use of snowmobiles during periods of adequate snow coverage.\n\nThe Forest Service may construct new trails for motorized or nonmotorized recreation within the special management area. In establishing such trails, the Forest Service shall prioritize the establishment of loops that provide high-quality, diverse recreational experiences.\n\nThe bill withdraws the special management area from\n\n appropriation or disposal under the public land laws; location, entry, and patent under the mining laws; and disposition under laws related to mineral and geothermal leasing. (Sec. 222) USDA, in cooperation with Interior, shall study the feasibility of establishing a nonmotorized Bigfoot National Recreation Trail that shall extend from the Ides Cove Trailhead in the Mendocino National Forest to Crescent City, California.\n\nUpon a determination that the Bigfoot National Recreation Trail is feasible and meets the requirements for a National Recreation Trail, USDA shall then designate the recreation trail in accordance with the National Trails System Act, this title, and other applicable law.\n\nThe bill bars any portion of the trail from being located on nonfederal land without the landowner's written consent.\n\nUSDA must not acquire for the trail any land or interest in land outside of the exterior boundary of any federally managed area without the owner's consent.\n\n(Sec. 223) The Forest Service shall designate an Elk Camp Ridge Recreation Trail, which may include a system of trails, on its land in Del Norte County that is authorized for use by off-highway vehicles, mountain bicycles, or both.\n\nIn order to minimize the impacts of the use of the trail on environmental and cultural resources, the Forest Service shall annually assess the effects of the use of off-highway vehicles and mountain bicycles on the trail, land located in proximity to the trail, plants, wildlife, and wildlife habitat.\n\n(Sec. 224) The Forest Service may construct a recreational trail for nonmotorized uses around Trinity Lake if it determines construction of the trail is feasible and in the public interest.\n\nThe trail may be constructed through the acceptance of volunteer services and contributions from nonfederal sources to reduce or eliminate the need for federal expenditures to construct the trail.\n\n(Sec. 225) The Forest Service shall conduct a study to improve motorized and nonmotorized recreation trail opportunities (including mountain bicycling) on land not designated as wilderness within portions of the Six Rivers, Shasta-Trinity, and Mendocino National Forests located in Del Norte, Humboldt, Trinity, and Mendocino Counties.\n\n(Sec. 226) The Forest Service may construct recreational trails for mountain bicycling and other nonmotorized uses on the routes generally depicted in the report titled Trail Study for Smith River National Recreation Area Six Rivers National Forest and dated 2016, if the Forest Service determines construction is feasible and in the public interest.\n\nThe trail may be constructed through the acceptance of volunteer services and contributions from nonfederal sources to reduce or eliminate the need for federal expenditures to construct the route.\n\n(Sec. 227) Interior or USDA may enter into agreements with qualified private and nonprofit organizations to undertake the following activities on federal lands in Mendocino, Humboldt, Trinity, and Del Norte Counties:\n\n trail and campground maintenance; public education, visitor contracts, and outreach; and visitor center staffing. Subtitle C--Conservation\n\n(Sec. 231) The bill designates certain federal lands in California as wilderness areas and as components of the National Wilderness Preservation System.\n\nThe bill redesignates the North Fork Wilderness as the North Fork Eel River Wilderness.\n\nThe bill adjusts the boundary of the Elkhorn Ridge Wilderness by deleting approximately 30 acres of federal land.\n\n(Sec. 232) The Forest Service and BLM may take measures in such a designated wilderness or wilderness addition as are necessary to control fire, insects, and diseases.\n\nTo ensure a timely and efficient response to fire emergencies in the wilderness additions designated by this subtitle, USDA shall\n\n establish agency approval procedures for responding to fire emergencies, and enter into agreements with state or local firefighting agencies. The grazing of livestock in the wilderness areas and wilderness additions designated by this title, if already established, shall be administered in accordance with the Wilderness Act and specified guidelines.\n\nThe wilderness areas and wilderness additions are withdrawn from\n\n entry, appropriation, and disposal under the public land laws; location, entry, and patent under the mining laws; and operation of the mineral materials and geothermal leasing laws. The agencies must ensure that Indian tribes have access to the wilderness areas and wilderness additions for traditional cultural and religious purposes. One or more specific portions of an area or addition may be temporarily closed to the public to protect the privacy of the members of a tribe when conducting traditional cultural and religious activities there.\n\nAny land within the boundary of a wilderness area or wilderness addition that is acquired by the United States shall become part of the area.\n\nThe agencies may authorize the installation and maintenance of hydrologic, meteorologic, or climatological collection devices in the wilderness areas and wilderness additions if the facilities and access to them are essential to flood warning, flood control, or water reservoir operation activities.\n\nThe Forest Service may continue to authorize the competitive equestrian event permitted since 2012 in the Chinquapin Wilderness in a manner that is compatible with the preservation of such area as wilderness.\n\n(Sec. 233) The bill designates certain federal lands in California as potential wilderness areas.\n\nThe Forest Service or National Park Service, for purposes of ecological restoration, may use motorized equipment and mechanized transport in a potential wilderness area until it is designated as wilderness. The minimum tool or administrative practice necessary shall be used to accomplish ecological restoration with the least amount of adverse impact.\n\nA potential wilderness shall be designated as wilderness and as a component of the National Wilderness Preservation System on the earlier of\n\n when a notice has been published by the managing agency that the conditions in the area that are incompatible with the Wilderness Act have been removed, or it is 10 years after enactment of this bill for areas located on lands managed by the Forest Service. (Sec. 234) The bill designates specified river segments from the source tributaries in the Yolla Bolly-Middle Eel Wilderness as components of the National Wild and Scenic Rivers System.\n\n(Sec. 235) The bill establishes the Sanhedrin Special Conservation Management Area, comprising approximately 14,177 acres of federal land administered by the Forest Service in Mendocino County, California.\n\nThe use of motorized vehicles shall be permitted in the conservation management area only on existing roads, trails, and areas designated for use by such vehicles. The bill prohibits the construction of any new or temporary roads within such area.\n\nThe bill prohibits timber harvesting within the conservation management area unless the Forest Service authorizes it as necessary to further the purposes of such area.\n\nLivestock grazing, where already established, shall be permitted to continue in the conservation management area.\n\nThe Forest Service may take any measures within the conservation management area that are necessary to control fire, insects, and diseases.\n\nThe Forest Service may acquire by purchase from willing sellers, donation, or exchange, any land or interest in land within or adjacent to the boundaries of the conservation management area for incorporation into the area.\n\nAll federal lands located within the conservation management area are withdrawn from\n\n entry, appropriation, and disposal under the public land laws; location, entry, and patent under the mining laws; and operation of the mineral leasing, mineral materials, and geothermal leasing laws. Subtitle D--Miscellaneous\n\n(Sec. 242) USDA and Interior shall incorporate the designations and studies required by this title into updated management plans for units covered by this title.\n\nTITLE III--CENTRAL COAST HERITAGE PROTECTION\n\nCentral Coast Heritage Protection Act\n\n(Sec. 303) The bill designates specified lands in California administered by the BLM or the Forest Service as wilderness areas and as components of the National Wilderness Preservation System.\n\n(Sec. 304) The bill designates specified lands, comprising approximately 2,359 acres, as the Machesna Mountain Potential Wilderness.\n\nThe Forest Service may reconstruct, realign, or reroute the Pine Mountain Trail. In carrying out such an activity, the Forest Service shall use the minimum tool or administrative practice necessary to accomplish the reconstruction, realignment, or rerouting with the least amount of adverse impact on wilderness character and resources.\n\nThe Forest Service may permit the use of motorized and mechanized vehicles on the existing Pine Mountain Trail until the potential wilderness area is designated as wilderness.\n\nThe federal lands in the potential wilderness area are withdrawn from\n\n entry, appropriation, or disposal under the public land laws; location, entry, and patent under the mining laws; and disposition under all laws pertaining to mineral and geothermal leasing or mineral materials. The Forest Service shall modify the boundary of the potential wilderness area to exclude any area within 150 feet of the centerline of the new location of any trail that has been reconstructed, realigned, or rerouted.\n\nThe potential wilderness area, as modified, shall be designated as wilderness and as a component of the National Wilderness Preservation System on the earlier of\n\n when the Forest Service publishes a notice in the Federal Register that the reconstruction, realignment, or rerouting of the trail has been completed; or 20 years after enactment of this bill. Upon designation, the potential wilderness area shall become part of the Machesna Mountain Wilderness Area.\n\n(Sec. 305) The BLM or Forest Service may take any measures in a wilderness area as are necessary to control fire, insects, and diseases.\n\nLivestock grazing, if already established in the wilderness areas, shall be permitted to continue.\n\nThe agencies may conduct management activities that are necessary to maintain or restore fish and wildlife populations and habitats in the wilderness areas.\n\nThe wilderness areas are withdrawn from\n\n entry, appropriation, and disposal under the public land laws; location, entry, and patent under the mining laws; and disposition under all laws pertaining to mineral and geothermal leasing or mineral materials. Land within the boundary of a wilderness area which is acquired by the United States shall become part of the area in which the land is located.\n\nThe agencies may authorize the installation and maintenance of hydrologic, meteorologic, or climatological collection devices in the wilderness areas if the facilities and access to them are essential to flood warning, flood control, or water reservoir operation activities.\n\n(Sec. 306) The bill designates specified river segments in California as components of the National Wild and Scenic Rivers System.\n\n(Sec. 307) The bill designates specified land in the Los Padres National Forest comprising approximately 41,082 acres, as the Fox Mountain Potential Wilderness Area.\n\nThe Forest Service may\n\n construct a new trail for use by hikers, equestrians, and mechanized vehicles that connects the Aliso Park Campground to the Bull Ridge Trail; and reconstruct or realign the Bull Ridge Trail and the Rocky Ridge Trail. In carrying out any such activity, the Forest Service must use the minimum tool or administrative practice necessary to accomplish the construction, reconstruction, or alignment with the least amount of adverse impact on wilderness character and resources.\n\nThe Forest Service may permit the use of mechanized vehicles on the existing Bull Ridge Trail and Rocky Ridge Trail until the potential wilderness area is designated as wilderness.\n\nThe federal lands in the potential wilderness area are withdrawn from\n\n entry, appropriation, or disposal under the public land laws; location, entry, and patent under the mining laws; and disposition under all laws pertaining to mineral and geothermal leasing or mineral materials. The Forest Service shall modify the boundary of the potential wilderness area to exclude any area within 50 feet of the centerline of the new location of any trail that has been constructed, reconstructed, or realigned.\n\nThe potential wilderness area, as modified, shall be designated as wilderness and as a component of the National Wilderness Preservation System on the earlier of\n\n when the department concerned publishes a notice in the Federal Register that trail construction, reconstruction, or alignment has been completed; or 20 years after the enactment of this bill. Upon designation, the potential wilderness shall become part of the San Rafael Wilderness.\n\n(Sec. 308) The bill establishes the Condor Ridge and Black Mountain Scenic Areas.\n\nThe federal land in the scenic areas is withdrawn from\n\n entry, appropriation, or disposal under the public land laws; location, entry, and patent under the mining laws; and disposition under all laws pertaining to mineral and geothermal leasing or mineral materials. The following are prohibited on federal land within the scenic areas:\n\n permanent roads; permanent structures; timber harvesting, except when necessary to control fire, insects, and diseases; transmission lines; except as necessary to meet the minimum requirements for the administration of the scenic areas and to protect public health and safety, the use of motorized vehicles or the establishment of temporary roads; and commercial enterprises, except as necessary for realizing the purposes of scenic areas. (Sec. 309) The bill establishes the Condor National Scenic Trail which shall extend approximately 400 miles from Lake Piru in the southern portion of the Los Padres National Forest to the Bottchers Gap Campground in the northern portion of the forest.\n\nThe bill allows the use of motorized vehicles on roads or trails included in the scenic trail on which such vehicles are already permitted.\n\nThe Forest Service must not acquire any land or interest in land outside the exterior boundary of any federally managed area for the scenic trail without the landowner's consent.\n\nThe Forest Service may realign segments of the scenic trail as necessary to fulfill the scenic trail's purposes.\n\nThe Forest Service shall conduct a study that\n\n addresses the feasibility of, and alternatives for, connecting the northern and southern portions of the Los Padres National Forest by establishing a trail across the applicable portions of the northern and southern Santa Lucia Mountains of the southern California Coastal Range; and considers realignment of the trail or construction of new trail segments to avoid existing trail segments that currently allow motorized vehicles. Upon completion of the study, if the Forest Service determines that additional or alternative trail segments are feasible for inclusion in the scenic trail, it shall include those segments.\n\n(Sec. 310) The Forest Service shall study the feasibility of opening a new trail, for vehicles measuring 50 inches or less, that connects Forest Service Highway 95 to the existing off-highway vehicle trail system in the Ballinger Canyon off-highway vehicle area.\n\n(Sec. 311) The Forest Service shall conduct a study for improving nonmotorized recreation trail opportunities (including mountain bicycling) on land not designated as wilderness within the Santa Barbara, Ojai, and Mt. Pinos ranger districts.\n\n(Sec. 312) The BLM or Forest Service shall ensure that Indian tribes have access to the wilderness areas, scenic areas, and potential wilderness areas designated by this title for traditional cultural and religious purposes.\n\nThe agencies, on request by a tribe, may temporarily close one or more portions of such an area to protect the privacy of the tribe's members when conducting traditional cultural and religious activities.\n\nTITLE IV--SAN GABRIEL MOUNTAINS FOOTHILLS AND RIVERS PROTECTION\n\nSan Gabriel Mountains Foothills and Rivers Protection Act\n\nSubtitle A--San Gabriel National Recreation Area\n\n(Sec. 413) The bill establishes the San Gabriel National Recreation Area in California as a unit of the National Park System.\n\nPublic lands included in the recreation area shall be administered by the National Park Service (NPS).\n\n(Sec. 414) The NPS shall manage the public lands included in the recreation area to protect and enhance their natural resources and values.\n\nThe NPS shall cooperate with the Department of Defense (DOD) in developing opportunities for the management of the federal land under DOD's jurisdiction included in the recreation area.\n\nThe NPS is encouraged to work with owners of nonfederal land who have agreed to cooperate in advancing the purposes of this subtitle.\n\nCertain requirements concerning the nonoperation of solid waste disposal sites within any NPS units shall not apply to the Puente Hills landfill, materials recovery facility, or intermodal facility.\n\nThe NPS and the San Gabriel National Recreation Area Public Advisory Council (established by this bill) shall establish a comprehensive management plan for the recreation area that supports its purposes. The NPS shall incorporate the visitor services plan required by this bill into such plan.\n\nIn developing the management plan, the NPS shall consider recommendations of the San Gabriel National Recreation Area Partnership (established by this bill). The NPS shall include recommendations of the partnership in the management plan if they are feasible and consistent with the recreation area's purposes, this subtitle, and applicable laws.\n\n(Sec. 415) The NPS may acquire by exchange, donation, or purchase from a willing seller nonfederal land within the boundaries of the recreation area if the land contains important biological, cultural, historic, or recreational values. Any land or interest in land acquired by the United States within the boundaries of the recreation area shall be included in the recreation area.\n\n(Sec. 417) The advisory council shall advise the NPS on the development and implementation of the management plan and the visitor services plan.\n\n(Sec. 418) The partnership shall\n\n make recommendations to the NPS regarding the development and implementation of the management plan; review and comment on the visitor services plan and facilitate its implementation; assist units of local government, regional planning organizations, and nonprofit organizations in advancing the purpose of the recreation area, including by carrying out programs and projects that recognize, protect, and enhance resource values within the recreation area; make recommendations to the NPS regarding the appointment of members to the advisory council; and carry out any other actions necessary to achieve the purposes of this subtitle. The NPS shall convene the partnership on a regular basis.\n\nThe NPS may provide to the partnership or any partnership member such technical and financial assistance determined appropriate to carry out this subtitle.\n\nTo facilitate the administration of the recreation area, the NPS is authorized to construct administrative or visitor use facilities on land owned by a nonprofit organization, local agency, or other public entity. A facility may only be developed with the consent of the owner of the nonfederal land.\n\nThe NPS must give priority to actions that\n\n conserve the significant resources of the recreation area; and provide educational, interpretive, and recreational opportunities consistent with the purposes of the recreation area. The partnership shall establish\n\n a Water Technical Advisory Committee to advise the NPS regarding water-related issues related to the recreation area, and a Public Safety Advisory Committee to advise the NPS regarding public safety issues related to the recreation area. (Sec. 419) The visitor services plan shall, among other things\n\n assess current and anticipated future visitation to the recreation area, including recreation destinations; and consider the demand for various types of recreation, including hiking, picnicking, and horseback riding. The NPS may construct visitor use facilities in the recreation area.\n\nThe NPS may accept and use donated funds, property, in-kind contributions, and services to carry out this subtitle, but may not use such authority to accept nonfederal land that has been acquired after enactment of this bill through the use of eminent domain.\n\nSubtitle B--San Gabriel Mountains\n\n(Sec. 422) The bill modifies the San Gabriel Mountains National Monument to include approximately 109,167 acres of additional National Forest System land.\n\nThe Forest Service shall update the existing San Gabriel Mountains National Monument Plan to provide management direction and protection for the lands added to the monument.\n\n(Sec. 423) The bill designates certain parcels of National Forest System land in California as wilderness and as components of the National Wilderness Preservation System.\n\n(Sec. 424) The Forest Service may take measures in a wilderness area or addition necessary to control fire, insects, or diseases.\n\nTo ensure a timely and efficient response to a fire emergency in a wilderness area or addition, the Forest Service shall\n\n establish agency approval procedures for responding to fire emergencies, and enter into agreements with state or local firefighting agencies. The bill specifies requirements regarding the grazing of livestock that has already been established.\n\nThe Forest Service may conduct any management activities that are necessary to maintain or restore fish or wildlife populations or habitats in the wilderness areas and wilderness additions if the activities are consistent with relevant wilderness management plans and conducted in accordance with appropriate policies, such as those established in a specified House report. Such a management activity may include the occasional and temporary use of motorized vehicles, if their use would promote healthy, viable, and more naturally distributed wildlife populations that would enhance wilderness values while causing the minimum impact necessary to accomplish those tasks.\n\nCalifornia may use aircraft, including helicopters, in a wilderness area or addition to survey, capture, transplant, monitor, or provide water for a wildlife population, including bighorn sheep.\n\nThe wilderness areas and additions are withdrawn from\n\n entry, appropriation, and disposal under the public land laws; location, entry, and patent under the mining laws; and operation of the mineral materials and geothermal leasing laws. Any land located within the boundary of a wilderness area or addition that is acquired by the United States shall become part of the area or addition.\n\nThe Forest Service may authorize the installation and maintenance of hydrologic, meteorologic, or climatological collection devices in a wilderness area or addition if the facilities and access to them is essential to a flood warning, flood control, or water reservoir operation activity.\n\nThe Forest Service may authorize the Angeles Crest 100 competitive running event to continue as it was operated and permitted in 2015 within the additions to the Sheep Mountain Wilderness and the Pleasant View Ridge Wilderness Area, provided that the event is authorized and conducted in a manner compatible with the preservation of the areas as wilderness.\n\n(Sec. 425) The bill designates specified segments of rivers in California as components of the National Wild and Scenic Rivers System.\n\nThe bill declares that any new reservation of water or new use of water pursuant to existing water rights held by the United States to advance the purposes of National Wild and Scenic Rivers Act shall be for nonconsumptive instream use only within those segments.\n\n(Sec. 426) The Forest Service must comply with the applicable procedural and substantive requirements of the law of California in order to obtain and hold any water rights not in existence with respect to the San Gabriel Mountains National Monument, the wilderness areas and wilderness additions, and the designated wild and scenic rivers.\n\nTITLE V--RIM OF THE VALLEY CORRIDOR PRESERVATION\n\nRim of the Valley Corridor Preservation Act\n\n(Sec. 502) This bill adjusts the boundary of the Santa Monica Mountains National Recreation Area in California to include the Rim of the Valley Unit.\n\nThe Rim of the Valley Unit, and any lands or interests acquired by the United States and located within its boundaries, shall be administered as part of the recreation area.\n\nThe National Park Service may acquire only through exchange, donation, or purchase from a willing seller any nonfederal land within the boundaries of the Rim of the Valley Unit.\n\nTITLE VI--WILD OLYMPICS WILDERNESS AND WILD AND SCENIC RIVERS\n\nWild Olympics Wilderness and Wild and Scenic Rivers Act\n\n(Sec. 602) The bill designates specified federal lands in the Olympic National Forest in Washington, comprising approximately 126,554 acres, as wilderness and as components of the National Wilderness Preservation System.\n\nApproximately 5,346 acres of specified land is designated as potential wilderness. Once nonconforming uses in the potential wilderness have terminated, it shall be designated as wilderness and become part of the adjacent wilderness area.\n\nThe Forest Service may take measures that are necessary to control fire, insects, and diseases in the wilderness areas.\n\n(Sec. 603) The bill designates specified river segments in Washington as components of the Wild and Scenic Rivers System.\n\nThe Forest Service shall incorporate such designations into updated management plans for units of the National Forest System.\n\n(Sec. 604) The federal land within the boundaries of the segments is withdrawn from\n\n entry, appropriation, or disposal under the public land laws; location, entry, and patent under the mining laws; and disposition under all laws related to mineral and geothermal leasing or mineral materials. TITLE VII--STUDY ON FLOOD RISK MITIGATION\n\n(Sec. 701) The Government Accountability Office shall study the contributions of wilderness designations under this bill to protections that mitigate the risk of flooding in residential areas.\n\nTITLE VIII--MISCELLANEOUS\n\n(Sec. 801) Interior and USDA are encouraged to ensure service member and veteran access to public lands designated by this bill for purposes of outdoor recreation and to participate in outdoor-related volunteer and wellness programs."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Colorado Wilderness Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Colorado Wilderness Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Protecting America's Wilderness Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": true, 
+      "title": "Central Coast Heritage Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": true, 
+      "title": "Colorado Wilderness Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": true, 
+      "title": "Northwest California Wilderness, Recreation, and Working Forests Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": true, 
+      "title": "Rim of the Valley Corridor Preservation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": true, 
+      "title": "San Gabriel Mountains Foothills and Rivers Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": true, 
+      "title": "Wild Olympics Wilderness and Wild and Scenic Rivers Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Protecting America's Wilderness Act", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To designate certain lands in the State of Colorado as components of the National Wilderness Preservation System, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-12-28T14:41:21Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr2546.xml"
+}

@@ -1,0 +1,130 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-07-22", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-07-22", 
+      "action_code": "", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s4266-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-07-22", 
+  "number": "4266", 
+  "official_title": "A bill to provide civil liability for injuries in law enforcement free zones, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s4537-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr7786-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "RECLAIM Act", 
+  "sponsor": {
+    "bioguide_id": "C001098", 
+    "district": null, 
+    "name": "Cruz, Ted", 
+    "state": "TX", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-07-22", 
+  "subjects": [
+    "Civil actions and liability", 
+    "Crime and law enforcement", 
+    "Crime prevention", 
+    "Crime victims", 
+    "Crimes against property", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Disaster relief and insurance", 
+    "Government liability", 
+    "Law enforcement administration and funding", 
+    "Law enforcement officers", 
+    "Protest and dissent", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "RECLAIM Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "RECLAIM Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Restitution for Economic losses Caused by Leaders who Allow Insurrection and Mayhem Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Restitution for Economic losses Caused by Leaders who Allow Insurrection and Mayhem Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "RECLAIM Act", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to provide civil liability for injuries in law enforcement free zones, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-09-23T05:43:45Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s4266.xml"
+}

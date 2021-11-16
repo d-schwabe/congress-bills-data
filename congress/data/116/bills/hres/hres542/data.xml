@@ -1,0 +1,53 @@
+<bill session="116" type="hr" number="542" updated="2020-10-20T21:16:56Z">
+  <state datetime="2019-08-27">REFERRED</state>
+  <status>
+    <introduced datetime="2019-08-27"/>
+  </status>
+  <introduced datetime="2019-08-27"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for the designation of September 2019 as "National Kinship Care Month".</title>
+    <title type="display">Expressing support for the designation of September 2019 as "National Kinship Care Month".</title>
+  </titles>
+  <sponsor bioguide_id="B001270"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001298" joined="2019-09-17"/>
+    <cosponsor bioguide_id="D000096" joined="2019-09-17"/>
+    <cosponsor bioguide_id="L000559" joined="2019-09-17"/>
+    <cosponsor bioguide_id="L000581" joined="2019-09-17"/>
+    <cosponsor bioguide_id="M001185" joined="2019-09-17"/>
+    <cosponsor bioguide_id="M001201" joined="2019-09-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2019-08-27">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2019-08-27" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2019-08-27">
+      <text>Referred to the Subcommittee on Worker and Family Support.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="Worker and Family Support" code="HSWM03" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="116" relation="unknown" number="323"/>
+    <bill type="hr" session="116" relation="identical" number="1101"/>
+    <bill type="sr" session="116" relation="unknown" number="736"/>
+  </relatedbills>
+  <subjects>
+    <term name="Families"/>
+    <term name="Adoption and foster care"/>
+    <term name="Child care and development"/>
+    <term name="Child safety and welfare"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Family relationships"/>
+    <term name="Family services"/>
+  </subjects>
+  <amendments/>
+  <summary date="2019-08-27T04:00:00Z" status="Introduced in House">This resolution expresses support for the designation of National Kinship Care Month and encourages Congress to work to improve the lives of vulnerable children and families.</summary>
+  <committee-reports/>
+</bill>

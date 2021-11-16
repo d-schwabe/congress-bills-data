@@ -1,0 +1,124 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-06-08", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-06-08", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr7126-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "T000463", 
+      "district": "10", 
+      "name": "Turner, Michael R.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-06-08", 
+      "state": "OH", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-06-08", 
+  "number": "7126", 
+  "official_title": "To amend the National Defense Authorization Act for Fiscal Year 2020 to direct the Secretary of Defense to include questions regarding racism, anti-Semitism, and supremacism in workplace surveys administered by the Secretary.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s4049-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr6395-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Department of Defense Anti-Semitism and Racism Awareness Act of 2020", 
+  "sponsor": {
+    "bioguide_id": "B001304", 
+    "district": "4", 
+    "name": "Brown, Anthony G.", 
+    "state": "MD", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-06-08", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congressional oversight", 
+    "Government studies and investigations", 
+    "Military personnel and dependents", 
+    "Political movements and philosophies", 
+    "Racial and ethnic relations", 
+    "Religion"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Department of Defense Anti-Semitism and Racism Awareness Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Department of Defense Anti-Semitism and Racism Awareness Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Department of Defense Anti-Semitism and Racism Awareness Act of 2020", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the National Defense Authorization Act for Fiscal Year 2020 to direct the Secretary of Defense to include questions regarding racism, anti-Semitism, and supremacism in workplace surveys administered by the Secretary.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-08-31T14:30:26Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr7126.xml"
+}

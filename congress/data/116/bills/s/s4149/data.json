@@ -1,0 +1,138 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-07-01", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-07-01", 
+      "action_code": "", 
+      "committees": [
+        "SSVA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s4149-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Veterans' Affairs", 
+      "committee_id": "SSVA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001230", 
+      "district": null, 
+      "name": "Baldwin, Tammy", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-07-01", 
+      "state": "WI", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B000944", 
+      "district": null, 
+      "name": "Brown, Sherrod", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-07-01", 
+      "state": "OH", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001042", 
+      "district": null, 
+      "name": "Hirono, Mazie K.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-07-01", 
+      "state": "HI", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000464", 
+      "district": null, 
+      "name": "Tester, Jon", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-07-01", 
+      "state": "MT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-07-01", 
+  "number": "4149", 
+  "official_title": "A bill to amend title 38, United States Code, to remove the limitation on reimbursement for emergency treatment of amounts owed to a third party for which the veteran is responsible under a health-plan contract.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Emergency Care Reimbursement Act of 2020", 
+  "sponsor": {
+    "bioguide_id": "B001277", 
+    "district": null, 
+    "name": "Blumenthal, Richard", 
+    "state": "CT", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-07-01", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Emergency medical services and trauma care", 
+    "Health care costs and insurance", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Emergency Care Reimbursement Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Emergency Care Reimbursement Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Emergency Care Reimbursement Act of 2020", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend title 38, United States Code, to remove the limitation on reimbursement for emergency treatment of amounts owed to a third party for which the veteran is responsible under a health-plan contract.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-11-25T05:28:58Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s4149.xml"
+}

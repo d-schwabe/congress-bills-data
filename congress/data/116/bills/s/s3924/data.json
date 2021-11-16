@@ -1,0 +1,106 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-06-09", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-06-09", 
+      "action_code": "", 
+      "committees": [
+        "SSFI"
+      ], 
+      "references": [
+        {
+          "reference": "CR S2809-2810", 
+          "type": "text"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s3924-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-06-09", 
+  "number": "3924", 
+  "official_title": "A bill to provide tax credits to low- to moderate-income individuals for certain computer and education costs, to direct the Federal Communications Commission to modify the requirements for the Lifeline program to provide increased support, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr6744-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Computer and Internet Access Equity Act", 
+  "sponsor": {
+    "bioguide_id": "D000563", 
+    "district": null, 
+    "name": "Durbin, Richard J.", 
+    "state": "IL", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-06-09", 
+  "subjects": [
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Computer and Internet Access Equity Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Computer and Internet Access Equity Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Computer and Internet Access Equity Act", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to provide tax credits to low- to moderate-income individuals for certain computer and education costs, to direct the Federal Communications Commission to modify the requirements for the Lifeline program to provide increased support, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-07-22T04:18:41Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s3924.xml"
+}

@@ -1,0 +1,40 @@
+<bill session="116" type="s" number="3245" updated="2020-12-28T14:37:47Z">
+  <state datetime="2020-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="2020-01-28"/>
+  </status>
+  <introduced datetime="2020-01-28"/>
+  <titles>
+    <title type="display">WORKER Act</title>
+    <title type="short" as="introduced">WORKER Act</title>
+    <title type="short" as="introduced">Working On Rewarding and Keeping Employees Resilient Act</title>
+    <title type="short" as="introduced" partial="1">LEARNS Act</title>
+    <title type="short" as="introduced" partial="1">Leveraging Effective Apprenticeships to Rebuild National Skills Act</title>
+    <title type="official" as="introduced">A bill to advance STEM education, provide for improved worker training, retention, and advancement, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="C001113"/>
+  <cosponsors>
+    <cosponsor bioguide_id="J000300" joined="2020-01-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-01-28">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2020-01-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="116" relation="unknown" number="399"/>
+    <bill type="h" session="116" relation="unknown" number="1168"/>
+    <bill type="h" session="116" relation="unknown" number="4965"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

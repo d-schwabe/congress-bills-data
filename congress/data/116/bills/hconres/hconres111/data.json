@@ -1,0 +1,97 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-08-21", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-08-21", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hconres111-116", 
+  "bill_type": "hconres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "R000606", 
+      "district": "8", 
+      "name": "Raskin, Jamie", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2020-12-28", 
+      "state": "MD", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-08-21", 
+  "number": "111", 
+  "official_title": "To establish defiance of a congressional subpoena for testimony or documents by the President as an impeachable high crimes and misdemeanor within the meaning of Article II, Section 4 of the United States Constitution.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "L000557", 
+    "district": "1", 
+    "name": "Larson, John B.", 
+    "state": "CT", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-08-21", 
+  "subjects": [
+    "Congress", 
+    "Congressional oversight", 
+    "Evidence and witnesses", 
+    "Government ethics and transparency, public corruption", 
+    "Presidents and presidential powers, Vice Presidents"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish defiance of a congressional subpoena for testimony or documents by the President as an impeachable high crimes and misdemeanor within the meaning of Article II, Section 4 of the United States Constitution.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To establish defiance of a congressional subpoena for testimony or documents by the President as an impeachable high crimes and misdemeanor within the meaning of Article II, Section 4 of the United States Constitution.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2020-12-29T08:15:19Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hconres/BILLSTATUS-116hconres111.xml"
+}

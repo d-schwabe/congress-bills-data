@@ -1,0 +1,40 @@
+<bill session="116" type="s" number="4225" updated="2020-12-10T16:19:56Z">
+  <state datetime="2020-07-20">REFERRED</state>
+  <status>
+    <introduced datetime="2020-07-20"/>
+  </status>
+  <introduced datetime="2020-07-20"/>
+  <titles>
+    <title type="display">Safeguarding Therapeutics Act of 2020</title>
+    <title type="short" as="introduced">Safeguarding Therapeutics Act of 2020</title>
+    <title type="official" as="introduced">A bill to establish authority to destroy counterfeit devices offered for import, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="E000285"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001261" joined="2020-11-17"/>
+    <cosponsor bioguide_id="H001076" joined="2020-07-20"/>
+    <cosponsor bioguide_id="S001217" joined="2020-10-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-07-20">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2020-07-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="116" relation="unknown" number="5663"/>
+    <bill type="h" session="116" relation="unknown" number="6379"/>
+    <bill type="h" session="116" relation="unknown" number="6800"/>
+    <bill type="h" session="116" relation="unknown" number="14"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

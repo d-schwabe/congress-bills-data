@@ -1,0 +1,43 @@
+<bill session="116" type="s" number="4491" updated="2020-10-07T18:15:11Z">
+  <state datetime="2020-08-06">REFERRED</state>
+  <status>
+    <introduced datetime="2020-08-06"/>
+  </status>
+  <introduced datetime="2020-08-06"/>
+  <titles>
+    <title type="short" as="introduced">Methamphetamine Response Act of 2020</title>
+    <title type="short" as="introduced">Methamphetamine Response Act of 2020</title>
+    <title type="display">Methamphetamine Response Act of 2020</title>
+    <title type="official" as="introduced">A bill to designate methamphetamine as an emerging threat, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="F000062"/>
+  <cosponsors>
+    <cosponsor bioguide_id="G000386" joined="2020-08-06"/>
+    <cosponsor bioguide_id="P000612" joined="2020-08-13"/>
+    <cosponsor bioguide_id="T000464" joined="2020-08-13"/>
+    <cosponsor bioguide_id="T000476" joined="2020-09-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-08-06">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2020-08-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S5284" label="Sponsor introductory remarks on measure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="116" relation="unknown" number="4612"/>
+    <bill type="h" session="116" relation="unknown" number="8210"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Drug, alcohol, tobacco use"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

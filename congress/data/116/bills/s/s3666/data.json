@@ -1,0 +1,116 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-05-07", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-05-07", 
+      "action_code": "", 
+      "committees": [
+        "SLIA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Indian Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s3666-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Indian Affairs", 
+      "committee_id": "SLIA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-05-07", 
+  "number": "3666", 
+  "official_title": "A bill to fund grants for the immediate deployment of temporary wireless broadband service on Tribal lands and Hawaiian Home Lands, to provide emergency special temporary authority to use electromagnetic spectrum for the provision of wireless broadband service on Tribal lands and Hawaiian Home Lands, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr6819-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr8200-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "COVID\u201319 Designation of Immediate Special Authority of Spectrum for Tribes\u2019 Emergency Response in Indian Country Act", 
+  "sponsor": {
+    "bioguide_id": "H001046", 
+    "district": null, 
+    "name": "Heinrich, Martin", 
+    "state": "NM", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-05-07", 
+  "subjects": [
+    "Alaska Natives and Hawaiians", 
+    "Appropriations", 
+    "Hawaii", 
+    "Housing and community development funding", 
+    "Indian lands and resources rights", 
+    "Internet and video services", 
+    "Minority and disadvantaged businesses", 
+    "Native Americans", 
+    "Radio spectrum allocation", 
+    "Telephone and wireless communication"
+  ], 
+  "subjects_top_term": "Native Americans", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "COVID\u201319 DISASTER in Indian Country Act", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "COVID\u201319 Designation of Immediate Special Authority of Spectrum for Tribes\u2019 Emergency Response in Indian Country Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "COVID\u201319 DISASTER in Indian Country Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to fund grants for the immediate deployment of temporary wireless broadband service on Tribal lands and Hawaiian Home Lands, to provide emergency special temporary authority to use electromagnetic spectrum for the provision of wireless broadband service on Tribal lands and Hawaiian Home Lands, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-12-28T23:01:46Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s3666.xml"
+}

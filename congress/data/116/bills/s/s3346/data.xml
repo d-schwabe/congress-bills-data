@@ -1,0 +1,43 @@
+<bill session="116" type="s" number="3346" updated="2020-12-28T14:41:26Z">
+  <state datetime="2020-02-27">REFERRED</state>
+  <status>
+    <introduced datetime="2020-02-27"/>
+  </status>
+  <introduced datetime="2020-02-27"/>
+  <titles>
+    <title type="display">Prevent BLEEDing Act of 2020</title>
+    <title type="short" as="introduced">Prevent BLEEDing Act of 2020</title>
+    <title type="short" as="introduced">Prevent Blood Loss with Emergency Equipment Devices Act of 2020</title>
+    <title type="official" as="introduced">A bill to amend the Homeland Security Act of 2002 to authorize the use of Homeland Security Grant Program funds for anti-blood loss purposes, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="M000639"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001236" joined="2020-02-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-02-27">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2020-02-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="116" relation="unknown" number="2550"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Blood and blood diseases"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="First responders and emergency personnel"/>
+    <term name="Health technology, devices, supplies"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

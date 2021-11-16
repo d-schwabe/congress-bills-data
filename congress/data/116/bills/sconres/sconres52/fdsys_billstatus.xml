@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>52</billNumber>
+    <createDate>2020-12-15T11:24:32Z</createDate>
+    <updateDate>2020-12-28T14:39:01Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>SCONRES</billType>
+    <introducedDate>2020-12-14</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees />
+    </committees>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>Crisis Stabilization and Community Reentry Act of 2020</latestTitle>
+        <congress>116</congress>
+        <number>3312</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2020-12-21</actionDate>
+          <text>Presented to President.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2020-12-20</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-12-18</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate agreed to the House amendment to S.Con.Res. 52 by Unanimous Consent. (consideration: CR S7828)</text>
+        <type>ResolvingDifferences</type>
+      </item>
+      <item>
+        <actionDate>2020-12-18</actionDate>
+        <links />
+        <text>Resolving differences -- Senate actions: Senate agreed to the House amendment to S.Con.Res. 52 by Unanimous Consent.</text>
+        <type>NotUsed</type>
+        <actionCode>20500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-17</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on House action received in Senate and at desk: House amendment to Senate bill.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-12-16</actionDate>
+        <actionTime>15:51:40</actionTime>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-16</actionDate>
+        <actionTime>15:51:30</actionTime>
+        <links />
+        <text>On agreeing to the resolution Agreed to without objection. (text: CR H7216-7217)</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-16</actionDate>
+        <actionTime>15:51:30</actionTime>
+        <links />
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.(text: CR H7216-7217)</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-16</actionDate>
+        <actionTime>15:51:15</actionTime>
+        <links />
+        <text>Considered by unanimous consent. (consideration: CR H7216-7217)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-16</actionDate>
+        <actionTime>15:51:12</actionTime>
+        <links />
+        <text>Ms. Bass asked unanimous consent to take from the Speaker's table and consider.</text>
+        <type>Floor</type>
+        <actionCode>H30200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-15</actionDate>
+        <actionTime>15:41:11</actionTime>
+        <links />
+        <text>Held at the desk.</text>
+        <type>Floor</type>
+        <actionCode>H15000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-15</actionDate>
+        <actionTime>15:03:06</actionTime>
+        <links />
+        <text>Received in the House.</text>
+        <type>Floor</type>
+        <actionCode>H14000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-15</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-12-14</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S7470-7471; text: 12/15/2020 CR S7503-7504)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-12-14</actionDate>
+        <links />
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S7470-7471)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-12-14</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <sentToHouse>2</sentToHouse>
+        <senateAgreedFreeText>1</senateAgreedFreeText>
+        <resolvingDifferencesSenateActions>1</resolvingDifferencesSenateActions>
+        <messageOnHouseAction>1</messageOnHouseAction>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <unanimousConsentRequestToConsider>1</unanimousConsentRequestToConsider>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>8</senate>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>C001056</bioguideId>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <firstName>John</firstName>
+        <middleName />
+        <lastName>Cornyn</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1692</lisID>
+          <bioguideId>C001056</bioguideId>
+          <gpoId>8295</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>B001277</bioguideId>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <firstName>Richard</firstName>
+        <middleName />
+        <lastName>Blumenthal</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <sponsorshipDate>2020-12-14</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <title>A concurrent resolution to correct the enrollment of S. 3312.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A concurrent resolution to correct the enrollment of S. 3312.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A concurrent resolution to correct the enrollment of S. 3312.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>912</number>
+        <description>Amendment to strike all after the resolving clause and insert new text.</description>
+        <purpose />
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <latestAction>
+          <actionDate>2020-12-16</actionDate>
+          <text>On agreeing to the Bass amendment (A001) Agreed to without objection.</text>
+          <actionTime>15:51:25</actionTime>
+        </latestAction>
+        <number>912</number>
+        <description>Amendment to strike all after the resolving clause and insert new text.</description>
+        <purpose />
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <createDate>2020-12-17T08:16:13Z</createDate>
+        <updateDate>2020-12-19T05:28:50Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>B001270</bioguideId>
+            <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+            <firstName>Karen</firstName>
+            <middleName />
+            <lastName>Bass</lastName>
+            <party>D</party>
+            <state>CA</state>
+            <identifiers>
+              <lisID>1996</lisID>
+              <bioguideId>B001270</bioguideId>
+              <gpoId>7838</gpoId>
+            </identifiers>
+            <district>37</district>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2020-12-16T05:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>SCONRES</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>52</number>
+          <title>A concurrent resolution to correct the enrollment of S. 3312.</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>7</count>
+          <actions>
+            <item>
+              <actionDate>2020-12-16</actionDate>
+              <actionTime>15:51:25</actionTime>
+              <links />
+              <text>On agreeing to the Bass amendment (A001) Agreed to without objection.</text>
+              <type>Floor</type>
+              <actionCode>H34111</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2020-12-16</actionDate>
+              <actionTime>15:51:20</actionTime>
+              <links />
+              <text>Amendment (A001) offered by Ms. Bass.</text>
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2020-12-16</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2020-12-16</actionDate>
+              <links />
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2020-12-16</actionDate>
+              <actionTime>15:51:20</actionTime>
+              <links />
+              <text>House amendment offered/reported by: Amendment (A001) offered by Ms. Bass.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2020-12-16</actionDate>
+              <actionTime>15:51:25</actionTime>
+              <links />
+              <text>House amendment agreed to: On agreeing to the Bass amendment (A001) Agreed to without objection.</text>
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2020-12-16</actionDate>
+              <actionTime>15:51:25</actionTime>
+              <links />
+              <text>Amendment agreed to by House: On agreeing to the Bass amendment (A001) Agreed to without objection.</text>
+              <type>NotUsed</type>
+              <actionCode>79000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <agreeingToTheAmendmentResults>1</agreeingToTheAmendmentResults>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <amendmentAgreedToByHouse>1</amendmentAgreedToByHouse>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>6</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Enrolled Bill</type>
+        <date />
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sconres52enr/xml/BILLS-116sconres52enr.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed Amendment House</type>
+        <date>2020-12-16T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sconres52eah/xml/BILLS-116sconres52eah.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in Senate</type>
+        <date>2020-12-14T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sconres52es/xml/BILLS-116sconres52es.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Agreed to Senate</type>
+        <date>2020-12-14T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sconres52ats/xml/BILLS-116sconres52ats.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2020-12-20</actionDate>
+      <text>Message on Senate action sent to the House.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

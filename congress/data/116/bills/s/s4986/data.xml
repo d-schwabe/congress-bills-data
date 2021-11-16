@@ -1,0 +1,51 @@
+<bill session="116" type="s" number="4986" updated="2020-12-29T16:45:22Z">
+  <state datetime="2020-12-09">REFERRED</state>
+  <status>
+    <introduced datetime="2020-12-09"/>
+  </status>
+  <introduced datetime="2020-12-09"/>
+  <titles>
+    <title type="display">Social Security COVID Correction and Equity Act</title>
+    <title type="short" as="introduced">Social Security COVID Correction and Equity Act</title>
+    <title type="official" as="introduced">A bill to prevent an unintended drop in Social Security benefits due to COVID-19 and the application of the National Average Wage Index, and improve Social Security and Supplemental Security Income benefits on an emergency basis.</title>
+  </titles>
+  <sponsor bioguide_id="H001042"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001277" joined="2020-12-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-12-09">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2020-12-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <reference ref="CR S7328" label="Sponsor introductory remarks on measure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="116" relation="unknown" number="6356"/>
+    <bill type="h" session="116" relation="identical" number="7499"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Appropriations"/>
+    <term name="Child health"/>
+    <term name="Disability assistance"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Family relationships"/>
+    <term name="Government trust funds"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Higher education"/>
+    <term name="Hospital care"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Social security and elderly assistance"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="116" type="h" number="6964" updated="2020-12-10T16:19:45Z">
+  <state datetime="2020-05-22">REFERRED</state>
+  <status>
+    <introduced datetime="2020-05-22"/>
+  </status>
+  <introduced datetime="2020-05-22"/>
+  <titles>
+    <title type="official" as="introduced">To establish a lower Missouri River flood prevention program, and for other purposes.</title>
+    <title type="display">To establish a lower Missouri River flood prevention program, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="C001061"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000378" joined="2020-05-22"/>
+    <cosponsor bioguide_id="B001298" joined="2020-05-22"/>
+    <cosponsor bioguide_id="D000629" joined="2020-05-22"/>
+    <cosponsor bioguide_id="S001172" joined="2020-05-22"/>
+    <cosponsor bioguide_id="W000824" joined="2020-05-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-05-22">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2020-05-22" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2020-05-26">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Water Resources and Environment" code="HSPW02" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="116" relation="identical" number="3403"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Floods and storm protection"/>
+    <term name="Iowa"/>
+    <term name="Missouri"/>
+    <term name="Missouri River"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="Water resources funding"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

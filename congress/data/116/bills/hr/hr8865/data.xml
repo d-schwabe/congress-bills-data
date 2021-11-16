@@ -1,0 +1,43 @@
+<bill session="116" type="h" number="8865" updated="2020-12-23T08:14:27Z">
+  <state datetime="2020-12-03">REFERRED</state>
+  <status>
+    <introduced datetime="2020-12-03"/>
+  </status>
+  <introduced datetime="2020-12-03"/>
+  <titles>
+    <title type="display">MORE DOT Grants Act</title>
+    <title type="short" as="introduced">MORE DOT Grants Act</title>
+    <title type="short" as="introduced">More Opportunities for Rural Economies from DOT Grants Act</title>
+    <title type="official" as="introduced">To improve the process for awarding grants under certain programs of the Department of Transportation to certain counties in which the majority of land is owned or managed by the Federal Government and to other units of local government and Tribal governments in those counties, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="S001192"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000369" joined="2020-12-03"/>
+    <cosponsor bioguide_id="C001094" joined="2020-12-03"/>
+    <cosponsor bioguide_id="L000564" joined="2020-12-03"/>
+    <cosponsor bioguide_id="S001148" joined="2020-12-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-12-03">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2020-12-03" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2020-12-04">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Highways and Transit" code="HSPW12" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="116" relation="identical" number="4951"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

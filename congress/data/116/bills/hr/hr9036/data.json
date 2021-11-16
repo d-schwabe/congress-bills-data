@@ -1,0 +1,101 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-12-18", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-12-18", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr9036-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001067", 
+      "district": "9", 
+      "name": "Clarke, Yvette D.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-12-18", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000570", 
+      "district": "3", 
+      "name": "Lujan, Ben Ray", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-12-18", 
+      "state": "NM", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-12-18", 
+  "number": "9036", 
+  "official_title": "To amend title VI of the Public Utility Regulatory Policies Act of 1978 to establish a Federal renewable electricity standard for retail electricity suppliers and a Federal energy efficiency resource standard for retail electricity suppliers and retail natural gas suppliers, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "W000800", 
+    "district": "0", 
+    "name": "Welch, Peter", 
+    "state": "VT", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-12-18", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title VI of the Public Utility Regulatory Policies Act of 1978 to establish a Federal renewable electricity standard for retail electricity suppliers and a Federal energy efficiency resource standard for retail electricity suppliers and retail natural gas suppliers, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend title VI of the Public Utility Regulatory Policies Act of 1978 to establish a Federal renewable electricity standard for retail electricity suppliers and a Federal energy efficiency resource standard for retail electricity suppliers and retail natural gas suppliers, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2020-12-19T08:58:21Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr9036.xml"
+}

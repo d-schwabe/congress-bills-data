@@ -1,0 +1,117 @@
+<bill session="116" type="h" number="7574" updated="2020-12-28T14:40:32Z">
+  <state datetime="2020-09-21T18:00:05-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2020-09-21T18:00:05-04:00"/>
+  </status>
+  <introduced datetime="2020-07-13"/>
+  <titles>
+    <title type="short" as="reported to house">Strengthening America&#8217;s Strategic National Stockpile Act of 2020</title>
+    <title type="short" as="passed house">Strengthening America's Strategic National Stockpile Act of 2020</title>
+    <title type="short" as="introduced">Strengthening America&#8217;s Strategic National Stockpile Act of 2020</title>
+    <title type="display">Strengthening America's Strategic National Stockpile Act of 2020</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act with respect to the Strategic National Stockpile, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="S001208"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001284" joined="2020-07-13"/>
+    <cosponsor bioguide_id="B001248" joined="2020-07-13"/>
+    <cosponsor bioguide_id="B001251" joined="2020-07-13"/>
+    <cosponsor bioguide_id="C001103" joined="2020-07-13"/>
+    <cosponsor bioguide_id="C001123" joined="2020-07-13"/>
+    <cosponsor bioguide_id="D000197" joined="2020-07-13"/>
+    <cosponsor bioguide_id="D000624" joined="2020-07-13"/>
+    <cosponsor bioguide_id="E000215" joined="2020-07-13"/>
+    <cosponsor bioguide_id="F000466" joined="2020-07-30"/>
+    <cosponsor bioguide_id="G000584" joined="2020-07-13"/>
+    <cosponsor bioguide_id="H001067" joined="2020-07-13"/>
+    <cosponsor bioguide_id="L000570" joined="2020-07-27"/>
+    <cosponsor bioguide_id="M001203" joined="2020-07-13"/>
+    <cosponsor bioguide_id="M001180" joined="2020-07-13"/>
+    <cosponsor bioguide_id="N000191" joined="2020-07-13"/>
+    <cosponsor bioguide_id="S001216" joined="2020-07-13"/>
+    <cosponsor bioguide_id="S001200" joined="2020-07-13"/>
+    <cosponsor bioguide_id="U000031" joined="2020-07-13"/>
+    <cosponsor bioguide_id="V000133" joined="2020-07-13"/>
+    <cosponsor bioguide_id="W000813" joined="2020-07-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-07-13">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2020-07-13" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2020-07-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2020-07-15" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2020-09-18">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-518.</text>
+    </action>
+    <calendar datetime="2020-09-18" calendar="Union" number="418">
+      <text>Placed on the Union Calendar, Calendar No. 418.</text>
+    </calendar>
+    <action datetime="2020-09-21T17:52:13-04:00">
+      <text>Mrs. Dingell moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2020-09-21T17:52:33-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4618-4620" label="consideration"/>
+    </action>
+    <action datetime="2020-09-21T17:52:36-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 7574.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2020-09-21T18:00:05-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4618-4620" label="text"/>
+    </vote>
+    <action datetime="2020-09-21T18:00:08-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2020-09-22">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Reporting, Markup, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="116" relation="unknown" number="6517"/>
+    <bill type="h" session="116" relation="unknown" number="6875"/>
+    <bill type="h" session="116" relation="unknown" number="6876"/>
+    <bill type="h" session="116" relation="unknown" number="6877"/>
+    <bill type="h" session="116" relation="unknown" number="6878"/>
+    <bill type="h" session="116" relation="unknown" number="6531"/>
+    <bill type="s" session="116" relation="unknown" number="3827"/>
+    <bill type="h" session="116" relation="unknown" number="7507"/>
+    <bill type="h" session="116" relation="unknown" number="14"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cardiovascular and respiratory health"/>
+    <term name="Congressional oversight"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Immunology and vaccination"/>
+    <term name="Infectious and parasitic diseases"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Manufacturing"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Prescription drugs"/>
+    <term name="Public contracts and procurement"/>
+    <term name="State and local government operations"/>
+    <term name="Strategic materials and reserves"/>
+    <term name="User charges and fees"/>
+    <term name="Worker safety and health"/>
+  </subjects>
+  <amendments/>
+  <committee-reports>
+    <report>H. Rept. 116-518</report>
+  </committee-reports>
+</bill>

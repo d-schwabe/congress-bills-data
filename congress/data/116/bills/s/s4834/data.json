@@ -1,0 +1,104 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-10-21", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-10-21", 
+      "action_code": "", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s4834-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-10-21", 
+  "number": "4834", 
+  "official_title": "A bill to require the use of the voice and vote of the United States in international financial intuitions to advance the cause of transitioning the global economy to a clean energy economy and to prohibit United States Government assistance to countries or entities to support fossil fuel activity, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Sustainable International Financial Institutions Act of 2020", 
+  "sponsor": {
+    "bioguide_id": "M001176", 
+    "district": null, 
+    "name": "Merkley, Jeff", 
+    "state": "OR", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-10-21", 
+  "subjects": [
+    "Air quality", 
+    "Alternative and renewable resources", 
+    "Climate change and greenhouse gases", 
+    "Coal", 
+    "Competitiveness, trade promotion, trade deficits", 
+    "Foreign aid and international relief", 
+    "Foreign loans and debt", 
+    "International affairs", 
+    "International organizations and cooperation", 
+    "Multilateral development programs", 
+    "Oil and gas"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Sustainable International Financial Institutions Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Sustainable International Financial Institutions Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Sustainable International Financial Institutions Act of 2020", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to require the use of the voice and vote of the United States in international financial intuitions to advance the cause of transitioning the global economy to a clean energy economy and to prohibit United States Government assistance to countries or entities to support fossil fuel activity, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-11-11T05:36:36Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s4834.xml"
+}

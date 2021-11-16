@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-06-11", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-06-11", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr7160-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-06-11", 
+  "number": "7160", 
+  "official_title": "To amend the Communications Act of 1934 to promote broadband deployment by increasing participation in broadband support programs.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Expanding Opportunities for Broadband Deployment Act", 
+  "sponsor": {
+    "bioguide_id": "B001251", 
+    "district": "1", 
+    "name": "Butterfield, G. K.", 
+    "state": "NC", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-06-11", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Business records", 
+    "Educational facilities and institutions", 
+    "Educational technology and distance education", 
+    "Federal Communications Commission (FCC)", 
+    "Health facilities and institutions", 
+    "Health technology, devices, supplies", 
+    "Internet and video services", 
+    "Libraries and archives", 
+    "Science, technology, communications", 
+    "Telecommunication rates and fees", 
+    "Telephone and wireless communication"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Expanding Opportunities for Broadband Deployment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Expanding Opportunities for Broadband Deployment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Expanding Opportunities for Broadband Deployment Act", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Communications Act of 1934 to promote broadband deployment by increasing participation in broadband support programs.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-10-05T14:45:12Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr7160.xml"
+}

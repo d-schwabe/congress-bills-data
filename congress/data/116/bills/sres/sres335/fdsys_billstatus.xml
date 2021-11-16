@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>335</billNumber>
+    <createDate>2019-09-26T04:27:29Z</createDate>
+    <updateDate>2020-05-12T04:58:37Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>SRES</billType>
+    <introducedDate>2019-09-25</introducedDate>
+    <congress>116</congress>
+    <recordedVotes>
+      <recordedVote>
+        <rollNumber>306</rollNumber>
+        <url>http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&amp;congress=116&amp;session=1&amp;vote=00306</url>
+        <fullActionName>AGREED TO IN SENATE</fullActionName>
+        <chamber>Senate</chamber>
+        <congress>116</congress>
+        <date>2019-09-25T21:34:04Z</date>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+    </recordedVotes>
+    <committees>
+      <billCommittees />
+    </committees>
+    <committeeReports />
+    <relatedBills />
+    <actions>
+      <item>
+        <actionDate>2019-09-25</actionDate>
+        <committees />
+        <links>
+          <link>
+            <name>Record Vote Number: 306</name>
+            <url>http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=116&amp;session=1&amp;vote=00306</url>
+          </link>
+          <link>
+            <name>S5709</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5709</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment by Yea-Nay Vote. 52 - 42. Record Vote Number: 306. (text: CR S5709)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-09-25</actionDate>
+        <links>
+          <link>
+            <name>Record Vote Number: 306</name>
+            <url>http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=116&amp;session=1&amp;vote=00306</url>
+          </link>
+          <link>
+            <name>S5709</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5709</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Yea-Nay Vote. 52 - 42. Record Vote Number: 306.(text: CR S5709)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-25</actionDate>
+        <committees />
+        <links>
+          <link>
+            <name>S5681</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5681</url>
+          </link>
+          <link>
+            <name>S5694</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S5694</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S5681, S5694)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-09-25</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Submitted in the Senate.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-09-25</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <agreedToInSenate>1</agreedToInSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <introducedInSenate>2</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>5</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>M001197</bioguideId>
+        <fullName>Sen. McSally, Martha [R-AZ]</fullName>
+        <firstName>Martha</firstName>
+        <middleName />
+        <lastName>McSally</lastName>
+        <party>R</party>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>2225</lisID>
+          <bioguideId>M001197</bioguideId>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors />
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Defense spending</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>Military facilities and property</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-09-25</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-11-08T22:40:28Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This resolution instructs Senate conferees on the conference committee for S. 1790 (National Defense Authorization Act for Fiscal Year 2020) to insist upon provisions that make amounts available for replenishment of military construction funds that were used for certain projects along the southern border.</p>]]></text>
+          <updateDate>2019-09-25T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>55</versionCode>
+          <actionDate>2019-09-25</actionDate>
+          <actionDesc>Passed Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-11-14T21:00:25Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This resolution instructs Senate conferees on the conference committee for S. 1790 (National Defense Authorization Act for Fiscal Year 2020) to insist upon provisions that make amounts available for replenishment of military construction funds that were used for certain projects along the southern border.</p>]]></text>
+          <updateDate>2019-09-25T18:27:18Z</updateDate>
+          <name>Passed Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>A resolution instructing the managers on the part of the Senate on the bill S. 1790 (116th Congress) to insist upon the members of the conference to include the provisions contained in section 2906 of the Senate bill (relating to replenishment of certain military construction funds).</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A resolution instructing the managers on the part of the Senate on the bill S. 1790 (116th Congress) to insist upon the members of the conference to include the provisions contained in section 2906 of the Senate bill (relating to replenishment of certain military construction funds).</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A resolution instructing the managers on the part of the Senate on the bill S. 1790 (116th Congress) to insist upon the members of the conference to include the provisions contained in section 2906 of the Senate bill (relating to replenishment of certain military construction funds).</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Agreed to Senate</type>
+        <date>2019-09-25T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres335ats/xml/BILLS-116sres335ats.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2019-09-25</actionDate>
+      <text>Resolution agreed to in Senate without amendment by Yea-Nay Vote. 52 - 42. Record Vote Number: 306. (text: CR S5709)</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

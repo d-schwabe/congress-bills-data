@@ -1,0 +1,147 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-11-14", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-11-14", 
+      "action_code": "", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [
+        {
+          "reference": "CR S6607-6610", 
+          "type": "text"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2870-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001277", 
+      "district": null, 
+      "name": "Blumenthal, Richard", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-11-20", 
+      "state": "CT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001288", 
+      "district": null, 
+      "name": "Booker, Cory A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-11-14", 
+      "state": "NJ", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001075", 
+      "district": null, 
+      "name": "Harris, Kamala D.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-11-14", 
+      "state": "CA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001194", 
+      "district": null, 
+      "name": "Schatz, Brian", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-11-14", 
+      "state": "HI", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-11-14", 
+  "number": "2870", 
+  "official_title": "A bill to limit the use of solitary confinement and other forms of restrictive housing in immigration detention, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Restricting Solitary Confinement in Immigration Detention Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "D000563", 
+    "district": null, 
+    "name": "Durbin, Richard J.", 
+    "state": "IL", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-11-14", 
+  "subjects": [
+    "Border security and unlawful immigration", 
+    "Detention of persons", 
+    "Disability and paralysis", 
+    "Disability assistance", 
+    "Foreign language and bilingual programs", 
+    "HIV/AIDS", 
+    "Immigrant health and welfare", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "Lawyers and legal services", 
+    "Mental health", 
+    "Racial and ethnic relations", 
+    "Religion", 
+    "Sex, gender, sexual orientation discrimination"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Restricting Solitary Confinement in Immigration Detention Act of 2019", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Restricting Solitary Confinement in Immigration Detention Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to limit the use of solitary confinement and other forms of restrictive housing in immigration detention, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-12-28T14:37:47Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s2870.xml"
+}

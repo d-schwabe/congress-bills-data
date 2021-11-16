@@ -1,0 +1,119 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-08-07", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-08-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and Labor.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr7975-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-08-07", 
+  "number": "7975", 
+  "official_title": "To provide support to develop career and technical education programs of study and facilities in the areas of renewable energy.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Grants for Renewable Energy Education for the Nation's Workforce Act", 
+  "sponsor": {
+    "bioguide_id": "M001166", 
+    "district": "9", 
+    "name": "McNerney, Jerry", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-08-07", 
+  "subjects": [
+    "Air quality", 
+    "Alternative and renewable resources", 
+    "Climate change and greenhouse gases", 
+    "Education", 
+    "Education of the disadvantaged", 
+    "Education programs funding", 
+    "Educational facilities and institutions", 
+    "Educational technology and distance education", 
+    "Elementary and secondary education", 
+    "Energy efficiency and conservation", 
+    "Environmental technology", 
+    "Higher education", 
+    "Teaching, teachers, curricula", 
+    "Vocational and technical education"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Grants for Renewable Energy Education for the Nation's Workforce Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Grants for Renewable Energy Education for the Nation\u2019s Workforce Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "GREEN Workforce Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "GREEN Workforce Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "GREEN Workforce Act", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide support to develop career and technical education programs of study and facilities in the areas of renewable energy.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-10-09T14:45:11Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr7975.xml"
+}

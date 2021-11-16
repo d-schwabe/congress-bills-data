@@ -1,0 +1,42 @@
+<bill session="116" type="s" number="3133" updated="2020-12-17T14:09:41Z">
+  <state datetime="2019-12-19">REFERRED</state>
+  <status>
+    <introduced datetime="2019-12-19"/>
+  </status>
+  <introduced datetime="2019-12-19"/>
+  <titles>
+    <title type="display">Conditional Approval Act</title>
+    <title type="short" as="introduced">Conditional Approval Act</title>
+    <title type="official" as="introduced">A bill to amend the Federal Food, Drug, and Cosmetic Act to establish a time-limited conditional approval pathway, subject to specific obligations, for certain drugs, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="B001310"/>
+  <cosponsors>
+    <cosponsor bioguide_id="M001153" joined="2020-01-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2019-12-19">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2019-12-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="116" relation="unknown" number="5497"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Civil actions and liability"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health information and medical records"/>
+    <term name="Licensing and registrations"/>
+    <term name="Marketing and advertising"/>
+    <term name="Medical research"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

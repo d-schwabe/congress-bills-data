@@ -1,0 +1,39 @@
+<bill session="116" type="h" number="7641" updated="2020-11-06T08:14:05Z">
+  <state datetime="2020-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2020-07-16"/>
+  </status>
+  <introduced datetime="2020-07-16"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to apply the mailbox rule to certain payments made through the Electronic Federal Tax Payment System.</title>
+    <title type="display">To amend the Internal Revenue Code of 1986 to apply the mailbox rule to certain payments made through the Electronic Federal Tax Payment System.</title>
+  </titles>
+  <sponsor bioguide_id="L000585"/>
+  <cosponsors>
+    <cosponsor bioguide_id="D000617" joined="2020-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-07-16">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2020-07-16" state="REFERRED">
+      <text>Referred to the Subcommittee on Select Revenue Measures.</text>
+    </action>
+    <action datetime="2020-07-16">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="Select Revenue Measures" code="HSWM05" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Broadcasting, cable, digital technologies"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Time and calendar"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

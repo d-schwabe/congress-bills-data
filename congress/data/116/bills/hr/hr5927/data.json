@@ -1,0 +1,114 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-02-18", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-18", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5927-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-02-18", 
+  "number": "5927", 
+  "official_title": "To direct the Secretary of Health and Human Services to study American dependence on unsafe Chinese pharmaceuticals and to empower the Food and Drug Administration to mandate drug recalls in the case of critical contamination.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5982-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Safe Medicine Act", 
+  "sponsor": {
+    "bioguide_id": "P000599", 
+    "district": "8", 
+    "name": "Posey, Bill", 
+    "state": "FL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-02-18", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Asia", 
+    "China", 
+    "Congressional oversight", 
+    "Drug safety, medical device, and laboratory regulation", 
+    "Government studies and investigations", 
+    "Health", 
+    "Health care costs and insurance", 
+    "Health information and medical records", 
+    "Health technology, devices, supplies", 
+    "Manufacturing", 
+    "Prescription drugs", 
+    "Public contracts and procurement", 
+    "Trade restrictions"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Safe Medicine Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Safe Medicine Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Safe Medicine Act", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Health and Human Services to study American dependence on unsafe Chinese pharmaceuticals and to empower the Food and Drug Administration to mandate drug recalls in the case of critical contamination.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-07-13T18:41:38Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr5927.xml"
+}

@@ -1,0 +1,53 @@
+<bill session="116" type="h" number="7554" updated="2020-09-15T07:15:05Z">
+  <state datetime="2020-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2020-07-09"/>
+  </status>
+  <introduced datetime="2020-07-09"/>
+  <titles>
+    <title type="short" as="introduced">American Farmers, Food Banks, and Families Act of 2020</title>
+    <title type="short" as="introduced">American Farmers, Food Banks, and Families Act of 2020</title>
+    <title type="display">American Farmers, Food Banks, and Families Act of 2020</title>
+    <title type="official" as="introduced">To amend the Department of Agriculture Reorganization Act of 1994 to promote an American agriculture first agenda and establish the position of Domestic Agriculture Supply Chain Administrator in the Office of the Secretary of Agriculture to connect United States farmers with food banks, grocers, and nonprofit food distributors during periods of food scarcity, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="N000189"/>
+  <cosponsors>
+    <cosponsor bioguide_id="P000597" joined="2020-07-13"/>
+    <cosponsor bioguide_id="S001196" joined="2020-07-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-07-09">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2020-07-09">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E619"/>
+    </action>
+    <action datetime="2020-07-09" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2020-09-11">
+      <text>Referred to the Subcommittee on Nutrition, Oversight, and Department Operations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="Nutrition, Oversight, and Department Operations" code="HSAG03" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="116" relation="identical" number="3970"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Agricultural marketing and promotion"/>
+    <term name="Department of Agriculture"/>
+    <term name="Food assistance and relief"/>
+    <term name="Food supply, safety, and labeling"/>
+    <term name="Government information and archives"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Public-private cooperation"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

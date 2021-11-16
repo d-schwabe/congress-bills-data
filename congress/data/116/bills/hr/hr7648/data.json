@@ -1,0 +1,121 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-07-16", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-07-16", 
+      "action_code": "", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Subcommittee on Select Revenue Measures.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2020-07-16", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr7648-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Select Revenue Measures", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-07-16", 
+  "number": "7648", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to allow for contributions to a Taxpayer Fairness Fund, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Taxpayer Fairness Fund Act of 2020", 
+  "sponsor": {
+    "bioguide_id": "M001160", 
+    "district": "4", 
+    "name": "Moore, Gwen", 
+    "state": "WI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-07-16", 
+  "subjects": [
+    "Employment and training programs", 
+    "Government employee pay, benefits, personnel management", 
+    "Government trust funds", 
+    "Tax administration and collection, taxpayers", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2020-07-16T04:00:00Z", 
+    "text": "Taxpayer Fairness Fund Act of 2020\n\nThis bill establishes the Taxpayer Fairness Fund to enhance Internal Revenue Service (IRS) enforcement activities. The fund provides amounts for the hiring, training, and employment of IRS personnel to determine and collect owed taxes from individuals with annual incomes of $500,000 or more and corporations with assets valued at $5 million or more. The fund is financed by voluntary designations of certain taxpayers on their tax returns of $5.00 from overpayment of tax."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Taxpayer Fairness Fund Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Taxpayer Fairness Fund Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Taxpayer Fairness Fund Act of 2020", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to allow for contributions to a Taxpayer Fairness Fund, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-11-06T08:14:06Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr7648.xml"
+}

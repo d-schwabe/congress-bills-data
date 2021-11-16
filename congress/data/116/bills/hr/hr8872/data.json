@@ -1,0 +1,97 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-12-04", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-12-04", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr8872-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "H001064", 
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-12-04", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-12-04", 
+  "number": "8872", 
+  "official_title": "To amend the Federal Home Loan Bank Act to enable captive insurance companies to apply for membership in the Federal Home Loan Bank System, to add additional membership criteria for captive insurance companies, to require a study on Federal Home Loan Bank membership, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Transparency in Federal Home Loan Bank Membership Act of 2020", 
+  "sponsor": {
+    "bioguide_id": "H001074", 
+    "district": "9", 
+    "name": "Hollingsworth, Trey", 
+    "state": "IN", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-12-04", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Transparency in Federal Home Loan Bank Membership Act of 2020", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Transparency in Federal Home Loan Bank Membership Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Federal Home Loan Bank Act to enable captive insurance companies to apply for membership in the Federal Home Loan Bank System, to add additional membership criteria for captive insurance companies, to require a study on Federal Home Loan Bank membership, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-12-21T15:22:33Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr8872.xml"
+}

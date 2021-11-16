@@ -1,0 +1,80 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-12-16", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-12-16", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr8983-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-12-16", 
+  "number": "8983", 
+  "official_title": "To amend the Sarbanes-Oxley Act of 2002 to exclude the audits of privately held, non-custody brokers and dealers that are in good standing from certain requirements under title I of that Act, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "H001072", 
+    "district": "2", 
+    "name": "Hill, J. French", 
+    "state": "AR", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-12-16", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Sarbanes-Oxley Act of 2002 to exclude the audits of privately held, non-custody brokers and dealers that are in good standing from certain requirements under title I of that Act, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend the Sarbanes-Oxley Act of 2002 to exclude the audits of privately held, non-custody brokers and dealers that are in good standing from certain requirements under title I of that Act, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2020-12-17T14:37:53Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr8983.xml"
+}

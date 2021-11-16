@@ -1,0 +1,119 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-11-12", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-11-12", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and Labor.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr8747-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-11-12", 
+  "number": "8747", 
+  "official_title": "To direct the Secretary of Labor to award formula and competitive grants for layoff aversion activities, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Emergency Economic and Workforce System Resiliency Act", 
+  "sponsor": {
+    "bioguide_id": "S000510", 
+    "district": "9", 
+    "name": "Smith, Adam", 
+    "state": "WA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-11-12", 
+  "subjects": [
+    "Adult education and literacy", 
+    "Advisory bodies", 
+    "Business investment and capital", 
+    "Child care and development", 
+    "Community life and organization", 
+    "Congressional oversight", 
+    "Correctional facilities and imprisonment", 
+    "Economic performance and conditions", 
+    "Emergency medical services and trauma care", 
+    "Employee benefits and pensions", 
+    "Employee hiring", 
+    "Employee leave", 
+    "Employment and training programs", 
+    "Executive agency funding and structure", 
+    "Government information and archives", 
+    "Health care costs and insurance", 
+    "Health care coverage and access", 
+    "Higher education", 
+    "Immigrant health and welfare", 
+    "Infectious and parasitic diseases", 
+    "Labor and employment", 
+    "Labor market", 
+    "Labor-management relations", 
+    "Minority employment", 
+    "Performance measurement", 
+    "Poverty and welfare assistance", 
+    "Self-employed", 
+    "Small business", 
+    "State and local government operations", 
+    "Unemployment", 
+    "Wages and earnings", 
+    "Youth employment and child labor"
+  ], 
+  "subjects_top_term": "Labor and employment", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Emergency Economic and Workforce System Resiliency Act", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Emergency Economic and Workforce System Resiliency Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Labor to award formula and competitive grants for layoff aversion activities, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-12-28T17:26:37Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr8747.xml"
+}

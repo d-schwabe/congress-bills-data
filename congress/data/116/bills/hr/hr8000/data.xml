@@ -1,0 +1,36 @@
+<bill session="116" type="h" number="8000" updated="2020-09-30T21:15:12Z">
+  <state datetime="2020-08-11">REFERRED</state>
+  <status>
+    <introduced datetime="2020-08-11"/>
+  </status>
+  <introduced datetime="2020-08-11"/>
+  <titles>
+    <title type="short" as="introduced">Ensuring Network Security Act</title>
+    <title type="short" as="introduced">Ensuring Network Security Act</title>
+    <title type="display">Ensuring Network Security Act</title>
+    <title type="official" as="introduced">To amend the Secure and Trusted Communications Network Reimbursement Program to include eligible telecommunications carriers and providers of educational broadband service, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="B001251"/>
+  <cosponsors>
+    <cosponsor bioguide_id="K000378" joined="2020-08-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-08-11">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2020-08-11" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="116" relation="identical" number="4472"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

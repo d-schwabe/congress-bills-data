@@ -1,0 +1,118 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-06-11", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-06-11", 
+      "action_code": "", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s3951-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "J000300", 
+      "district": null, 
+      "name": "Jones, Doug", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-06-11", 
+      "state": "AL", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-06-11", 
+  "number": "3951", 
+  "official_title": "A bill to amend the Public Health Service Act to provide for the establishment of a virtual health pilot program to facilitate utilization of remote patient monitoring technology to maintain or expand access to health care services for individuals in rural areas during the COVID-19 emergency period, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr7190-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Increasing Rural Health Access During the COVID\u201319 Public Health Emergency Act of 2020", 
+  "sponsor": {
+    "bioguide_id": "M001197", 
+    "district": null, 
+    "name": "McSally, Martha", 
+    "state": "AZ", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-06-11", 
+  "subjects": [
+    "Cardiovascular and respiratory health", 
+    "Congressional oversight", 
+    "Digital media", 
+    "Emergency medical services and trauma care", 
+    "Health", 
+    "Health care coverage and access", 
+    "Health information and medical records", 
+    "Health programs administration and funding", 
+    "Health technology, devices, supplies", 
+    "Infectious and parasitic diseases", 
+    "Medical tests and diagnostic methods", 
+    "Rural conditions and development", 
+    "Telephone and wireless communication"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Increasing Rural Health Access During the COVID\u201319 Public Health Emergency Act of 2020", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Increasing Rural Health Access During the COVID\u201319 Public Health Emergency Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Public Health Service Act to provide for the establishment of a virtual health pilot program to facilitate utilization of remote patient monitoring technology to maintain or expand access to health care services for individuals in rural areas during the COVID-19 emergency period, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-12-28T20:30:45Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s3951.xml"
+}

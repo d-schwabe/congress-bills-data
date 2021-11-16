@@ -1,0 +1,50 @@
+<bill session="116" type="h" number="5971" updated="2020-07-13T18:41:41Z">
+  <state datetime="2020-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2020-02-26"/>
+  </status>
+  <introduced datetime="2020-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Case Backlog and Transparency Act of 2020</title>
+    <title type="short" as="introduced">Case Backlog and Transparency Act of 2020</title>
+    <title type="display">Case Backlog and Transparency Act of 2020</title>
+    <title type="official" as="introduced">To amend the Immigration Services and Infrastructure Improvements Act of 2000 to provide for additional rules regarding processing of immigration applications, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="C001097"/>
+  <cosponsors>
+    <cosponsor bioguide_id="O000168" joined="2020-04-07"/>
+    <cosponsor bioguide_id="R000515" joined="2020-04-07"/>
+    <cosponsor bioguide_id="S001187" joined="2020-02-26"/>
+    <cosponsor bioguide_id="T000479" joined="2020-07-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-02-26">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2020-02-26" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2020-03-10">
+      <text>Referred to the Subcommittee on Immigration and Citizenship.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Immigration and Citizenship" code="HSJU01" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Citizenship and naturalization"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Foreign labor"/>
+    <term name="Government information and archives"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Refugees, asylum, displaced persons"/>
+    <term name="User charges and fees"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

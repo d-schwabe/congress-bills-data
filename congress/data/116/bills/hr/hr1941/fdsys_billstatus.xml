@@ -1,0 +1,3153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1941</billNumber>
+    <createDate>2019-03-29T07:12:11Z</createDate>
+    <updateDate>2020-12-28T14:39:18Z</updateDate>
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <introducedDate>2019-03-28</introducedDate>
+    <congress>116</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 54 (Thursday, March 28, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. CUNNINGHAM:H.R. 1941.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3[Page H2917]</pre>]]></constitutionalAuthorityStatementText>
+    <recordedVotes>
+      <recordedVote>
+        <rollNumber>525</rollNumber>
+        <url>https://clerk.house.gov/evs/2019/roll525.xml</url>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <chamber>House</chamber>
+        <congress>116</congress>
+        <date>2019-09-11T21:37:25Z</date>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+      <recordedVote>
+        <rollNumber>524</rollNumber>
+        <url>https://clerk.house.gov/evs/2019/roll524.xml</url>
+        <fullActionName>Motion to Commit/Recommit With Instructions Results</fullActionName>
+        <chamber>House</chamber>
+        <congress>116</congress>
+        <date>2019-09-11T21:26:46Z</date>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+    </recordedVotes>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-09-12T14:41:29Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsii06</systemCode>
+              <name>Energy and Mineral Resources Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Discharged from</name>
+                  <date>2019-06-19T21:52:51Z</date>
+                </item>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2019-04-02T13:19:46Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-03-28T13:19:37Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2019-07-16T22:31:46Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2019-06-19T21:53:25Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-03-28T13:00:48Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 116-157</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <latestTitle>Providing for consideration of the bill (H.R. 205) to amend the Gulf of Mexico Energy Security Act of 2006 to permanently extend the moratorium on leasing in certain areas of the Gulf of Mexico; providing for consideration of the bill (H.R. 1146) to amend Public Law 115-97 (commonly known as the Tax Cuts and Jobs Act) to repeal the Arctic National Wildlife Refuge oil and gas program, and for other purposes; and providing for consideration of the bill (H.R. 1941) to amend the Outer Continental Shelf Lands Act to prohibit the Secretary of the Interior including in any leasing program certain planning areas, and for other purposes.</latestTitle>
+        <congress>116</congress>
+        <number>548</number>
+        <type>HRES</type>
+        <latestAction>
+          <actionDate>2019-09-10</actionDate>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+          <actionTime>15:24:55</actionTime>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2019-09-12</actionDate>
+        <committees>
+          <item>
+            <systemCode>sseg00</systemCode>
+            <name>Energy and Natural Resources Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>17:37:26</actionTime>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>17:37:25</actionTime>
+        <links />
+        <text>On passage Passed by the Yeas and Nays: 238 - 189 (Roll no. 525).</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>17:37:25</actionTime>
+        <links />
+        <text>Passed/agreed to in House: On passage Passed by the Yeas and Nays: 238 - 189 (Roll no. 525).</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>17:26:46</actionTime>
+        <links />
+        <text>On motion to recommit with instructions Failed by the Yeas and Nays: 194 - 233 (Roll no. 524).</text>
+        <type>Floor</type>
+        <actionCode>H36110</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>17:19:21</actionTime>
+        <links />
+        <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+        <type>Floor</type>
+        <actionCode>H8A000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>17:07:57</actionTime>
+        <links />
+        <text>DEBATE - The House proceeded with 10 minutes of debate on the Graves (LA) motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add a new section to the bill that Section 2 of this Act shall take effect on the date the President certifies that the enactment of this Act will not increase the national average price of gasoline.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>17:07:42</actionTime>
+        <links />
+        <text>Mr. Graves (LA) moved to recommit with instructions to the Committee on Natural Resources. (text: CR H7636)</text>
+        <type>Floor</type>
+        <actionCode>H36100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>17:06:40</actionTime>
+        <links />
+        <text>The previous question was ordered pursuant to the rule.</text>
+        <type>Floor</type>
+        <actionCode>H35000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>17:05:36</actionTime>
+        <links />
+        <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1941.</text>
+        <type>Floor</type>
+        <actionCode>H32600</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>16:48:07</actionTime>
+        <links />
+        <text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text>
+        <type>Floor</type>
+        <actionCode>H32050</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>16:47:14</actionTime>
+        <links />
+        <text>Considered as unfinished business. (consideration: CR H7634-7638)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>14:42:30</actionTime>
+        <links />
+        <text>Committee of the Whole House on the state of the Union rises leaving H.R. 1941 as unfinished business.</text>
+        <type>Floor</type>
+        <actionCode>H32700</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>14:41:31</actionTime>
+        <links />
+        <text>On motion that the Committe rise Agreed to by voice vote.</text>
+        <type>Floor</type>
+        <actionCode>H32341</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>14:41:10</actionTime>
+        <links />
+        <text>Mr. Lowenthal moved that the Committe rise.</text>
+        <type>Floor</type>
+        <actionCode>H32340</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>14:36:36</actionTime>
+        <links />
+        <text>DEBATE - Pursuant to the provisions of H. Res. 548, the Committee of the Whole proceeded with 10 minutes of debate on the Rouda amendment No. 8.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>14:34:48</actionTime>
+        <links />
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Gosar demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>14:26:48</actionTime>
+        <links />
+        <text>DEBATE - Pursuant to the provisions of H. Res. 548, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment No. 7.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>14:14:57</actionTime>
+        <links />
+        <text>DEBATE - Pursuant to the provisions of H. Res. 548, the Committee of the Whole proceeded with 10 minutes of debate on the Levin (MI) amendment No. 6.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>14:09:03</actionTime>
+        <links />
+        <text>DEBATE - Pursuant to the provisions of H. Res. 548, the Committee of the Whole proceeded with 10 minutes of debate on the Rouda amendment No. 5.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>14:01:29</actionTime>
+        <links />
+        <text>DEBATE - Pursuant to the provisions of H. Res. 548, the Committee of the Whole proceeded with 10 minutes of debate on the Langevin amendment No. 4.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>13:55:12</actionTime>
+        <links />
+        <text>DEBATE - Pursuant to the provisions of H.Res. 548, the Committee of the Whole proceeded with 10 minutes of debate on the Lesko amendment No. 3.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>13:54:08</actionTime>
+        <links />
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment, the Chair put the question on the amendment and by voice vote, announced that the noes had prevailed. Mr. Gosar demanded a recorded vote and the Chair postponed further proceedings on agreeing to the amendment until a time to be announced.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>13:47:50</actionTime>
+        <links />
+        <text>DEBATE - Pursuant to the provisions of H.Res. 548, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment No. 2.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>13:38:22</actionTime>
+        <links />
+        <text>DEBATE - Pursuant to the provisions of H.Res. 548, the Committee of the Whole proceeded with 10 minutes of debate on the McClintock amendment No. 1.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>12:24:33</actionTime>
+        <links />
+        <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1941.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>12:24:26</actionTime>
+        <links />
+        <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 548 and Rule XVIII.</text>
+        <type>Floor</type>
+        <actionCode>H32020</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>12:24:26</actionTime>
+        <links />
+        <text>The Speaker designated the Honorable Henry Cuellar to act as Chairman of the Committee.</text>
+        <type>Floor</type>
+        <actionCode>H32400</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>12:24:15</actionTime>
+        <links />
+        <text>Providing for consideration of H.R. 205, H.R. 1146, and H.R. 1941.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-11</actionDate>
+        <actionTime>12:24:10</actionTime>
+        <links />
+        <text>Considered under the provisions of rule H. Res. 548. (consideration: CR H7606-7622; text: CR H7615)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-10</actionDate>
+        <actionTime>15:24:55</actionTime>
+        <links />
+        <text>Rule H. Res. 548 passed House.</text>
+        <type>Floor</type>
+        <actionCode>H1L220</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-09-09</actionDate>
+        <actionTime>19:26:15</actionTime>
+        <links />
+        <text>Rules Committee Resolution H. Res. 548 Reported to House. Providing for consideration of H.R. 205, H.R. 1146, and H.R. 1941.</text>
+        <type>Floor</type>
+        <actionCode>H1L210</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-07-16</actionDate>
+        <links />
+        <text>Placed on the Union Calendar, Calendar No. 117.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-07-16</actionDate>
+        <links />
+        <text>Reported by the Committee on Natural Resources. H. Rept. 116-157.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-07-16</actionDate>
+        <links />
+        <text>Reported by the Committee on Natural Resources. H. Rept. 116-157.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-06-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by the Yeas and Nays: 22 - 12.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-06-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-06-19</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee on Energy and Mineral Resources Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-04-02</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii06</systemCode>
+            <name>Energy and Mineral Resources Subcommittee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-03-28</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii06</systemCode>
+            <name>Energy and Mineral Resources Subcommittee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-03-28</actionDate>
+        <links />
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-03-28</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-03-28</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <motionToCommitRecommitWithInstructionsResults>1</motionToCommitRecommitWithInstructionsResults>
+        <placeholderTextForHA>1</placeholderTextForHA>
+        <generalDebate>13</generalDebate>
+        <motionToCommitRecommitWithInstructionsOffered>1</motionToCommitRecommitWithInstructionsOffered>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <committeeOfTheWholeRisesToReportOnLegislation>1</committeeOfTheWholeRisesToReportOnLegislation>
+        <unfinishedBusinessInCommitteeOfTheWhole>1</unfinishedBusinessInCommitteeOfTheWhole>
+        <considerationByHouse>2</considerationByHouse>
+        <committeeOfTheWholeRisesLeavingAsUnfinishedBusiness>1</committeeOfTheWholeRisesLeavingAsUnfinishedBusiness>
+        <placeholderTextForH>3</placeholderTextForH>
+        <resolvingIntoCommitteeOfTheWholePursuantToRule>1</resolvingIntoCommitteeOfTheWholePursuantToRule>
+        <designationOfChairmanCommitteeOfTheWhole>1</designationOfChairmanCommitteeOfTheWhole>
+        <placeholderTextForHL>1</placeholderTextForHL>
+        <ruleForConsiderationOfBillReportedToHouse>1</ruleForConsiderationOfBillReportedToHouse>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <reportedToHouse>1</reportedToHouse>
+        <orderedToBeReported>1</orderedToBeReported>
+        <committeeConsiderationMarkUp>1</committeeConsiderationMarkUp>
+        <subcommitteeDischarged>1</subcommitteeDischarged>
+        <prayer>1</prayer>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>42</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>C001122</bioguideId>
+        <fullName>Rep. Cunningham, Joe [D-SC-1]</fullName>
+        <firstName>Joe</firstName>
+        <middleName />
+        <lastName>Cunningham</lastName>
+        <party>D</party>
+        <state>SC</state>
+        <identifiers>
+          <lisID>2437</lisID>
+          <bioguideId>C001122</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>1</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>R000607</bioguideId>
+        <fullName>Rep. Rooney, Francis [R-FL-19]</fullName>
+        <firstName>Francis</firstName>
+        <middleName />
+        <lastName>Rooney</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2323</lisID>
+          <bioguideId>R000607</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>19</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>L000579</bioguideId>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <firstName>Alan</firstName>
+        <middleName>S.</middleName>
+        <lastName>Lowenthal</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2111</lisID>
+          <bioguideId>L000579</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>47</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>H001068</bioguideId>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <firstName>Jared</firstName>
+        <middleName />
+        <lastName>Huffman</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2101</lisID>
+          <bioguideId>H001068</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>V000133</bioguideId>
+        <fullName>Rep. Van Drew, Jefferson [D-NJ-2]</fullName>
+        <firstName>Jefferson</firstName>
+        <middleName />
+        <lastName>Van Drew</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <lisID>2419</lisID>
+          <bioguideId>V000133</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>H000324</bioguideId>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <firstName>ALCEE</firstName>
+        <middleName>L.</middleName>
+        <lastName>HASTINGS</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <lisID>511</lisID>
+          <bioguideId>H000324</bioguideId>
+          <gpoId>7895</gpoId>
+        </identifiers>
+        <district>20</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>R000616</bioguideId>
+        <fullName>Rep. Rouda, Harley [D-CA-48]</fullName>
+        <firstName>Harley</firstName>
+        <middleName />
+        <lastName>Rouda</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2382</lisID>
+          <bioguideId>R000616</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>48</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>P000614</bioguideId>
+        <fullName>Rep. Pappas, Chris [D-NH-1]</fullName>
+        <firstName>Chris</firstName>
+        <middleName />
+        <lastName>Pappas</lastName>
+        <party>D</party>
+        <state>NH</state>
+        <identifiers>
+          <lisID>2418</lisID>
+          <bioguideId>P000614</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>G000574</bioguideId>
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <firstName>Ruben</firstName>
+        <middleName />
+        <lastName>Gallego</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>2226</lisID>
+          <bioguideId>G000574</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>V000081</bioguideId>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <firstName>NYDIA</firstName>
+        <middleName>M.</middleName>
+        <lastName>VELAZQUEZ</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <lisID>1184</lisID>
+          <bioguideId>V000081</bioguideId>
+          <gpoId>8073</gpoId>
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>H001087</bioguideId>
+        <fullName>Rep. Hill, Katie [D-CA-25]</fullName>
+        <firstName>Katie</firstName>
+        <middleName />
+        <lastName>Hill</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2379</lisID>
+          <bioguideId>H001087</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>25</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>P000613</bioguideId>
+        <fullName>Rep. Panetta, Jimmy [D-CA-20]</fullName>
+        <firstName>Jimmy</firstName>
+        <middleName />
+        <lastName>Panetta</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2309</lisID>
+          <bioguideId>P000613</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>20</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>O000172</bioguideId>
+        <fullName>Rep. Ocasio-Cortez, Alexandria [D-NY-14]</fullName>
+        <firstName>Alexandria</firstName>
+        <middleName />
+        <lastName>Ocasio-Cortez</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <lisID>2427</lisID>
+          <bioguideId>O000172</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>14</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B001292</bioguideId>
+        <fullName>Rep. Beyer, Donald S., Jr. [D-VA-8]</fullName>
+        <firstName>Donald</firstName>
+        <middleName>S.</middleName>
+        <lastName>Beyer</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <lisID>2272</lisID>
+          <bioguideId>B001292</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>W000797</bioguideId>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <firstName>Debbie</firstName>
+        <middleName />
+        <lastName>Wasserman Schultz</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <lisID>1777</lisID>
+          <bioguideId>W000797</bioguideId>
+          <gpoId>7892</gpoId>
+        </identifiers>
+        <district>23</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>J000298</bioguideId>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <firstName>Pramila</firstName>
+        <middleName />
+        <lastName>Jayapal</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <identifiers>
+          <lisID>2354</lisID>
+          <bioguideId>J000298</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S001206</bioguideId>
+        <fullName>Rep. Shalala, Donna E. [D-FL-27]</fullName>
+        <firstName>Donna</firstName>
+        <middleName>E.</middleName>
+        <lastName>Shalala</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2391</lisID>
+          <bioguideId>S001206</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>27</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>H001080</bioguideId>
+        <fullName>Rep. Haaland, Debra A. [D-NM-1]</fullName>
+        <firstName>Debra</firstName>
+        <middleName>A.</middleName>
+        <lastName>Haaland</lastName>
+        <party>D</party>
+        <state>NM</state>
+        <identifiers>
+          <lisID>2423</lisID>
+          <bioguideId>H001080</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>J000288</bioguideId>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <firstName>Henry</firstName>
+        <middleName>C. "Hank"</middleName>
+        <lastName>Johnson</lastName>
+        <party>D</party>
+        <state>GA</state>
+        <identifiers>
+          <lisID>1843</lisID>
+          <bioguideId>J000288</bioguideId>
+          <gpoId>7901</gpoId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001200</bioguideId>
+        <fullName>Rep. McEachin, A. Donald [D-VA-4]</fullName>
+        <firstName>A.</firstName>
+        <middleName>Donald</middleName>
+        <lastName>McEachin</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <lisID>2352</lisID>
+          <bioguideId>M001200</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001112</bioguideId>
+        <fullName>Rep. Carbajal, Salud O. [D-CA-24]</fullName>
+        <firstName>Salud</firstName>
+        <middleName>O.</middleName>
+        <lastName>Carbajal</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2310</lisID>
+          <bioguideId>C001112</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>24</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>K000394</bioguideId>
+        <fullName>Rep. Kim, Andy [D-NJ-3]</fullName>
+        <firstName>Andy</firstName>
+        <middleName />
+        <lastName>Kim</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <lisID>2420</lisID>
+          <bioguideId>K000394</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>P000597</bioguideId>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <firstName>Chellie</firstName>
+        <middleName />
+        <lastName>Pingree</lastName>
+        <party>D</party>
+        <state>ME</state>
+        <identifiers>
+          <lisID>1927</lisID>
+          <bioguideId>P000597</bioguideId>
+          <gpoId>7984</gpoId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>L000582</bioguideId>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <firstName>Ted</firstName>
+        <middleName />
+        <lastName>Lieu</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2230</lisID>
+          <bioguideId>L000582</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>33</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001055</bioguideId>
+        <fullName>Rep. Case, Ed [D-HI-1]</fullName>
+        <firstName>Ed</firstName>
+        <middleName />
+        <lastName>Case</lastName>
+        <party>D</party>
+        <state>HI</state>
+        <identifiers>
+          <lisID>1693</lisID>
+          <bioguideId>C001055</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S001150</bioguideId>
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+        <firstName>ADAM</firstName>
+        <middleName>B.</middleName>
+        <lastName>SCHIFF</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1635</lisID>
+          <bioguideId>S001150</bioguideId>
+          <gpoId>7834</gpoId>
+        </identifiers>
+        <district>28</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001066</bioguideId>
+        <fullName>Rep. Castor, Kathy [D-FL-14]</fullName>
+        <firstName>Kathy</firstName>
+        <middleName />
+        <lastName>Castor</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <lisID>1839</lisID>
+          <bioguideId>C001066</bioguideId>
+          <gpoId>7883</gpoId>
+        </identifiers>
+        <district>14</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>D000197</bioguideId>
+        <fullName>Rep. DeGette, Diana [D-CO-1]</fullName>
+        <firstName>DIANA</firstName>
+        <middleName />
+        <lastName>DEGETTE</lastName>
+        <party>D</party>
+        <state>CO</state>
+        <identifiers>
+          <lisID>1479</lisID>
+          <bioguideId>D000197</bioguideId>
+          <gpoId>7859</gpoId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>L000593</bioguideId>
+        <fullName>Rep. Levin, Mike [D-CA-49]</fullName>
+        <firstName>Mike</firstName>
+        <middleName />
+        <lastName>Levin</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2383</lisID>
+          <bioguideId>L000593</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>49</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S001200</bioguideId>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <firstName>Darren</firstName>
+        <middleName />
+        <lastName>Soto</lastName>
+        <party>D</party>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2319</lisID>
+          <bioguideId>S001200</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>9</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001124</bioguideId>
+        <fullName>Rep. Cox, TJ [D-CA-21]</fullName>
+        <firstName>TJ</firstName>
+        <middleName />
+        <lastName>Cox</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2378</lisID>
+          <bioguideId>C001124</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>21</district>
+        <sponsorshipDate>2019-03-28</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B000574</bioguideId>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <firstName>EARL</firstName>
+        <middleName />
+        <lastName>BLUMENAUER</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <lisID>99</lisID>
+          <bioguideId>B000574</bioguideId>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>L000591</bioguideId>
+        <fullName>Rep. Luria, Elaine G. [D-VA-2]</fullName>
+        <firstName>Elaine</firstName>
+        <middleName>G.</middleName>
+        <lastName>Luria</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <lisID>2453</lisID>
+          <bioguideId>L000591</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2019-04-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001090</bioguideId>
+        <fullName>Rep. Cartwright, Matt [D-PA-8]</fullName>
+        <firstName>Matt</firstName>
+        <middleName />
+        <lastName>Cartwright</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <lisID>2159</lisID>
+          <bioguideId>C001090</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2019-04-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>R000486</bioguideId>
+        <fullName>Rep. Roybal-Allard, Lucille [D-CA-40]</fullName>
+        <firstName>LUCILLE</firstName>
+        <middleName />
+        <lastName>ROYBAL-ALLARD</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>997</lisID>
+          <bioguideId>R000486</bioguideId>
+          <gpoId>7839</gpoId>
+        </identifiers>
+        <district>40</district>
+        <sponsorshipDate>2019-04-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>P000608</bioguideId>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <firstName>Scott</firstName>
+        <middleName>H.</middleName>
+        <lastName>Peters</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2113</lisID>
+          <bioguideId>P000608</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>52</district>
+        <sponsorshipDate>2019-04-30</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B001278</bioguideId>
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <firstName>Suzanne</firstName>
+        <middleName />
+        <lastName>Bonamici</lastName>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <lisID>2092</lisID>
+          <bioguideId>B001278</bioguideId>
+          <gpoId>8367</gpoId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2019-05-07</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>P000034</bioguideId>
+        <fullName>Rep. Pallone, Frank, Jr. [D-NJ-6]</fullName>
+        <firstName>FRANK</firstName>
+        <middleName />
+        <lastName>PALLONE</lastName>
+        <party>D</party>
+        <state>NJ</state>
+        <identifiers>
+          <lisID>887</lisID>
+          <bioguideId>P000034</bioguideId>
+          <gpoId>8048</gpoId>
+        </identifiers>
+        <district>6</district>
+        <sponsorshipDate>2019-05-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001068</bioguideId>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <firstName>Steve</firstName>
+        <middleName />
+        <lastName>Cohen</lastName>
+        <party>D</party>
+        <state>TN</state>
+        <identifiers>
+          <lisID>1878</lisID>
+          <bioguideId>C001068</bioguideId>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <district>9</district>
+        <sponsorshipDate>2019-05-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>K000389</bioguideId>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <firstName>Ro</firstName>
+        <middleName />
+        <lastName>Khanna</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2308</lisID>
+          <bioguideId>K000389</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>17</district>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001078</bioguideId>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <firstName>Gerald</firstName>
+        <middleName>E.</middleName>
+        <lastName>Connolly</lastName>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <lisID>1959</lisID>
+          <bioguideId>C001078</bioguideId>
+          <gpoId>8202</gpoId>
+        </identifiers>
+        <district>11</district>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>P000523</bioguideId>
+        <fullName>Rep. Price, David E. [D-NC-4]</fullName>
+        <firstName>DAVID</firstName>
+        <middleName>E.</middleName>
+        <lastName>PRICE</lastName>
+        <party>D</party>
+        <state>NC</state>
+        <identifiers>
+          <lisID>930</lisID>
+          <bioguideId>P000523</bioguideId>
+          <gpoId>8027</gpoId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2019-05-22</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>R000602</bioguideId>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <firstName>Kathleen</firstName>
+        <middleName>M.</middleName>
+        <lastName>Rice</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <lisID>2262</lisID>
+          <bioguideId>R000602</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2019-05-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>L000551</bioguideId>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <firstName>BARBARA</firstName>
+        <middleName />
+        <lastName>LEE</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1501</lisID>
+          <bioguideId>L000551</bioguideId>
+          <gpoId>7814</gpoId>
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2019-06-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>E000297</bioguideId>
+        <fullName>Rep. Espaillat, Adriano [D-NY-13]</fullName>
+        <firstName>Adriano</firstName>
+        <middleName />
+        <lastName>Espaillat</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <lisID>2342</lisID>
+          <bioguideId>E000297</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>13</district>
+        <sponsorshipDate>2019-06-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001080</bioguideId>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <firstName>Judy</firstName>
+        <middleName />
+        <lastName>Chu</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1970</lisID>
+          <bioguideId>C001080</bioguideId>
+          <gpoId>7837</gpoId>
+        </identifiers>
+        <district>27</district>
+        <sponsorshipDate>2019-06-10</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>H001047</bioguideId>
+        <fullName>Rep. Himes, James A. [D-CT-4]</fullName>
+        <firstName>James</firstName>
+        <middleName>A.</middleName>
+        <lastName>Himes</lastName>
+        <party>D</party>
+        <state>CT</state>
+        <identifiers>
+          <lisID>1913</lisID>
+          <bioguideId>H001047</bioguideId>
+          <gpoId>7869</gpoId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2019-06-11</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>B001285</bioguideId>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <firstName>Julia</firstName>
+        <middleName />
+        <lastName>Brownley</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2106</lisID>
+          <bioguideId>B001285</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>26</district>
+        <sponsorshipDate>2019-06-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>A000370</bioguideId>
+        <fullName>Rep. Adams, Alma S. [D-NC-12]</fullName>
+        <firstName>Alma</firstName>
+        <middleName>S.</middleName>
+        <lastName>Adams</lastName>
+        <party>D</party>
+        <state>NC</state>
+        <identifiers>
+          <lisID>2201</lisID>
+          <bioguideId>A000370</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>12</district>
+        <sponsorshipDate>2019-06-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>H001090</bioguideId>
+        <fullName>Rep. Harder, Josh [D-CA-10]</fullName>
+        <firstName>Josh</firstName>
+        <middleName />
+        <lastName>Harder</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2377</lisID>
+          <bioguideId>H001090</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>10</district>
+        <sponsorshipDate>2019-06-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S001208</bioguideId>
+        <fullName>Rep. Slotkin, Elissa [D-MI-8]</fullName>
+        <firstName>Elissa</firstName>
+        <middleName />
+        <lastName>Slotkin</lastName>
+        <party>D</party>
+        <state>MI</state>
+        <identifiers>
+          <lisID>2407</lisID>
+          <bioguideId>S001208</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2019-06-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>S001156</bioguideId>
+        <fullName>Rep. Sanchez, Linda T. [D-CA-38]</fullName>
+        <firstName>LINDA</firstName>
+        <middleName>T.</middleName>
+        <lastName>SANCHEZ</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1757</lisID>
+          <bioguideId>S001156</bioguideId>
+          <gpoId>7844</gpoId>
+        </identifiers>
+        <district>38</district>
+        <sponsorshipDate>2019-06-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2019-07-15T15:29:00Z</pubDate>
+        <title>H.R. 1941, Coastal and Marine Economies Protection Act</title>
+        <url>https://www.cbo.gov/publication/55450</url>
+      </item>
+      <item>
+        <pubDate>2019-09-10T20:29:50Z</pubDate>
+        <title>Rules Committee Print 116-31 for H.R. 1941, the Coastal and Marine Economies Protection Act, with the Manager&amp;#039;s Amendment</title>
+        <url>https://www.cbo.gov/publication/55610</url>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Energy</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Atlantic Ocean</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+          <item>
+            <name>Pacific Ocean</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Energy</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-03-28</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-05-13T15:24:47Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Coastal and Marine Economies Protection Act </b></p> <p>This bill prohibits the Department of the Interior from offering any tract for oil and gas leasing or preleasing in the Atlantic Outer Continental Shelf planning area (North Atlantic, Mid-Atlantic, South Atlantic, and the Straits of Florida) or the Pacific Outer Continental Shelf planning area (Washington/Oregon, Northern California, Central California, and Southern California).</p>]]></text>
+          <updateDate>2019-03-28T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+        <item>
+          <versionCode>07</versionCode>
+          <actionDate>2019-07-16</actionDate>
+          <actionDesc>Reported to House</actionDesc>
+          <lastSummaryUpdateDate>2019-08-01T15:22:00Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Coastal and Marine Economies Protection Act </b></p> <p>This bill prohibits the Department of the Interior from offering any tract for oil and gas leasing or preleasing in the Atlantic Outer Continental Shelf planning area (North Atlantic, Mid-Atlantic, South Atlantic, and the Straits of Florida) or the Pacific Outer Continental Shelf planning area (Washington/Oregon, Northern California, Central California, and Southern California).</p>]]></text>
+          <updateDate>2019-07-16T13:18:49Z</updateDate>
+          <name>Reported to House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Coastal and Marine Economies Protection Act</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend the Outer Continental Shelf Lands Act to prohibit the Secretary of the Interior including in any leasing program certain planning areas, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Coastal and Marine Economies Protection Act</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Coastal and Marine Economies Protection Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <parentTitleType />
+        <title>Coastal and Marine Economies Protection Act</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType />
+        <title>Coastal and Marine Economies Protection Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>613</number>
+        <description>An amendment numbered 8 printed in Part F of House Report 116-200 to require the Department of Commerce to complete an economic impact study and assessment of potential damage related to offshore oil drilling, including tourism, commercial fishing, recreational fishing, boating, transportation, and other waterfront-related and coastal-related business.</description>
+        <purpose>An amendment numbered 8 printed in Part F of House Report 116-200 to require the Department of Commerce to complete an economic impact study and assessment of potential damage related to offshore oil drilling, including tourism, commercial fishing, recreational fishing, boating, transportation, and other waterfront-related and coastal-related business.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <latestAction>
+          <actionDate>2019-09-11</actionDate>
+          <text>On agreeing to the Rouda amendment (A008) Agreed to by voice vote.</text>
+          <actionTime>14:40:52</actionTime>
+        </latestAction>
+        <number>613</number>
+        <description>An amendment numbered 8 printed in Part F of House Report 116-200 to require the Department of Commerce to complete an economic impact study and assessment of potential damage related to offshore oil drilling, including tourism, commercial fishing, recreational fishing, boating, transportation, and other waterfront-related and coastal-related business.</description>
+        <purpose>An amendment numbered 8 printed in Part F of House Report 116-200 to require the Department of Commerce to complete an economic impact study and assessment of potential damage related to offshore oil drilling, including tourism, commercial fishing, recreational fishing, boating, transportation, and other waterfront-related and coastal-related business.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <createDate>2019-09-12T07:16:14Z</createDate>
+        <updateDate>2020-12-15T15:28:38Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>R000616</bioguideId>
+            <fullName>Rep. Rouda, Harley [D-CA-48]</fullName>
+            <firstName>Harley</firstName>
+            <middleName />
+            <lastName>Rouda</lastName>
+            <party>D</party>
+            <state>CA</state>
+            <identifiers>
+              <lisID>2382</lisID>
+              <bioguideId>R000616</bioguideId>
+              <gpoId />
+            </identifiers>
+            <district>48</district>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2019-09-11T04:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>1941</number>
+          <title>Coastal and Marine Economies Protection Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links>
+          <link>
+            <name>House Report 116-200</name>
+          </link>
+        </links>
+        <notes />
+        <actions>
+          <count>7</count>
+          <actions>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>14:40:52</actionTime>
+              <links />
+              <text>On agreeing to the Rouda amendment (A008) Agreed to by voice vote.</text>
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>14:36:11</actionTime>
+              <links />
+              <text>Amendment (A008) offered by Mr. Rouda. (consideration: CR H7622; text: CR H7622)</text>
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>14:40:52</actionTime>
+              <links />
+              <text>House amendment agreed to: On agreeing to the Rouda amendment (A008) Agreed to by voice vote.</text>
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>14:40:52</actionTime>
+              <links />
+              <text>Amendment agreed to Committee of the Whole</text>
+              <type>NotUsed</type>
+              <actionCode>76000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>14:36:11</actionTime>
+              <links />
+              <text>House amendment offered/reported by: Amendment (A008) offered by Mr. Rouda.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <links />
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>6</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+      <amendment>
+        <number>612</number>
+        <description>An amendment numbered 7 printed in Part F of House Report 116-200 to allow the bill to go into effect when DOI, in consultation with DOL, certifies that the offshore energy moratorium in the bill will not eliminate a substantial number of minority and women jobs.</description>
+        <purpose>Amendment sought to postpone the bill from going into effect until the DOI, in consultation with DOL, certifies that the offshore energy moratorium in the bill would not eliminate a substantial number of minority and women jobs.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <latestAction>
+          <actionDate>2019-09-11</actionDate>
+          <text>On agreeing to the Gosar amendment (A007) Failed by recorded vote: 179 - 252 (Roll no. 523).</text>
+          <actionTime>17:05:28</actionTime>
+        </latestAction>
+        <number>612</number>
+        <description>An amendment numbered 7 printed in Part F of House Report 116-200 to allow the bill to go into effect when DOI, in consultation with DOL, certifies that the offshore energy moratorium in the bill will not eliminate a substantial number of minority and women jobs.</description>
+        <purpose>Amendment sought to postpone the bill from going into effect until the DOI, in consultation with DOL, certifies that the offshore energy moratorium in the bill would not eliminate a substantial number of minority and women jobs.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <createDate>2019-09-12T07:16:14Z</createDate>
+        <updateDate>2020-12-15T15:28:37Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>G000565</bioguideId>
+            <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+            <firstName>Paul</firstName>
+            <middleName>A.</middleName>
+            <lastName>Gosar</lastName>
+            <party>R</party>
+            <state>AZ</state>
+            <identifiers>
+              <lisID>1992</lisID>
+              <bioguideId>G000565</bioguideId>
+              <gpoId>7798</gpoId>
+            </identifiers>
+            <district>4</district>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2019-09-11T04:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>1941</number>
+          <title>Coastal and Marine Economies Protection Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>8</count>
+          <actions>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>17:05:28</actionTime>
+              <links />
+              <text>On agreeing to the Gosar amendment (A007) Failed by recorded vote: 179 - 252 (Roll no. 523).</text>
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>14:26:12</actionTime>
+              <links />
+              <text>Amendment (A007) offered by Mr. Gosar. (consideration: CR H7621-7622, H7635-7636; text: CR H7621)</text>
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>17:05:28</actionTime>
+              <links />
+              <text>Roll call votes on amendments in House</text>
+              <type>Floor</type>
+              <actionCode>75000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>17:05:28</actionTime>
+              <links />
+              <text>House amendment not agreed to: On agreeing to the Gosar amendment (A007) Failed by recorded vote: 179 - 252 (Roll no. 523).</text>
+              <type>Floor</type>
+              <actionCode>73000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>17:05:28</actionTime>
+              <links />
+              <text>Amendment failed in Committee of the Whole</text>
+              <type>NotUsed</type>
+              <actionCode>77000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>14:26:12</actionTime>
+              <links />
+              <text>House amendment offered/reported by: Amendment (A007) offered by Mr. Gosar.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <links />
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentOffered>1</amendmentOffered>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <houseAmendmentNotAgreedTo>1</houseAmendmentNotAgreedTo>
+            <amendmentFailedInCommitteeOfTheWhole>1</amendmentFailedInCommitteeOfTheWhole>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+      <amendment>
+        <number>611</number>
+        <description>An amendment numbered 6 printed in Part F of House Report 116-200 to establish a moratorium on oil, gas, and methane hydrate-related seismic activities in the Atlantic Ocean.</description>
+        <purpose>An amendment numbered 6 printed in Part F of House Report 116-200 to establish a moratorium on oil, gas, and methane hydrate-related seismic activities in the Atlantic Ocean.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <latestAction>
+          <actionDate>2019-09-11</actionDate>
+          <text>On agreeing to the Levin (MI) amendment (A006) Agreed to by voice vote.</text>
+          <actionTime>14:25:36</actionTime>
+        </latestAction>
+        <number>611</number>
+        <description>An amendment numbered 6 printed in Part F of House Report 116-200 to establish a moratorium on oil, gas, and methane hydrate-related seismic activities in the Atlantic Ocean.</description>
+        <purpose>An amendment numbered 6 printed in Part F of House Report 116-200 to establish a moratorium on oil, gas, and methane hydrate-related seismic activities in the Atlantic Ocean.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <createDate>2019-09-12T07:16:14Z</createDate>
+        <updateDate>2020-12-15T15:28:37Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>L000592</bioguideId>
+            <fullName>Rep. Levin, Andy [D-MI-9]</fullName>
+            <firstName>Andy</firstName>
+            <middleName />
+            <lastName>Levin</lastName>
+            <party>D</party>
+            <state>MI</state>
+            <identifiers>
+              <lisID>2408</lisID>
+              <bioguideId>L000592</bioguideId>
+              <gpoId />
+            </identifiers>
+            <district>9</district>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2019-09-11T04:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>1941</number>
+          <title>Coastal and Marine Economies Protection Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links>
+          <link>
+            <name>House Report 116-200</name>
+          </link>
+        </links>
+        <notes />
+        <actions>
+          <count>7</count>
+          <actions>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>14:25:36</actionTime>
+              <links />
+              <text>On agreeing to the Levin (MI) amendment (A006) Agreed to by voice vote.</text>
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>14:14:40</actionTime>
+              <links />
+              <text>Amendment (A006) offered by Mr. Levin (MI). (consideration: CR H7619-7621; text: CR H7619)</text>
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>14:25:36</actionTime>
+              <links />
+              <text>House amendment agreed to: On agreeing to the Levin (MI) amendment (A006) Agreed to by voice vote.</text>
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>14:14:40</actionTime>
+              <links />
+              <text>House amendment offered/reported by: Amendment (A006) offered by Mr. Levin (MI).</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>14:25:36</actionTime>
+              <links />
+              <text>Amendment agreed to Committee of the Whole</text>
+              <type>NotUsed</type>
+              <actionCode>76000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <links />
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>6</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+      <amendment>
+        <number>610</number>
+        <description>An amendment numbered 5 printed in Part F of House Report 116-200 to direct the Department of the Interior to make the information from the inspections and payments made into the Ocean Energy Safety Fund required by the bill available to the public, including information related to the operators, facilities, amounts paid into the fund, and inspection results.</description>
+        <purpose>An amendment numbered 5 printed in Part F of House Report 116-200 to direct the Department of the Interior to make the information from the inspections and payments made into the Ocean Energy Safety Fund required by the bill available to the public, including information related to the operators, facilities, amounts paid into the fund, and inspection results.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <latestAction>
+          <actionDate>2019-09-11</actionDate>
+          <text>On agreeing to the Rouda amendment (A005) Agreed to by voice vote.</text>
+          <actionTime>14:14:07</actionTime>
+        </latestAction>
+        <number>610</number>
+        <description>An amendment numbered 5 printed in Part F of House Report 116-200 to direct the Department of the Interior to make the information from the inspections and payments made into the Ocean Energy Safety Fund required by the bill available to the public, including information related to the operators, facilities, amounts paid into the fund, and inspection results.</description>
+        <purpose>An amendment numbered 5 printed in Part F of House Report 116-200 to direct the Department of the Interior to make the information from the inspections and payments made into the Ocean Energy Safety Fund required by the bill available to the public, including information related to the operators, facilities, amounts paid into the fund, and inspection results.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <createDate>2019-09-12T07:16:13Z</createDate>
+        <updateDate>2020-12-15T15:28:37Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>R000616</bioguideId>
+            <fullName>Rep. Rouda, Harley [D-CA-48]</fullName>
+            <firstName>Harley</firstName>
+            <middleName />
+            <lastName>Rouda</lastName>
+            <party>D</party>
+            <state>CA</state>
+            <identifiers>
+              <lisID>2382</lisID>
+              <bioguideId>R000616</bioguideId>
+              <gpoId />
+            </identifiers>
+            <district>48</district>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2019-09-11T04:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>1941</number>
+          <title>Coastal and Marine Economies Protection Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links>
+          <link>
+            <name>House Report 116-200</name>
+          </link>
+        </links>
+        <notes />
+        <actions>
+          <count>7</count>
+          <actions>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>14:14:07</actionTime>
+              <links />
+              <text>On agreeing to the Rouda amendment (A005) Agreed to by voice vote.</text>
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>14:08:39</actionTime>
+              <links />
+              <text>Amendment (A005) offered by Mr. Rouda. (consideration: CR H7619; text: CR H7619)</text>
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>14:08:39</actionTime>
+              <links />
+              <text>House amendment offered/reported by: Amendment (A005) offered by Mr. Rouda.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>14:14:07</actionTime>
+              <links />
+              <text>House amendment agreed to: On agreeing to the Rouda amendment (A005) Agreed to by voice vote.</text>
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>14:14:07</actionTime>
+              <links />
+              <text>Amendment agreed to Committee of the Whole</text>
+              <type>NotUsed</type>
+              <actionCode>76000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <links />
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>6</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+      <amendment>
+        <number>609</number>
+        <description>An amendment numbered 4 printed in Part F of House Report 116-200 to require a GAO study on the impacts of offshore drilling on coastal communities and coastal economies.</description>
+        <purpose>An amendment numbered 4 printed in Part F of House Report 116-200 to require a GAO study on the impacts of offshore drilling on coastal communities and coastal economies.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <latestAction>
+          <actionDate>2019-09-11</actionDate>
+          <text>On agreeing to the Langevin amendment Agreed to by voice vote.</text>
+          <actionTime>14:08:03</actionTime>
+        </latestAction>
+        <number>609</number>
+        <description>An amendment numbered 4 printed in Part F of House Report 116-200 to require a GAO study on the impacts of offshore drilling on coastal communities and coastal economies.</description>
+        <purpose>An amendment numbered 4 printed in Part F of House Report 116-200 to require a GAO study on the impacts of offshore drilling on coastal communities and coastal economies.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <createDate>2019-09-12T07:16:13Z</createDate>
+        <updateDate>2020-12-15T15:28:37Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>L000559</bioguideId>
+            <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+            <firstName>JAMES</firstName>
+            <middleName>R.</middleName>
+            <lastName>LANGEVIN</lastName>
+            <party>D</party>
+            <state>RI</state>
+            <identifiers>
+              <lisID>1668</lisID>
+              <bioguideId>L000559</bioguideId>
+              <gpoId>8140</gpoId>
+            </identifiers>
+            <district>2</district>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2019-09-11T04:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>1941</number>
+          <title>Coastal and Marine Economies Protection Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links>
+          <link>
+            <name>House Report 116-200</name>
+          </link>
+        </links>
+        <notes />
+        <actions>
+          <count>7</count>
+          <actions>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>14:08:03</actionTime>
+              <links />
+              <text>On agreeing to the Langevin amendment Agreed to by voice vote.</text>
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>14:01:13</actionTime>
+              <links />
+              <text>Amendment (A004) offered by Mr. Langevin. (consideration: CR H7618-7619; text: CR H7618)</text>
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>14:01:13</actionTime>
+              <links />
+              <text>House amendment offered/reported by: Amendment (A004) offered by Mr. Langevin.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>14:08:03</actionTime>
+              <links />
+              <text>Amendment agreed to Committee of the Whole</text>
+              <type>NotUsed</type>
+              <actionCode>76000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>14:08:03</actionTime>
+              <links />
+              <text>House amendment agreed to: On agreeing to the Langevin amendment Agreed to by voice vote.</text>
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <links />
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>6</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+      <amendment>
+        <number>608</number>
+        <description>An amendment numbered 3 printed in Part F of House Report 116-200 to require the Department of the Interior, in consultation with the Department of Defense, to confirm that this legislation poses no national security risk due to potential increases in dependence on foreign oil.</description>
+        <purpose>An amendment numbered 3 printed in Part F of House Report 116-200 to require the Department of the Interior, in consultation with the Department of Defense, to confirm that this legislation poses no national security risk due to potential increases in dependence on foreign oil.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <latestAction>
+          <actionDate>2019-09-11</actionDate>
+          <text>On agreeing to the Lesko amendment (A003) Agreed to by voice vote.</text>
+          <actionTime>14:00:32</actionTime>
+        </latestAction>
+        <number>608</number>
+        <description>An amendment numbered 3 printed in Part F of House Report 116-200 to require the Department of the Interior, in consultation with the Department of Defense, to confirm that this legislation poses no national security risk due to potential increases in dependence on foreign oil.</description>
+        <purpose>An amendment numbered 3 printed in Part F of House Report 116-200 to require the Department of the Interior, in consultation with the Department of Defense, to confirm that this legislation poses no national security risk due to potential increases in dependence on foreign oil.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <createDate>2019-09-12T07:16:13Z</createDate>
+        <updateDate>2020-12-15T15:28:37Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>L000589</bioguideId>
+            <fullName>Rep. Lesko, Debbie [R-AZ-8]</fullName>
+            <firstName>Debbie</firstName>
+            <middleName />
+            <lastName>Lesko</lastName>
+            <party>R</party>
+            <state>AZ</state>
+            <identifiers>
+              <lisID>2368</lisID>
+              <bioguideId>L000589</bioguideId>
+              <gpoId />
+            </identifiers>
+            <district>8</district>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2019-09-11T04:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>1941</number>
+          <title>Coastal and Marine Economies Protection Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links>
+          <link>
+            <name>House Report 116-200</name>
+          </link>
+        </links>
+        <notes />
+        <actions>
+          <count>7</count>
+          <actions>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>14:00:32</actionTime>
+              <links />
+              <text>On agreeing to the Lesko amendment (A003) Agreed to by voice vote.</text>
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>13:54:52</actionTime>
+              <links />
+              <text>Amendment (A003) offered by Mrs. Lesko. (consideration: CR H7617-7618; text CR H7617)</text>
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>13:54:52</actionTime>
+              <links />
+              <text>House amendment offered/reported by: Amendment (A003) offered by Mrs. Lesko.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>14:00:32</actionTime>
+              <links />
+              <text>Amendment agreed to Committee of the Whole</text>
+              <type>NotUsed</type>
+              <actionCode>76000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>14:00:32</actionTime>
+              <links />
+              <text>House amendment agreed to: On agreeing to the Lesko amendment (A003) Agreed to by voice vote.</text>
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <links />
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>6</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+      <amendment>
+        <number>607</number>
+        <description>An amendment numbered 2 printed in Part F of House Report 116-200 to change the name of the bill to the Russian Energy Reliance and U.S. Poverty Act.</description>
+        <purpose>Amendment sought to change the name of the bill to the Russian Energy Reliance and U.S. Poverty Act.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <latestAction>
+          <actionDate>2019-09-11</actionDate>
+          <text>On agreeing to the Gosar amendment (A002) Failed by recorded vote: 161 - 272 (Roll no. 522).</text>
+          <actionTime>16:56:23</actionTime>
+        </latestAction>
+        <number>607</number>
+        <description>An amendment numbered 2 printed in Part F of House Report 116-200 to change the name of the bill to the Russian Energy Reliance and U.S. Poverty Act.</description>
+        <purpose>Amendment sought to change the name of the bill to the Russian Energy Reliance and U.S. Poverty Act.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <createDate>2019-09-12T07:16:13Z</createDate>
+        <updateDate>2020-12-15T15:28:37Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>G000565</bioguideId>
+            <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+            <firstName>Paul</firstName>
+            <middleName>A.</middleName>
+            <lastName>Gosar</lastName>
+            <party>R</party>
+            <state>AZ</state>
+            <identifiers>
+              <lisID>1992</lisID>
+              <bioguideId>G000565</bioguideId>
+              <gpoId>7798</gpoId>
+            </identifiers>
+            <district>4</district>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2019-09-11T04:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>1941</number>
+          <title>Coastal and Marine Economies Protection Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>8</count>
+          <actions>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>16:56:23</actionTime>
+              <links />
+              <text>On agreeing to the Gosar amendment (A002) Failed by recorded vote: 161 - 272 (Roll no. 522).</text>
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>13:47:24</actionTime>
+              <links />
+              <text>Amendment (A002) offered by Mr. Gosar. (consideration: CR H7616-7617, H7634-7635; text: CR H7616)</text>
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>16:56:23</actionTime>
+              <links />
+              <text>House amendment not agreed to: On agreeing to the Gosar amendment (A002) Failed by recorded vote: 161 - 272 (Roll no. 522).</text>
+              <type>Floor</type>
+              <actionCode>73000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>16:56:23</actionTime>
+              <links />
+              <text>Amendment failed in Committee of the Whole</text>
+              <type>NotUsed</type>
+              <actionCode>77000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>16:56:23</actionTime>
+              <links />
+              <text>Roll call votes on amendments in House</text>
+              <type>Floor</type>
+              <actionCode>75000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>13:47:24</actionTime>
+              <links />
+              <text>House amendment offered/reported by: Amendment (A002) offered by Mr. Gosar.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <links />
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentNotAgreedTo>1</houseAmendmentNotAgreedTo>
+            <amendmentFailedInCommitteeOfTheWhole>1</amendmentFailedInCommitteeOfTheWhole>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+      <amendment>
+        <number>606</number>
+        <description>An amendment numbered 1 printed in Part F of House Report 116-200 to allow (but does not mandate) the Pacific OCS planning area to be included in a future five-year leasing plan under the Outer Continental Shelf Lands Act.</description>
+        <purpose>An amendment numbered 1 printed in Part F of House Report 116-200 to allow (but does not mandate) the Pacific OCS planning area to be included in a future five-year leasing plan under the Outer Continental Shelf Lands Act.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <latestAction>
+          <actionDate>2019-09-11</actionDate>
+          <text>On agreeing to the McClintock amendment (A001) Failed by voice vote.</text>
+          <actionTime>13:47:00</actionTime>
+        </latestAction>
+        <number>606</number>
+        <description>An amendment numbered 1 printed in Part F of House Report 116-200 to allow (but does not mandate) the Pacific OCS planning area to be included in a future five-year leasing plan under the Outer Continental Shelf Lands Act.</description>
+        <purpose>An amendment numbered 1 printed in Part F of House Report 116-200 to allow (but does not mandate) the Pacific OCS planning area to be included in a future five-year leasing plan under the Outer Continental Shelf Lands Act.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <createDate>2019-09-12T07:16:13Z</createDate>
+        <updateDate>2020-12-15T15:28:37Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>M001177</bioguideId>
+            <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+            <firstName>Tom</firstName>
+            <middleName />
+            <lastName>McClintock</lastName>
+            <party>R</party>
+            <state>CA</state>
+            <identifiers>
+              <lisID>1908</lisID>
+              <bioguideId>M001177</bioguideId>
+              <gpoId>7809</gpoId>
+            </identifiers>
+            <district>4</district>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2019-09-11T04:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>1941</number>
+          <title>Coastal and Marine Economies Protection Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links>
+          <link>
+            <name>House Report 116-200</name>
+          </link>
+        </links>
+        <notes />
+        <actions>
+          <count>7</count>
+          <actions>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>13:47:00</actionTime>
+              <links />
+              <text>On agreeing to the McClintock amendment (A001) Failed by voice vote.</text>
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>13:37:56</actionTime>
+              <links />
+              <text>Amendment (A001) offered by Mr. McClintock. (consideration: CR H7615-7616; text: CR H7615)</text>
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>13:37:56</actionTime>
+              <links />
+              <text>House amendment offered/reported by: Amendment (A001) offered by Mr. McClintock.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>13:47:00</actionTime>
+              <links />
+              <text>Amendment failed in Committee of the Whole</text>
+              <type>NotUsed</type>
+              <actionCode>77000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <actionTime>13:47:00</actionTime>
+              <links />
+              <text>House amendment not agreed to: On agreeing to the McClintock amendment (A001) Failed by voice vote.</text>
+              <type>Floor</type>
+              <actionCode>73000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-09-11</actionDate>
+              <links />
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <amendmentFailedInCommitteeOfTheWhole>1</amendmentFailedInCommitteeOfTheWhole>
+            <houseAmendmentNotAgreedTo>1</houseAmendmentNotAgreedTo>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>6</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Referred in Senate</type>
+        <date>2019-09-12T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1941rfs/xml/BILLS-116hr1941rfs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2019-09-11T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1941eh/xml/BILLS-116hr1941eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported in House</type>
+        <date>2019-07-16T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1941rh/xml/BILLS-116hr1941rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-03-28T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr1941ih/xml/BILLS-116hr1941ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2019-09-12</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>U00117</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

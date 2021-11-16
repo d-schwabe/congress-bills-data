@@ -1,0 +1,51 @@
+<bill session="116" type="s" number="3148" updated="2020-03-13T15:45:12Z">
+  <state datetime="2020-01-03">REPORTED</state>
+  <status>
+    <unknown datetime="2020-01-03"/>
+  </status>
+  <introduced datetime="2019-12-19"/>
+  <titles>
+    <title type="short" as="introduced">Stopping Overdoses of Fentanyl Analogues Act</title>
+    <title type="display">Stopping Overdoses of Fentanyl Analogues Act</title>
+    <title type="official" as="introduced">A bill to amend the Controlled Substances Act to list fentanyl-related substances as schedule I controlled substances.</title>
+  </titles>
+  <sponsor bioguide_id="J000293"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000360" joined="2019-12-19"/>
+    <cosponsor bioguide_id="B001243" joined="2019-12-19"/>
+    <cosponsor bioguide_id="B001310" joined="2019-12-19"/>
+    <cosponsor bioguide_id="C001075" joined="2019-12-19"/>
+    <cosponsor bioguide_id="C001095" joined="2019-12-19"/>
+    <cosponsor bioguide_id="E000295" joined="2019-12-19"/>
+    <cosponsor bioguide_id="L000575" joined="2019-12-19"/>
+    <cosponsor bioguide_id="M000355" joined="2019-12-19"/>
+    <cosponsor bioguide_id="T000461" joined="2020-01-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2019-12-19">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2019-12-19">
+      <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+      <reference ref="CR S7212" label="text"/>
+    </action>
+    <calendar datetime="2020-01-03" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="398">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 398.</text>
+    </calendar>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill type="s" session="116" relation="unknown" number="3342"/>
+    <bill type="h" session="116" relation="unknown" number="5771"/>
+    <bill type="s" session="116" relation="unknown" number="2701"/>
+    <bill type="s" session="116" relation="unknown" number="1622"/>
+    <bill type="h" session="116" relation="unknown" number="5421"/>
+    <bill type="h" session="116" relation="unknown" number="2935"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Drug trafficking and controlled substances"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>488</billNumber>
+    <createDate>2020-02-01T05:27:07Z</createDate>
+    <updateDate>2020-12-15T15:54:42Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>SRES</billType>
+    <introducedDate>2020-01-31</introducedDate>
+    <congress>116</congress>
+    <recordedVotes>
+      <recordedVote>
+        <rollNumber>32</rollNumber>
+        <url>http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?&amp;congress=116&amp;session=2&amp;vote=00032</url>
+        <fullActionName>AGREED TO IN SENATE</fullActionName>
+        <chamber>Senate</chamber>
+        <congress>116</congress>
+        <date>2020-02-01T00:56:39Z</date>
+        <sessionNumber>2</sessionNumber>
+      </recordedVote>
+    </recordedVotes>
+    <committees>
+      <billCommittees />
+    </committees>
+    <committeeReports />
+    <relatedBills />
+    <actions>
+      <item>
+        <actionDate>2020-01-31</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment by Yea-Nay Vote. 53 - 47. Record Vote Number: 32. (text: CR S769)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-01-31</actionDate>
+        <links />
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Yea-Nay Vote. 53 - 47. Record Vote Number: 32.(text: CR S769)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-01-31</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate. (consideration: CR S767-769)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2020-01-31</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Submitted in the Senate.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2020-01-31</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <agreedToInSenate>1</agreedToInSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <introducedInSenate>2</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>5</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>M000355</bioguideId>
+        <fullName>Sen. McConnell, Mitch [R-KY]</fullName>
+        <firstName>MITCH</firstName>
+        <middleName />
+        <lastName>MCCONNELL</lastName>
+        <party>R</party>
+        <state>KY</state>
+        <identifiers>
+          <lisID>1395</lisID>
+          <bioguideId>M000355</bioguideId>
+          <gpoId>8254</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors />
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+          <item>
+            <name>Senate</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2020-01-31</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-02-05T19:50:52Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This resolution sets forth the rules governing the final arguments and vote regarding the articles of impeachment against President Trump.</p>]]></text>
+          <updateDate>2020-01-31T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>55</versionCode>
+          <actionDate>2020-01-31</actionDate>
+          <actionDesc>Passed Senate</actionDesc>
+          <lastSummaryUpdateDate>2020-02-06T22:35:39Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This resolution sets forth the rules governing the final arguments and vote regarding the articles of impeachment against President Trump.</p>]]></text>
+          <updateDate>2020-01-31T19:20:08Z</updateDate>
+          <name>Passed Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>A resolution to provide for related procedures concerning the articles of impeachment against Donald John Trump, President of the United States.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A resolution to provide for related procedures concerning the articles of impeachment against Donald John Trump, President of the United States.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A resolution to provide for related procedures concerning the articles of impeachment against Donald John Trump, President of the United States.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>1298</number>
+        <description />
+        <purpose>To help ensure impartial justice by requiring the Chief Justice of the United States to rule on motions to subpoena witnesses and documents and issues of privilege.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <latestAction>
+          <actionDate>2020-01-31</actionDate>
+          <text>Motion to table amendment SA 1298 agreed to in Senate by Yea-Nay Vote. 53 - 47. Record Vote Number: 31.</text>
+        </latestAction>
+        <number>1298</number>
+        <description />
+        <purpose>To help ensure impartial justice by requiring the Chief Justice of the United States to rule on motions to subpoena witnesses and documents and issues of privilege.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <createDate>2020-02-03T13:39:45Z</createDate>
+        <updateDate>2020-12-15T15:54:42Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>V000128</bioguideId>
+            <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+            <firstName>Chris</firstName>
+            <middleName />
+            <lastName>Van Hollen</lastName>
+            <party>D</party>
+            <state>MD</state>
+            <identifiers>
+              <lisID>1729</lisID>
+              <bioguideId>V000128</bioguideId>
+              <gpoId>7983</gpoId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate>2020-01-31T05:00:00Z</proposedDate>
+        <submittedDate>2020-01-31T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>SRES</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>488</number>
+          <title>A resolution to provide for related procedures concerning the articles of impeachment against Donald John Trump, President of the United States.</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2020-01-31</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Motion to table amendment SA 1298 agreed to in Senate by Yea-Nay Vote. 53 - 47. Record Vote Number: 31.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2020-01-31</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 1298 proposed by Senator Van Hollen. (consideration: CR S768-769; text: CR S772) To help ensure impartial justice by requiring the Chief Justice of the United States to rule on motions to subpoena witnesses and documents and issues of privilege.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2020-01-31</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2020-01-31</actionDate>
+              <links />
+              <text>Senate amendment proposed (on the floor): Amendment SA 1298 proposed by Senator Van Hollen.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2020-01-31</actionDate>
+              <links />
+              <text>Roll call votes on amendments in Senate: Motion to table amendment SA 1298 agreed to in Senate by Yea-Nay Vote. 53 - 47. Record Vote Number: 31.</text>
+              <type>Floor</type>
+              <actionCode>97000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2020-01-31</actionDate>
+              <links />
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <motionToTableAgreedTo>1</motionToTableAgreedTo>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <rollCallVotesOnAmendmentsInSenate>1</rollCallVotesOnAmendmentsInSenate>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+      <amendment>
+        <number>1297</number>
+        <description />
+        <purpose>To subpoena John Robert Bolton.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <latestAction>
+          <actionDate>2020-01-31</actionDate>
+          <text>Motion to table amendment SA 1297 agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 30.</text>
+        </latestAction>
+        <number>1297</number>
+        <description />
+        <purpose>To subpoena John Robert Bolton.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <createDate>2020-02-03T13:39:45Z</createDate>
+        <updateDate>2020-12-15T15:54:42Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>S000148</bioguideId>
+            <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+            <firstName>CHARLES</firstName>
+            <middleName>E.</middleName>
+            <lastName>SCHUMER</lastName>
+            <party>D</party>
+            <state>NY</state>
+            <identifiers>
+              <lisID>1036</lisID>
+              <bioguideId>S000148</bioguideId>
+              <gpoId>8279</gpoId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate>2020-01-31T05:00:00Z</proposedDate>
+        <submittedDate>2020-01-31T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>SRES</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>488</number>
+          <title>A resolution to provide for related procedures concerning the articles of impeachment against Donald John Trump, President of the United States.</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2020-01-31</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Motion to table amendment SA 1297 agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 30.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2020-01-31</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 1297 proposed by Senator Schumer. (consideration: CR S768; text: CR S771-772) To subpoena John Robert Bolton.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2020-01-31</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2020-01-31</actionDate>
+              <links />
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2020-01-31</actionDate>
+              <links />
+              <text>Senate amendment proposed (on the floor): Amendment SA 1297 proposed by Senator Schumer.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2020-01-31</actionDate>
+              <links />
+              <text>Roll call votes on amendments in Senate: Motion to table amendment SA 1297 agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 30.</text>
+              <type>Floor</type>
+              <actionCode>97000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <motionToTableAgreedTo>1</motionToTableAgreedTo>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <rollCallVotesOnAmendmentsInSenate>1</rollCallVotesOnAmendmentsInSenate>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+      <amendment>
+        <number>1296</number>
+        <description />
+        <purpose>To subpoena John Robert Bolton.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <latestAction>
+          <actionDate>2020-01-31</actionDate>
+          <text>Motion to table amendment SA 1296 agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 29.</text>
+        </latestAction>
+        <number>1296</number>
+        <description />
+        <purpose>To subpoena John Robert Bolton.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <createDate>2020-02-03T13:30:26Z</createDate>
+        <updateDate>2020-12-15T15:54:42Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>S000148</bioguideId>
+            <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+            <firstName>CHARLES</firstName>
+            <middleName>E.</middleName>
+            <lastName>SCHUMER</lastName>
+            <party>D</party>
+            <state>NY</state>
+            <identifiers>
+              <lisID>1036</lisID>
+              <bioguideId>S000148</bioguideId>
+              <gpoId>8279</gpoId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate>2020-01-31T05:00:00Z</proposedDate>
+        <submittedDate>2020-01-31T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>SRES</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>488</number>
+          <title>A resolution to provide for related procedures concerning the articles of impeachment against Donald John Trump, President of the United States.</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2020-01-31</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Motion to table amendment SA 1296 agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 29.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2020-01-31</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 1296 proposed by Senator Schumer. (consideration: CR S767-768; text: CR S771) To subpoena John Robert Bolton.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2020-01-31</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2020-01-31</actionDate>
+              <links />
+              <text>Senate amendment proposed (on the floor): Amendment SA 1296 proposed by Senator Schumer.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2020-01-31</actionDate>
+              <links />
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2020-01-31</actionDate>
+              <links />
+              <text>Roll call votes on amendments in Senate: Motion to table amendment SA 1296 agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 29.</text>
+              <type>Floor</type>
+              <actionCode>97000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <motionToTableAgreedTo>1</motionToTableAgreedTo>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+            <rollCallVotesOnAmendmentsInSenate>1</rollCallVotesOnAmendmentsInSenate>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+      <amendment>
+        <number>1295</number>
+        <description />
+        <purpose>To subpoena certain relevant witnesses and documents.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <latestAction>
+          <actionDate>2020-01-31</actionDate>
+          <text>Motion to table amendment SA 1295 agreed to in Senate by Yea-Nay Vote. 53 - 47. Record Vote Number: 28.</text>
+        </latestAction>
+        <number>1295</number>
+        <description />
+        <purpose>To subpoena certain relevant witnesses and documents.</purpose>
+        <congress>116</congress>
+        <type>SAMDT</type>
+        <createDate>2020-02-03T13:39:44Z</createDate>
+        <updateDate>2020-12-15T15:54:42Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>S000148</bioguideId>
+            <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+            <firstName>CHARLES</firstName>
+            <middleName>E.</middleName>
+            <lastName>SCHUMER</lastName>
+            <party>D</party>
+            <state>NY</state>
+            <identifiers>
+              <lisID>1036</lisID>
+              <bioguideId>S000148</bioguideId>
+              <gpoId>8279</gpoId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate>2020-01-31T05:00:00Z</proposedDate>
+        <submittedDate>2020-01-31T05:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>SRES</type>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <number>488</number>
+          <title>A resolution to provide for related procedures concerning the articles of impeachment against Donald John Trump, President of the United States.</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2020-01-31</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Motion to table amendment SA 1295 agreed to in Senate by Yea-Nay Vote. 53 - 47. Record Vote Number: 28.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2020-01-31</actionDate>
+              <links />
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 1295 proposed by Senator Schumer. (consideration: CR S767; text: CR S769-771) To subpoena certain relevant witnesses and documents.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2020-01-31</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2020-01-31</actionDate>
+              <links />
+              <text>Senate amendment proposed (on the floor): Amendment SA 1295 proposed by Senator Schumer.</text>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2020-01-31</actionDate>
+              <links />
+              <text>Roll call votes on amendments in Senate: Motion to table amendment SA 1295 agreed to in Senate by Yea-Nay Vote. 53 - 47. Record Vote Number: 28.</text>
+              <type>Floor</type>
+              <actionCode>97000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2020-01-31</actionDate>
+              <links />
+              <text>Senate amendment submitted</text>
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <motionToTableAgreedTo>1</motionToTableAgreedTo>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <rollCallVotesOnAmendmentsInSenate>1</rollCallVotesOnAmendmentsInSenate>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Agreed to Senate</type>
+        <date>2020-01-31T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres488ats/xml/BILLS-116sres488ats.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2020-01-31</actionDate>
+      <text>Resolution agreed to in Senate without amendment by Yea-Nay Vote. 53 - 47. Record Vote Number: 32. (text: CR S769)</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

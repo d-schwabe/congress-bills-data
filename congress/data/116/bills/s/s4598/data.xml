@@ -1,0 +1,44 @@
+<bill session="116" type="s" number="4598" updated="2020-12-08T23:37:18Z">
+  <state datetime="2020-09-16">REFERRED</state>
+  <status>
+    <introduced datetime="2020-09-16"/>
+  </status>
+  <introduced datetime="2020-09-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for assistance for small manufacturers in the defense industrial supply chain on matters relating to cybersecurity.</title>
+    <title type="display">A bill to provide for assistance for small manufacturers in the defense industrial supply chain on matters relating to cybersecurity.</title>
+  </titles>
+  <sponsor bioguide_id="R000608"/>
+  <cosponsors>
+    <cosponsor bioguide_id="Y000064" joined="2020-09-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-09-16">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2020-09-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="116" relation="unknown" number="6395"/>
+    <bill type="h" session="116" relation="unknown" number="7265"/>
+    <bill type="s" session="116" relation="unknown" number="4049"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Congressional oversight"/>
+    <term name="Defense spending"/>
+    <term name="Government information and archives"/>
+    <term name="Manufacturing"/>
+    <term name="Military procurement, research, weapons development"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

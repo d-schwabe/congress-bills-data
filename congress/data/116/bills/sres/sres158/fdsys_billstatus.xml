@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>158</billNumber>
+    <createDate>2019-04-11T04:57:10Z</createDate>
+    <updateDate>2020-03-19T19:15:11Z</updateDate>
+    <originChamber>Senate</originChamber>
+    <billType>SRES</billType>
+    <introducedDate>2019-04-10</introducedDate>
+    <congress>116</congress>
+    <recordedVotes />
+    <committees>
+      <billCommittees />
+    </committees>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>A resolution authorizing the use of the atrium in the Philip A. Hart Senate Office Building for the National Prescription Drug Take Back Day, a semiannual event for the Drug Enforcement Administration.</latestTitle>
+        <congress>116</congress>
+        <number>538</number>
+        <type>SRES</type>
+        <latestAction>
+          <actionDate>2020-03-10</actionDate>
+          <text>Referred to the Committee on Rules and Administration. (text: CR S1674)</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>A resolution authorizing the use of the atrium in the Philip A. Hart Senate Office Building for the National Prescription Drug Take Back Day, a semiannual event for the Drug Enforcement Administration.</latestTitle>
+        <congress>116</congress>
+        <number>359</number>
+        <type>SRES</type>
+        <latestAction>
+          <actionDate>2019-10-16</actionDate>
+          <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S5853; text: CR S5851)</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2019-04-10</actionDate>
+        <committees />
+        <links>
+          <link>
+            <name>S2391</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2391</url>
+          </link>
+          <link>
+            <name>S2392</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2392</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S2392; text: CR S2391)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-04-10</actionDate>
+        <links>
+          <link>
+            <name>S2391</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2391</url>
+          </link>
+          <link>
+            <name>S2392</name>
+            <url>https://www.congress.gov/congressional-record/volume-165/senate-section/page/S2392</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S2392; text: CR S2391)</text>
+        <type>Floor</type>
+        <actionCode>17000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-04-10</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>K000367</bioguideId>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <firstName>Amy</firstName>
+        <middleName />
+        <lastName>Klobuchar</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>B000575</bioguideId>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <firstName>Roy</firstName>
+        <middleName />
+        <lastName>Blunt</lastName>
+        <party>R</party>
+        <state>MO</state>
+        <identifiers>
+          <lisID>1464</lisID>
+          <bioguideId>B000575</bioguideId>
+          <gpoId>8313</gpoId>
+        </identifiers>
+        <sponsorshipDate>2019-04-10</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+          <item>
+            <name>Senate</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-04-10</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-05-06T20:12:46Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This resolution authorizes the use of the atrium in the Philip A. Hart Senate Office Building on April 24, 2019, for the National Prescription Drug Take Back Day, a semiannual event of the Drug Enforcement Administration.</p>]]></text>
+          <updateDate>2019-04-10T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <versionCode>55</versionCode>
+          <actionDate>2019-04-10</actionDate>
+          <actionDesc>Passed Senate</actionDesc>
+          <lastSummaryUpdateDate>2019-05-23T14:29:28Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This resolution authorizes the use of the atrium in the Philip A. Hart Senate Office Building on April 24, 2019, for the National Prescription Drug Take Back Day, a semiannual event of the Drug Enforcement Administration.</p>]]></text>
+          <updateDate>2019-04-10T20:15:48Z</updateDate>
+          <name>Passed Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>A resolution authorizing the use of the atrium in the Philip A. Hart Senate Office Building for the National Prescription Drug Take Back Day, a semiannual event of the Drug Enforcement Administration.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A resolution authorizing the use of the atrium in the Philip A. Hart Senate Office Building for the National Prescription Drug Take Back Day, a semiannual event of the Drug Enforcement Administration.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A resolution authorizing the use of the atrium in the Philip A. Hart Senate Office Building for the National Prescription Drug Take Back Day, a semiannual event of the Drug Enforcement Administration.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Agreed to Senate</type>
+        <date>2019-04-10T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116sres158ats/xml/BILLS-116sres158ats.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2019-04-10</actionDate>
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S2392; text: CR S2391)</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

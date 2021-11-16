@@ -1,0 +1,80 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-12-17", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-12-17", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Reform.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr9022-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-12-17", 
+  "number": "9022", 
+  "official_title": "To amend chapter 22 of title 44, United States Code, to ensure Presidential records are preserved, duly created when non-official electronic messaging accounts are used, and made available to the public and the next administration in a timely fashion to advance national security and accountability, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "Q000023", 
+    "district": "5", 
+    "name": "Quigley, Mike", 
+    "state": "IL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-12-17", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend chapter 22 of title 44, United States Code, to ensure Presidential records are preserved, duly created when non-official electronic messaging accounts are used, and made available to the public and the next administration in a timely fashion to advance national security and accountability, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend chapter 22 of title 44, United States Code, to ensure Presidential records are preserved, duly created when non-official electronic messaging accounts are used, and made available to the public and the next administration in a timely fashion to advance national security and accountability, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2020-12-18T14:31:40Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr9022.xml"
+}

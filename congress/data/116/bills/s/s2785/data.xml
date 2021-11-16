@@ -1,0 +1,43 @@
+<bill session="116" type="s" number="2785" updated="2020-12-28T14:37:58Z">
+  <state datetime="2019-11-05">REFERRED</state>
+  <status>
+    <introduced datetime="2019-11-05"/>
+  </status>
+  <introduced datetime="2019-11-05"/>
+  <titles>
+    <title type="short" as="introduced">Fair Indexing for Health Care Affordability Act</title>
+    <title type="display">Fair Indexing for Health Care Affordability Act</title>
+    <title type="official" as="introduced">A bill to set forth a method of determining maximum out-of-pocket limits and annual updates to premium tax credit eligibility under the Patient Protection and Affordable Care Act.</title>
+  </titles>
+  <sponsor bioguide_id="S001181"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001230" joined="2019-11-05"/>
+    <cosponsor bioguide_id="B001277" joined="2019-11-05"/>
+    <cosponsor bioguide_id="M001169" joined="2019-11-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2019-11-05">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2019-11-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="116" relation="unknown" number="5291"/>
+    <bill type="h" session="116" relation="unknown" number="5889"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Income tax credits"/>
+    <term name="Insurance industry and regulation"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

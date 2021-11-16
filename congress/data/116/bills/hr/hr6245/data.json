@@ -1,0 +1,102 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-03-12", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-03-12", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and Labor.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6245-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-03-12", 
+  "number": "6245", 
+  "official_title": "To prohibit the Secretary of Labor from implementing or enforcing the final rule on joint employer status.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Upholding Worker Protections Act", 
+  "sponsor": {
+    "bioguide_id": "K000379", 
+    "district": "4", 
+    "name": "Kennedy, Joseph P., III", 
+    "state": "MA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-03-12", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Department of Labor", 
+    "Employment and training programs", 
+    "Labor and employment", 
+    "Labor standards"
+  ], 
+  "subjects_top_term": "Labor and employment", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2020-03-12T04:00:00Z", 
+    "text": "Upholding Worker Protections Act\n\nThis bill prohibits the Department of Labor from implementing or enforcing the final rule Joint Employer Status under the Fair Labor Standards Act, published by Labor on January 16, 2020."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Upholding Worker Protections Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Upholding Worker Protections Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Upholding Worker Protections Act", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To prohibit the Secretary of Labor from implementing or enforcing the final rule on joint employer status.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-07-13T18:42:01Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr6245.xml"
+}

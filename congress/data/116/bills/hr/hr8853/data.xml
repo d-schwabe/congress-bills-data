@@ -1,0 +1,36 @@
+<bill session="116" type="h" number="8853" updated="2020-12-18T21:33:02Z">
+  <state datetime="2020-12-03">REFERRED</state>
+  <status>
+    <introduced datetime="2020-12-03"/>
+  </status>
+  <introduced datetime="2020-12-03"/>
+  <titles>
+    <title type="official" as="introduced">To direct the Secretary of Transportation and the Administrator of the Federal Aviation Administration to provide to the appropriate committees of Congress advance notice of certain meeting announcements.</title>
+    <title type="display">To direct the Secretary of Transportation and the Administrator of the Federal Aviation Administration to provide to the appropriate committees of Congress advance notice of certain meeting announcements.</title>
+  </titles>
+  <sponsor bioguide_id="G000577"/>
+  <cosponsors>
+    <cosponsor bioguide_id="L000560" joined="2020-12-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-12-03">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2020-12-03" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2020-12-04">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Aviation" code="HSPW05" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

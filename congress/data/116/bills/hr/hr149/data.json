@@ -1,0 +1,272 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2020-02-27", 
+      "action_code": "", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-28", 
+      "action_code": "", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-28", 
+      "action_code": "", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 25.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2020-12-17", 
+      "action_code": "H12200", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Financial Services. H. Rept. 116-664.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-12-17", 
+      "action_code": "H12410", 
+      "calendar": "Union", 
+      "number": "548", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 548.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr149-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B000574", 
+      "district": "3", 
+      "name": "Blumenauer, Earl", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-09-10", 
+      "state": "OR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001049", 
+      "district": "1", 
+      "name": "Clay, Wm. Lacy", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-03", 
+      "state": "MO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001061", 
+      "district": "5", 
+      "name": "Cleaver, Emanuel", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-03", 
+      "state": "MO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "D000630", 
+      "district": "19", 
+      "name": "Delgado, Antonio", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-09-17", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001064", 
+      "district": "10", 
+      "name": "Heck, Denny", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-03", 
+      "state": "WA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "L000586", 
+      "district": "5", 
+      "name": "Lawson, Al, Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-03", 
+      "state": "FL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000593", 
+      "district": "7", 
+      "name": "Perlmutter, Ed", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-03", 
+      "state": "CO", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001204", 
+      "district": "0", 
+      "name": "San Nicolas, Michael F. Q.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-03", 
+      "state": "GU", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001157", 
+      "district": "13", 
+      "name": "Scott, David", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-03", 
+      "state": "GA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "T000481", 
+      "district": "13", 
+      "name": "Tlaib, Rashida", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-04-03", 
+      "state": "MI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2020-02-27", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-03", 
+  "number": "149", 
+  "official_title": "To authorize funds to prevent housing discrimination through the use of nationwide testing, to increase funds for the Fair Housing Initiatives Program, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Housing Fairness Act of 2020", 
+  "sponsor": {
+    "bioguide_id": "G000553", 
+    "district": "9", 
+    "name": "Green, Al", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2020-02-28", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Department of Housing and Urban Development", 
+    "Disability and health-based discrimination", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Housing and community development", 
+    "Housing and community development funding", 
+    "Housing discrimination", 
+    "Housing finance and home ownership", 
+    "Military personnel and dependents", 
+    "Racial and ethnic relations", 
+    "Religion", 
+    "Sex, gender, sexual orientation discrimination", 
+    "Veterans' loans, housing, homeless programs"
+  ], 
+  "subjects_top_term": "Housing and community development", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-01-03T05:00:00Z", 
+    "text": "Veterans, Women, Families with Children, Race, and Persons with Disabilities Housing Fairness Act of 2019 or the Housing Fairness Act of 2019\n\nThis bill provides for testing to detect housing discrimination and awards grants to study the causes and effects of such discrimination.\n\nSpecifically, the Department of Housing and Urban Development (HUD) must conduct a nationwide testing program to (1) detect and document differences in the treatment of prospective renters, homebuyers, or mortgage borrowers; (2) measure patterns of adverse treatment because of the race, color, religion, sex, familial status, disability status, or national origin of a renter, homebuyer, or borrower; and (3) measure the prevalence of such discriminatory practices across housing and mortgage lending markets.\n\nThe bill also increases funding for the fair housing initiative program in FY2020-FY2024.\n\nAdditionally, HUD shall implement a grant program to assist public and private nonprofit organizations in (1) conducting comprehensive studies of the causes and effects of housing discrimination and segregation on education, poverty, and economic development or on veterans and military personnel; and (2) implementing pilot projects that test solutions to help prevent or alleviate housing discrimination and segregation."
+  }, 
+  "titles": [
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Housing Fairness Act of 2020", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Housing Fairness Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veterans, Women, Families with Children, Race, and Persons with Disabilities Housing Fairness Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Housing Fairness Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize funds to prevent housing discrimination through the use of nationwide testing, to increase funds for the Fair Housing Initiatives Program, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-12-18T14:31:33Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr149.xml"
+}

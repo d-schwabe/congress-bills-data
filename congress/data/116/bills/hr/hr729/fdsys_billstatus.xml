@@ -1,0 +1,3240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>729</billNumber>
+    <createDate>2019-01-24T08:10:12Z</createDate>
+    <updateDate>2020-12-29T17:30:20Z</updateDate>
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <introducedDate>2019-01-23</introducedDate>
+    <congress>116</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 14 (Wednesday, January 23, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mr. KILMER:H.R. 729.Congress has the power to enact this legislation pursuantto the following:Article I, section 8 of the United States Constitution.[Page H1172]</pre>]]></constitutionalAuthorityStatementText>
+    <recordedVotes>
+      <recordedVote>
+        <rollNumber>667</rollNumber>
+        <url>https://clerk.house.gov/evs/2019/roll667.xml</url>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <chamber>House</chamber>
+        <congress>116</congress>
+        <date>2019-12-10T22:48:21Z</date>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+    </recordedVotes>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2019-12-12T15:35:42Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hsii24</systemCode>
+              <name>Indigenous Peoples of the United States Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Discharged from</name>
+                  <date>2019-09-25T15:07:37Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-02-08T16:49:46Z</date>
+                </item>
+              </activities>
+            </item>
+            <item>
+              <systemCode>hsii13</systemCode>
+              <name>Water, Oceans, and Wildlife Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Discharged from</name>
+                  <date>2019-09-25T15:07:32Z</date>
+                </item>
+                <item>
+                  <name>Hearings by</name>
+                  <date>2019-07-25T20:11:08Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2019-02-08T16:49:37Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2019-11-13T17:42:44Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2019-09-25T15:10:36Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-23T15:02:15Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 116-283</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <latestTitle>Great Lakes Fishery Research Authorization Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>1023</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-11-08</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 219.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Integrated Coastal and Ocean Observation System Act Amendments of 2019</latestTitle>
+        <congress>116</congress>
+        <number>1314</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-10-11</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 183.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>National Fish Habitat Conservation Through Partnerships Act</latestTitle>
+        <congress>116</congress>
+        <number>1747</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-11-26</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 255.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>District of Columbia Flood Prevention Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>2185</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-12-03</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 261.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Digital Coast Act</latestTitle>
+        <congress>116</congress>
+        <number>2189</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-11-26</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 256.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>National Sea Grant College Program Amendments Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>2405</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-12-05</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 262.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Great Lakes Environmental Sensitivity Index Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>2551</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-05-21</actionDate>
+          <text>Referred to the Subcommittee on Water, Oceans, and Wildlife.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Living Shorelines Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>3115</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-11-26</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 257.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Coastal State Climate Preparedness Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>3541</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-11-15</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 237.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Keep America’s Waterfronts Working Act</latestTitle>
+        <congress>116</congress>
+        <number>3596</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-11-15</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 238.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Chesapeake Bay Oyster Research Act</latestTitle>
+        <congress>116</congress>
+        <number>5366</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-12-09</actionDate>
+          <text>Referred to the House Committee on Natural Resources.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>National Fish Habitat Conservation Act of 2019</latestTitle>
+        <congress>116</congress>
+        <number>754</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2019-03-12</actionDate>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>National Sea Grant College Program Amendments Act of 2020</latestTitle>
+        <congress>116</congress>
+        <number>910</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2020-12-18</actionDate>
+          <text>Became Public Law No: 116-221.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Digital Coast Act</latestTitle>
+        <congress>116</congress>
+        <number>1069</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2020-12-18</actionDate>
+          <text>Became Public Law No: 116-223.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Great Lakes Environmental Sensitivity Index Act of 2020</latestTitle>
+        <congress>116</congress>
+        <number>1342</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2020-12-21</actionDate>
+          <text>Presented to President.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Living Shorelines Act of 2020</latestTitle>
+        <congress>116</congress>
+        <number>1730</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2020-12-15</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 631.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Environmental Justice For All Act</latestTitle>
+        <congress>116</congress>
+        <number>5986</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-10-01</actionDate>
+          <text>Committee Hearings Held.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Environmental Justice For All Act</latestTitle>
+        <congress>116</congress>
+        <number>4401</number>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2020-08-03</actionDate>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Coastal and Great Lakes Communities Enhancement Act</latestTitle>
+        <congress>116</congress>
+        <number>729</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2019-12-12</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Providing for consideration of the bill (H.R. 729) to amend the Coastal Zone Management Act of 1972 to authorize grants to Indian Tribes to further achievement of Tribal coastal zone objectives, and for other purposes.</latestTitle>
+        <congress>116</congress>
+        <number>748</number>
+        <type>HRES</type>
+        <latestAction>
+          <actionDate>2019-12-10</actionDate>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+          <actionTime>14:19:46</actionTime>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Ocean-Based Climate Solutions Act of 2020</latestTitle>
+        <congress>116</congress>
+        <number>8632</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-11-17</actionDate>
+          <text>Committee Hearings Held.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2019-12-12</actionDate>
+        <committees>
+          <item>
+            <systemCode>sscm00</systemCode>
+            <name>Commerce, Science, and Transportation Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2019-12-11</actionDate>
+        <actionTime>14:23:00</actionTime>
+        <links />
+        <text>Considered as unfinished business. (consideration: CR H10043-10044)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>17:50:40</actionTime>
+        <links />
+        <text>POSTPONED PROCEEDINGS - The Chair put the question on the motion to table the motion to reconsider and by voice vote announced that the ayes had prevailed. Mr. Harris demanded the yeas and nays and the Chair postponed further proceedings on the motion to table the motion to reconsider H.R. 729 until a time to be announced.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>17:50:23</actionTime>
+        <links />
+        <text>Ms. McCollum moved to table the motion to reconsider</text>
+        <type>ResolvingDifferences</type>
+        <actionCode>H82000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>17:50:00</actionTime>
+        <links />
+        <text>Mr. Himes moved to reconsider the vote.</text>
+        <type>Floor</type>
+        <actionCode>H38300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>17:48:23</actionTime>
+        <links />
+        <text>Motion to reconsider laid on the table. Objection was heard.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>17:48:21</actionTime>
+        <links />
+        <text>On passage Passed by the Yeas and Nays: 262 - 151 (Roll no. 667).</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>17:48:21</actionTime>
+        <links />
+        <text>Passed/agreed to in House: On passage Passed by the Yeas and Nays: 262 - 151 (Roll no. 667).</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>17:41:29</actionTime>
+        <links />
+        <text>The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.</text>
+        <type>Floor</type>
+        <actionCode>H34400</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>17:41:05</actionTime>
+        <links />
+        <text>The previous question was ordered pursuant to the rule.</text>
+        <type>Floor</type>
+        <actionCode>H35000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>17:40:00</actionTime>
+        <links />
+        <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 729.</text>
+        <type>Floor</type>
+        <actionCode>H32600</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>16:44:21</actionTime>
+        <links />
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Johnson (LA) amendment No. 29, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Johnson (LA) demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>16:33:51</actionTime>
+        <links />
+        <text>DEBATE - Pursuant to the provisions of H. Res. 748, the Committee of the Whole proceeded with 10 minutes of debate on the Johnson (LA) amendment No. 29.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>16:32:34</actionTime>
+        <links />
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Luria amendment No. 26, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Budd demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>16:27:03</actionTime>
+        <links />
+        <text>DEBATE - Pursuant to the provisions of H. Res. 748, the Committee of the Whole proceeded with 10 minutes of debate on the Luria amendment No. 26.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>16:26:19</actionTime>
+        <links />
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Mucarsel-Powell amendment No. 23, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Budd demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>16:22:45</actionTime>
+        <links />
+        <text>DEBATE - Pursuant to the provisions of H. Res. 748, the Committee of the Whole proceeded with 10 minutes of debate on the Mucarsel-Powell amendment No. 23.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>16:21:48</actionTime>
+        <links />
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Panetta amendment No. 14, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Budd demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>16:19:52</actionTime>
+        <links />
+        <text>DEBATE - Pursuant to the provisions of H. Res. 748, the Committee of the Whole proceeded with 10 minutes of debate on the Panetta amendment No. 14.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>16:18:29</actionTime>
+        <links />
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Crist amendment No. 12, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Gosar demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>16:14:21</actionTime>
+        <links />
+        <text>DEBATE - Pursuant to the provisions of H. Res. 748, the Committee of the Whole proceeded with 10 minutes of debate on the Crist amendment No. 12.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>16:09:47</actionTime>
+        <links />
+        <text>DEBATE - Pursuant to the provisions of H. Res. 748, the Committee of the Whole proceeded with 10 minutes of debate on the Katko amendment No. 9.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>16:06:19</actionTime>
+        <links />
+        <text>DEBATE - Pursuant to the provisions of H. Res. 748, the Committee of the Whole proceeded with 10 minutes of debate on the Katko amendment No. 8.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>15:59:39</actionTime>
+        <links />
+        <text>DEBATE - Pursuant to the provisions of H. Res. 748, the Committee of the Whole proceeded with 10 minutes of debate on the Huizenga amendment No. 6.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>15:59:04</actionTime>
+        <links />
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Brown (MD) amendment No. 4, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Gosar demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>15:53:57</actionTime>
+        <links />
+        <text>DEBATE - Pursuant to the provisions of H. Res. 748, the Committee of the Whole proceeded with 10 minutes of debate on the Brown (MD) amendment No. 4.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>15:53:11</actionTime>
+        <links />
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Case amendment en bloc No. 1, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Gosar demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>15:42:47</actionTime>
+        <links />
+        <text>DEBATE - Pursuant to the provisions of H. Res. 748, the Committee of the Whole proceeded with 20 minutes of debate on the Case amendment en bloc No. 1.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>14:30:19</actionTime>
+        <links />
+        <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 729.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>14:30:09</actionTime>
+        <links />
+        <text>The Speaker designated the Honorable Chellie Pingree to act as Chairwoman of the Committee.</text>
+        <type>Floor</type>
+        <actionCode>H32400</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>14:30:08</actionTime>
+        <links />
+        <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 748 and Rule XVIII.</text>
+        <type>Floor</type>
+        <actionCode>H32020</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>14:30:03</actionTime>
+        <links />
+        <text>Rule provides for consideration of H.R. 729 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 116-40 shall be considered as adopted in the House and in the Committee of the Whole and shall be considered as the original bill for the purpose of further amendment under the five-minute rule.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>14:29:58</actionTime>
+        <links />
+        <text>Considered under the provisions of rule H. Res. 748. (consideration: CR H9969-10005; text: CR H9978-9989)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-10</actionDate>
+        <actionTime>14:19:45</actionTime>
+        <links />
+        <text>Rule H. Res. 748 passed House.</text>
+        <type>Floor</type>
+        <actionCode>H1L220</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-12-09</actionDate>
+        <actionTime>18:39:07</actionTime>
+        <links />
+        <text>Rules Committee Resolution H. Res. 748 Reported to House. Rule provides for consideration of H.R. 729 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Specified amendments are in order. An amendment in the nature of a substitute consisting of the text of Rules Committee Print 116-40 shall be considered as adopted in the House and in the Committee of the Whole and shall be considered as the original bill for the purpose of further amendment under the five-minute rule.</text>
+        <type>Floor</type>
+        <actionCode>H1L210</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-11-13</actionDate>
+        <links />
+        <text>Placed on the Union Calendar, Calendar No. 228.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-11-13</actionDate>
+        <links />
+        <text>Reported by the Committee on Natural Resources. H. Rept. 116-283.</text>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-11-13</actionDate>
+        <links />
+        <text>Reported by the Committee on Natural Resources. H. Rept. 116-283.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-09-25</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-09-25</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-09-25</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee for Indigenous Peoples of the United States Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-09-25</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee on Water, Oceans, and Wildlife Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-07-25</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii13</systemCode>
+            <name>Water, Oceans, and Wildlife Subcommittee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-02-08</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii24</systemCode>
+            <name>Indigenous Peoples of the United States Subcommittee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee for Indigenous Peoples of the United States.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-02-08</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsii13</systemCode>
+            <name>Water, Oceans, and Wildlife Subcommittee</name>
+          </item>
+        </committees>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Oceans, and Wildlife.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2019-01-23</actionDate>
+        <links />
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsii00</systemCode>
+            <name>Natural Resources Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-01-23</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-01-23</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <considerationByHouse>2</considerationByHouse>
+        <generalDebate>21</generalDebate>
+        <motionToTableOffered>1</motionToTableOffered>
+        <motionToReconsiderWrappingUpConsideration>1</motionToReconsiderWrappingUpConsideration>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <placeholderTextForH>3</placeholderTextForH>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <committeeOfTheWholeRisesToReportOnLegislation>1</committeeOfTheWholeRisesToReportOnLegislation>
+        <designationOfChairmanCommitteeOfTheWhole>1</designationOfChairmanCommitteeOfTheWhole>
+        <resolvingIntoCommitteeOfTheWholePursuantToRule>1</resolvingIntoCommitteeOfTheWholePursuantToRule>
+        <placeholderTextForHL>1</placeholderTextForHL>
+        <ruleForConsiderationOfBillReportedToHouse>1</ruleForConsiderationOfBillReportedToHouse>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <reportedToHouse>1</reportedToHouse>
+        <orderedToBeReported>1</orderedToBeReported>
+        <committeeConsiderationMarkUp>1</committeeConsiderationMarkUp>
+        <subcommitteeDischarged>2</subcommitteeDischarged>
+        <prayer>1</prayer>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>47</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>K000381</bioguideId>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <firstName>Derek</firstName>
+        <middleName />
+        <lastName>Kilmer</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <identifiers>
+          <lisID>2169</lisID>
+          <bioguideId>K000381</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>6</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>Y000033</bioguideId>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <firstName>DON</firstName>
+        <middleName>E.</middleName>
+        <lastName>YOUNG</lastName>
+        <party>R</party>
+        <state>AK</state>
+        <identifiers>
+          <lisID>1256</lisID>
+          <bioguideId>Y000033</bioguideId>
+          <gpoId>7785</gpoId>
+        </identifiers>
+        <district>0</district>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>G000551</bioguideId>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <firstName>Raul</firstName>
+        <middleName>M.</middleName>
+        <lastName>Grijalva</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>1708</lisID>
+          <bioguideId>G000551</bioguideId>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001053</bioguideId>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <firstName>Tom</firstName>
+        <middleName />
+        <lastName>Cole</lastName>
+        <party>R</party>
+        <state>OK</state>
+        <identifiers>
+          <lisID>1742</lisID>
+          <bioguideId>C001053</bioguideId>
+          <gpoId>8112</gpoId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>H001064</bioguideId>
+        <fullName>Rep. Heck, Denny [D-WA-10]</fullName>
+        <firstName>Denny</firstName>
+        <middleName />
+        <lastName>Heck</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <identifiers>
+          <lisID>2170</lisID>
+          <bioguideId>H001064</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>10</district>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001094</bioguideId>
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <firstName>Paul</firstName>
+        <middleName />
+        <lastName>Cook</lastName>
+        <party>R</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2103</lisID>
+          <bioguideId>C001094</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>8</district>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>G000574</bioguideId>
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <firstName>Ruben</firstName>
+        <middleName />
+        <lastName>Gallego</lastName>
+        <party>D</party>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>2226</lisID>
+          <bioguideId>G000574</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>7</district>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>D000617</bioguideId>
+        <fullName>Rep. DelBene, Suzan K. [D-WA-1]</fullName>
+        <firstName>Suzan</firstName>
+        <middleName>K.</middleName>
+        <lastName>DelBene</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <identifiers>
+          <lisID>2096</lisID>
+          <bioguideId>D000617</bioguideId>
+          <gpoId>8374</gpoId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>P000597</bioguideId>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <firstName>Chellie</firstName>
+        <middleName />
+        <lastName>Pingree</lastName>
+        <party>D</party>
+        <state>ME</state>
+        <identifiers>
+          <lisID>1927</lisID>
+          <bioguideId>P000597</bioguideId>
+          <gpoId>7984</gpoId>
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>H001068</bioguideId>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <firstName>Jared</firstName>
+        <middleName />
+        <lastName>Huffman</lastName>
+        <party>D</party>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2101</lisID>
+          <bioguideId>H001068</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>M001160</bioguideId>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <firstName>Gwen</firstName>
+        <middleName />
+        <lastName>Moore</lastName>
+        <party>D</party>
+        <state>WI</state>
+        <identifiers>
+          <lisID>1811</lisID>
+          <bioguideId>M001160</bioguideId>
+          <gpoId>8217</gpoId>
+        </identifiers>
+        <district>4</district>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>L000570</bioguideId>
+        <fullName>Rep. Lujan, Ben Ray [D-NM-3]</fullName>
+        <firstName>Ben</firstName>
+        <middleName>Ray</middleName>
+        <lastName>Lujan</lastName>
+        <party>D</party>
+        <state>NM</state>
+        <identifiers>
+          <lisID>1939</lisID>
+          <bioguideId>L000570</bioguideId>
+          <gpoId>8058</gpoId>
+        </identifiers>
+        <district>3</district>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>D000624</bioguideId>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <firstName>Debbie</firstName>
+        <middleName />
+        <lastName>Dingell</lastName>
+        <party>D</party>
+        <state>MI</state>
+        <identifiers>
+          <lisID>2251</lisID>
+          <bioguideId>D000624</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>12</district>
+        <sponsorshipDate>2019-01-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>L000560</bioguideId>
+        <fullName>Rep. Larsen, Rick [D-WA-2]</fullName>
+        <firstName>RICK</firstName>
+        <middleName />
+        <lastName>LARSEN</lastName>
+        <party>D</party>
+        <state>WA</state>
+        <identifiers>
+          <lisID>1675</lisID>
+          <bioguideId>L000560</bioguideId>
+          <gpoId>8206</gpoId>
+        </identifiers>
+        <district>2</district>
+        <sponsorshipDate>2019-04-01</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <bioguideId>C001055</bioguideId>
+        <fullName>Rep. Case, Ed [D-HI-1]</fullName>
+        <firstName>Ed</firstName>
+        <middleName />
+        <lastName>Case</lastName>
+        <party>D</party>
+        <state>HI</state>
+        <identifiers>
+          <lisID>1693</lisID>
+          <bioguideId>C001055</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>1</district>
+        <sponsorshipDate>2019-07-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2019-09-30T20:01:35Z</pubDate>
+        <title>H.R. 729, Tribal Coastal Resiliency Act</title>
+        <url>https://www.cbo.gov/publication/55677</url>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Ecology</name>
+          </item>
+          <item>
+            <name>Historical and cultural resources</name>
+          </item>
+          <item>
+            <name>Indian lands and resources rights</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-01-23</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-03-11T22:18:46Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Tribal Coastal Resiliency Act</b></p> <p>This bill authorizes the Department of Commerce to award grants to Indian tribes to further achievement of any of the following tribal coastal zone objectives: </p> <ul> <li>protecting, restoring, or preserving areas in the zone that hold important ecological, cultural, or sacred significance for the tribes, or traditional, historic, and esthetic values essential to the tribes;</li> <li>preparing and implementing a special area management plan and technical planning for important coastal areas; and</li> <li>implementing any coastal or shoreline stabilization measure for the purpose of public safety, public access, or cultural or historical preservation. </li> </ul> <ul> </ul>]]></text>
+          <updateDate>2019-01-23T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+        <item>
+          <versionCode>07</versionCode>
+          <actionDate>2019-11-13</actionDate>
+          <actionDesc>Reported to House</actionDesc>
+          <lastSummaryUpdateDate>2020-02-10T20:12:58Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Tribal Coastal Resiliency Act</b></p> <p>This bill authorizes the Department of Commerce to award grants to Indian tribes to further achievement of any of the following tribal coastal zone objectives: </p> <ul> <li>protecting, restoring, or preserving areas in the zone that hold important ecological, cultural, or sacred significance for the tribes, or traditional, historic, and esthetic values essential to the tribes;</li> <li>preparing and implementing a special area management plan and technical planning for important coastal areas; and</li> <li>implementing any coastal or shoreline stabilization measure for the purpose of public safety, public access, or cultural or historical preservation. </li> </ul> <ul> </ul>]]></text>
+          <updateDate>2019-11-13T15:25:51Z</updateDate>
+          <name>Reported to House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Coastal and Great Lakes Communities Enhancement Act</title>
+    <titles>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Coastal and Great Lakes Communities Enhancement Act</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Coastal and Great Lakes Communities Enhancement Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <parentTitleType />
+        <title>Tribal Coastal Resiliency Act</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend the Coastal Zone Management Act of 1972 to authorize grants to Indian Tribes to further achievement of Tribal coastal zone objectives, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType />
+        <title>Tribal Coastal Resiliency Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments>
+      <amendment>
+        <number>709</number>
+        <description>An amendment numbered 29 printed in House Report 116-330 to amend the Marine Mammal Protection Act of 1972 to limit the scope of the moratorium on taking and importing marine mammals and marine mammal products, and revise the requirements for obtaining an authorization for incidentally taking by harassment marine mammals.</description>
+        <purpose>Amendment sought to amend the Marine Mammal Protection Act of 1972 to limit the scope of the moratorium on taking and importing marine mammals and marine mammal products, and revise the requirements for obtaining an authorization for incidentally taking by harassment marine mammals.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <latestAction>
+          <actionDate>2019-12-10</actionDate>
+          <text>On agreeing to the Johnson (LA) amendment (A010) Failed by recorded vote: 160 - 259 (Roll no. 666).</text>
+          <actionTime>17:39:49</actionTime>
+        </latestAction>
+        <number>709</number>
+        <description>An amendment numbered 29 printed in House Report 116-330 to amend the Marine Mammal Protection Act of 1972 to limit the scope of the moratorium on taking and importing marine mammals and marine mammal products, and revise the requirements for obtaining an authorization for incidentally taking by harassment marine mammals.</description>
+        <purpose>Amendment sought to amend the Marine Mammal Protection Act of 1972 to limit the scope of the moratorium on taking and importing marine mammals and marine mammal products, and revise the requirements for obtaining an authorization for incidentally taking by harassment marine mammals.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <createDate>2019-12-11T08:31:35Z</createDate>
+        <updateDate>2020-12-15T15:28:43Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>J000299</bioguideId>
+            <fullName>Rep. Johnson, Mike [R-LA-4]</fullName>
+            <firstName>Mike</firstName>
+            <middleName />
+            <lastName>Johnson</lastName>
+            <party>R</party>
+            <state>LA</state>
+            <identifiers>
+              <lisID>2330</lisID>
+              <bioguideId>J000299</bioguideId>
+              <gpoId />
+            </identifiers>
+            <district>4</district>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2019-12-10T05:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>729</number>
+          <title>Coastal and Great Lakes Communities Enhancement Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>8</count>
+          <actions>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:39:49</actionTime>
+              <links />
+              <text>On agreeing to the Johnson (LA) amendment (A010) Failed by recorded vote: 160 - 259 (Roll no. 666).</text>
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>16:33:05</actionTime>
+              <links />
+              <text>Amendment (A010) offered by Mr. Johnson (LA). (consideration: CR H9997-9999, H10004; text: CR H9998)</text>
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:39:49</actionTime>
+              <links />
+              <text>Amendment failed in Committee of the Whole</text>
+              <type>NotUsed</type>
+              <actionCode>77000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:39:49</actionTime>
+              <links />
+              <text>House amendment not agreed to: On agreeing to the Johnson (LA) amendment (A010) Failed by recorded vote: 160 - 259 (Roll no. 666).</text>
+              <type>Floor</type>
+              <actionCode>73000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:39:49</actionTime>
+              <links />
+              <text>Roll call votes on amendments in House</text>
+              <type>Floor</type>
+              <actionCode>75000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>16:33:05</actionTime>
+              <links />
+              <text>House amendment offered/reported by: Amendment (A010) offered by Mr. Johnson (LA).</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <links />
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentOffered>1</amendmentOffered>
+            <amendmentFailedInCommitteeOfTheWhole>1</amendmentFailedInCommitteeOfTheWhole>
+            <houseAmendmentNotAgreedTo>1</houseAmendmentNotAgreedTo>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+      <amendment>
+        <number>708</number>
+        <description>An amendment numbered 26 printed in House Report 116-330 to direct NOAA to consider the potential of a living shoreline project to support the resiliency of military communities when developing criteria for grant applications.</description>
+        <purpose>Amendment directs NOAA to consider the potential of a living shoreline project to support the resiliency of military communities when developing criteria for grant applications.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <latestAction>
+          <actionDate>2019-12-10</actionDate>
+          <text>On agreeing to the Luria amendment (A009) Agreed to by recorded vote: 368 - 51 (Roll no. 665).</text>
+          <actionTime>17:36:21</actionTime>
+        </latestAction>
+        <number>708</number>
+        <description>An amendment numbered 26 printed in House Report 116-330 to direct NOAA to consider the potential of a living shoreline project to support the resiliency of military communities when developing criteria for grant applications.</description>
+        <purpose>Amendment directs NOAA to consider the potential of a living shoreline project to support the resiliency of military communities when developing criteria for grant applications.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <createDate>2019-12-11T08:31:35Z</createDate>
+        <updateDate>2020-12-15T15:28:43Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>L000591</bioguideId>
+            <fullName>Rep. Luria, Elaine G. [D-VA-2]</fullName>
+            <firstName>Elaine</firstName>
+            <middleName>G.</middleName>
+            <lastName>Luria</lastName>
+            <party>D</party>
+            <state>VA</state>
+            <identifiers>
+              <lisID>2453</lisID>
+              <bioguideId>L000591</bioguideId>
+              <gpoId />
+            </identifiers>
+            <district>2</district>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2019-12-10T05:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>729</number>
+          <title>Coastal and Great Lakes Communities Enhancement Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>8</count>
+          <actions>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:36:21</actionTime>
+              <links />
+              <text>On agreeing to the Luria amendment (A009) Agreed to by recorded vote: 368 - 51 (Roll no. 665).</text>
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>16:26:37</actionTime>
+              <links />
+              <text>Amendment (A009) offered by Mrs. Luria. (consideration: CR H9997, H10003-10004; text: CR H9997)</text>
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>16:26:37</actionTime>
+              <links />
+              <text>House amendment offered/reported by: Amendment (A009) offered by Mrs. Luria.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:36:21</actionTime>
+              <links />
+              <text>Amendment agreed to Committee of the Whole</text>
+              <type>NotUsed</type>
+              <actionCode>76000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:36:21</actionTime>
+              <links />
+              <text>House amendment agreed to: On agreeing to the Luria amendment (A009) Agreed to by recorded vote: 368 - 51 (Roll no. 665).</text>
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:36:21</actionTime>
+              <links />
+              <text>Roll call votes on amendments in House</text>
+              <type>Floor</type>
+              <actionCode>75000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <links />
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+      <amendment>
+        <number>707</number>
+        <description>An amendment numbered 23 printed in House Report 116-330 to ensure that corals are included as a natural element eligible for grants provided for by the Living Shoreline Grant Program.</description>
+        <purpose>Amendment includes corals as a natural element eligible for grants provided for by the Living Shoreline Grant Program.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <latestAction>
+          <actionDate>2019-12-10</actionDate>
+          <text>On agreeing to the Mucarsel-Powell amendment (A008) Agreed to by recorded vote: 285 - 134 (Roll no. 664).</text>
+          <actionTime>17:32:35</actionTime>
+        </latestAction>
+        <number>707</number>
+        <description>An amendment numbered 23 printed in House Report 116-330 to ensure that corals are included as a natural element eligible for grants provided for by the Living Shoreline Grant Program.</description>
+        <purpose>Amendment includes corals as a natural element eligible for grants provided for by the Living Shoreline Grant Program.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <createDate>2019-12-11T08:31:35Z</createDate>
+        <updateDate>2020-12-15T15:28:43Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>M001207</bioguideId>
+            <fullName>Rep. Mucarsel-Powell, Debbie [D-FL-26]</fullName>
+            <firstName>Debbie</firstName>
+            <middleName />
+            <lastName>Mucarsel-Powell</lastName>
+            <party>D</party>
+            <state>FL</state>
+            <identifiers>
+              <lisID>2390</lisID>
+              <bioguideId>M001207</bioguideId>
+              <gpoId />
+            </identifiers>
+            <district>26</district>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2019-12-10T05:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>729</number>
+          <title>Coastal and Great Lakes Communities Enhancement Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>8</count>
+          <actions>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:32:35</actionTime>
+              <links />
+              <text>On agreeing to the Mucarsel-Powell amendment (A008) Agreed to by recorded vote: 285 - 134 (Roll no. 664).</text>
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>16:22:11</actionTime>
+              <links />
+              <text>Amendment (A008) offered by Ms. Mucarsel-Powell. (consideration: CR H9996-9997, H10002-10003; text: CR H9996)</text>
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:32:35</actionTime>
+              <links />
+              <text>House amendment agreed to: On agreeing to the Mucarsel-Powell amendment (A008) Agreed to by recorded vote: 285 - 134 (Roll no. 664).</text>
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:32:35</actionTime>
+              <links />
+              <text>Roll call votes on amendments in House</text>
+              <type>Floor</type>
+              <actionCode>75000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>16:22:11</actionTime>
+              <links />
+              <text>House amendment offered/reported by: Amendment (A008) offered by Ms. Mucarsel-Powell.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:32:35</actionTime>
+              <links />
+              <text>Amendment agreed to Committee of the Whole</text>
+              <type>NotUsed</type>
+              <actionCode>76000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <links />
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+      <amendment>
+        <number>706</number>
+        <description>An amendment numbered 14 printed in House Report 116-330 to add a finding that collaborations and partnerships between institutions of higher education and Federal agencies help ensure digital data focused on coastal management issues are communicated effectively between such entities.</description>
+        <purpose>Amendment adds a finding that collaborations and partnerships between institutions of higher education and Federal agencies help ensure digital data focused on coastal management issues are communicated effectively between such entities.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <latestAction>
+          <actionDate>2019-12-10</actionDate>
+          <text>On agreeing to the Panetta amendment (A007) Agreed to by recorded vote: 389 - 29 (Roll no. 663).</text>
+          <actionTime>17:28:57</actionTime>
+        </latestAction>
+        <number>706</number>
+        <description>An amendment numbered 14 printed in House Report 116-330 to add a finding that collaborations and partnerships between institutions of higher education and Federal agencies help ensure digital data focused on coastal management issues are communicated effectively between such entities.</description>
+        <purpose>Amendment adds a finding that collaborations and partnerships between institutions of higher education and Federal agencies help ensure digital data focused on coastal management issues are communicated effectively between such entities.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <createDate>2019-12-11T08:31:35Z</createDate>
+        <updateDate>2020-12-15T15:28:43Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>P000613</bioguideId>
+            <fullName>Rep. Panetta, Jimmy [D-CA-20]</fullName>
+            <firstName>Jimmy</firstName>
+            <middleName />
+            <lastName>Panetta</lastName>
+            <party>D</party>
+            <state>CA</state>
+            <identifiers>
+              <lisID>2309</lisID>
+              <bioguideId>P000613</bioguideId>
+              <gpoId />
+            </identifiers>
+            <district>20</district>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2019-12-10T05:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>729</number>
+          <title>Coastal and Great Lakes Communities Enhancement Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>8</count>
+          <actions>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:28:57</actionTime>
+              <links />
+              <text>On agreeing to the Panetta amendment (A007) Agreed to by recorded vote: 389 - 29 (Roll no. 663).</text>
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>16:19:21</actionTime>
+              <links />
+              <text>Amendment (A007) offered by Mr. Panetta. (consideration: CR H9996, H10002; text: CR H9996)</text>
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:28:57</actionTime>
+              <links />
+              <text>House amendment agreed to: On agreeing to the Panetta amendment (A007) Agreed to by recorded vote: 389 - 29 (Roll no. 663).</text>
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:28:57</actionTime>
+              <links />
+              <text>Roll call votes on amendments in House</text>
+              <type>Floor</type>
+              <actionCode>75000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:28:57</actionTime>
+              <links />
+              <text>Amendment agreed to Committee of the Whole</text>
+              <type>NotUsed</type>
+              <actionCode>76000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>16:19:21</actionTime>
+              <links />
+              <text>House amendment offered/reported by: Amendment (A007) offered by Mr. Panetta.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <links />
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+      <amendment>
+        <number>705</number>
+        <description>An amendment numbered 12 printed in House Report 116-330 to include projects to address harmful algal blooms under the Climate Change Adaptation Preparedness and Response Program.</description>
+        <purpose>Amendment includes projects to address harmful algal blooms under the Climate Change Adaptation Preparedness and Response Program.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <latestAction>
+          <actionDate>2019-12-10</actionDate>
+          <text>On agreeing to the Crist amendment (A006) Agreed to by recorded vote: 297 - 121 (Roll no. 662).</text>
+          <actionTime>17:24:28</actionTime>
+        </latestAction>
+        <number>705</number>
+        <description>An amendment numbered 12 printed in House Report 116-330 to include projects to address harmful algal blooms under the Climate Change Adaptation Preparedness and Response Program.</description>
+        <purpose>Amendment includes projects to address harmful algal blooms under the Climate Change Adaptation Preparedness and Response Program.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <createDate>2019-12-11T08:31:35Z</createDate>
+        <updateDate>2020-12-15T15:28:43Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>C001111</bioguideId>
+            <fullName>Rep. Crist, Charlie [D-FL-13]</fullName>
+            <firstName>Charlie</firstName>
+            <middleName />
+            <lastName>Crist</lastName>
+            <party>D</party>
+            <state>FL</state>
+            <identifiers>
+              <lisID>2321</lisID>
+              <bioguideId>C001111</bioguideId>
+              <gpoId />
+            </identifiers>
+            <district>13</district>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2019-12-10T05:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>729</number>
+          <title>Coastal and Great Lakes Communities Enhancement Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>8</count>
+          <actions>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:24:28</actionTime>
+              <links />
+              <text>On agreeing to the Crist amendment (A006) Agreed to by recorded vote: 297 - 121 (Roll no. 662).</text>
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>16:13:53</actionTime>
+              <links />
+              <text>Amendment (A006) offered by Mr. Crist. (consideration: CR H9995-9996, H10001-10002; text: CR H9995)</text>
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:24:28</actionTime>
+              <links />
+              <text>Roll call votes on amendments in House</text>
+              <type>Floor</type>
+              <actionCode>75000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:24:28</actionTime>
+              <links />
+              <text>Amendment agreed to Committee of the Whole</text>
+              <type>NotUsed</type>
+              <actionCode>76000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>16:13:53</actionTime>
+              <links />
+              <text>House amendment offered/reported by: Amendment (A006) offered by Mr. Crist.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:24:28</actionTime>
+              <links />
+              <text>House amendment agreed to: On agreeing to the Crist amendment (A006) Agreed to by recorded vote: 297 - 121 (Roll no. 662).</text>
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <links />
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentOffered>1</amendmentOffered>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+      <amendment>
+        <number>704</number>
+        <description>An amendment numbered 9 printed in House Report 116-330 to provide grant eligibility under the bill to projects that assess the impact of water level regulating practices on the Great Lakes on coastal resiliency.</description>
+        <purpose>An amendment numbered 9 printed in House Report 116-330 to provide grant eligibility under the bill to projects that assess the impact of water level regulating practices on the Great Lakes on coastal resiliency.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <latestAction>
+          <actionDate>2019-12-10</actionDate>
+          <text>On agreeing to the Katko amendment (A005) Agreed to by voice vote.</text>
+          <actionTime>16:13:33</actionTime>
+        </latestAction>
+        <number>704</number>
+        <description>An amendment numbered 9 printed in House Report 116-330 to provide grant eligibility under the bill to projects that assess the impact of water level regulating practices on the Great Lakes on coastal resiliency.</description>
+        <purpose>An amendment numbered 9 printed in House Report 116-330 to provide grant eligibility under the bill to projects that assess the impact of water level regulating practices on the Great Lakes on coastal resiliency.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <createDate>2019-12-11T08:31:35Z</createDate>
+        <updateDate>2020-12-15T15:28:43Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>K000386</bioguideId>
+            <fullName>Rep. Katko, John [R-NY-24]</fullName>
+            <firstName>John</firstName>
+            <middleName />
+            <lastName>Katko</lastName>
+            <party>R</party>
+            <state>NY</state>
+            <identifiers>
+              <lisID>2264</lisID>
+              <bioguideId>K000386</bioguideId>
+              <gpoId />
+            </identifiers>
+            <district>24</district>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2019-12-10T05:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>729</number>
+          <title>Coastal and Great Lakes Communities Enhancement Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links>
+          <link>
+            <name>House Report 116-330</name>
+          </link>
+        </links>
+        <notes />
+        <actions>
+          <count>7</count>
+          <actions>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>16:13:33</actionTime>
+              <links />
+              <text>On agreeing to the Katko amendment (A005) Agreed to by voice vote.</text>
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>16:09:24</actionTime>
+              <links />
+              <text>Amendment (A005) offered by Mr. Katko. (consideration: CR H9994-9995; text: CR H9994)</text>
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>16:13:33</actionTime>
+              <links />
+              <text>House amendment agreed to: On agreeing to the Katko amendment (A005) Agreed to by voice vote.</text>
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>16:13:33</actionTime>
+              <links />
+              <text>Amendment agreed to Committee of the Whole</text>
+              <type>NotUsed</type>
+              <actionCode>76000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>16:09:24</actionTime>
+              <links />
+              <text>House amendment offered/reported by: Amendment (A005) offered by Mr. Katko.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <links />
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>6</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+      <amendment>
+        <number>703</number>
+        <description>An amendment numbered 8 printed in House Report 116-330 to add research on harmful algal bloom development to U.S. Geological Survey research conducted under the bill.</description>
+        <purpose>An amendment numbered 8 printed in House Report 116-330 to add research on harmful algal bloom development to U.S. Geological Survey research conducted under the bill.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <latestAction>
+          <actionDate>2019-12-10</actionDate>
+          <text>On agreeing to the Katko amendment (A004) Agreed to by voice vote.</text>
+          <actionTime>16:09:10</actionTime>
+        </latestAction>
+        <number>703</number>
+        <description>An amendment numbered 8 printed in House Report 116-330 to add research on harmful algal bloom development to U.S. Geological Survey research conducted under the bill.</description>
+        <purpose>An amendment numbered 8 printed in House Report 116-330 to add research on harmful algal bloom development to U.S. Geological Survey research conducted under the bill.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <createDate>2019-12-11T08:31:35Z</createDate>
+        <updateDate>2020-12-15T15:28:43Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>K000386</bioguideId>
+            <fullName>Rep. Katko, John [R-NY-24]</fullName>
+            <firstName>John</firstName>
+            <middleName />
+            <lastName>Katko</lastName>
+            <party>R</party>
+            <state>NY</state>
+            <identifiers>
+              <lisID>2264</lisID>
+              <bioguideId>K000386</bioguideId>
+              <gpoId />
+            </identifiers>
+            <district>24</district>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2019-12-10T05:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>729</number>
+          <title>Coastal and Great Lakes Communities Enhancement Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links>
+          <link>
+            <name>House Report 116-330</name>
+          </link>
+        </links>
+        <notes />
+        <actions>
+          <count>7</count>
+          <actions>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>16:09:10</actionTime>
+              <links />
+              <text>On agreeing to the Katko amendment (A004) Agreed to by voice vote.</text>
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>16:05:52</actionTime>
+              <links />
+              <text>Amendment (A004) offered by Mr. Katko. (consideration: CR H9994; text: CR H9994)</text>
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>16:05:52</actionTime>
+              <links />
+              <text>House amendment offered/reported by: Amendment (A004) offered by Mr. Katko.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>16:09:10</actionTime>
+              <links />
+              <text>House amendment agreed to: On agreeing to the Katko amendment (A004) Agreed to by voice vote.</text>
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>16:09:10</actionTime>
+              <links />
+              <text>Amendment agreed to Committee of the Whole</text>
+              <type>NotUsed</type>
+              <actionCode>76000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <links />
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>6</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+      <amendment>
+        <number>702</number>
+        <description>An amendment numbered 6 printed in House Report 116-330 to require no less than 10 percent of the funds awarded under the Living Shoreline grant program be available to projects located within the Great Lakes.</description>
+        <purpose>An amendment numbered 6 printed in House Report 116-330 to require no less than 10 percent of the funds awarded under the Living Shoreline grant program be available to projects located within the Great Lakes.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <latestAction>
+          <actionDate>2019-12-10</actionDate>
+          <text>On agreeing to the Huizenga amendment (A003) Agreed to by voice vote.</text>
+          <actionTime>16:05:07</actionTime>
+        </latestAction>
+        <number>702</number>
+        <description>An amendment numbered 6 printed in House Report 116-330 to require no less than 10 percent of the funds awarded under the Living Shoreline grant program be available to projects located within the Great Lakes.</description>
+        <purpose>An amendment numbered 6 printed in House Report 116-330 to require no less than 10 percent of the funds awarded under the Living Shoreline grant program be available to projects located within the Great Lakes.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <createDate>2019-12-11T08:31:35Z</createDate>
+        <updateDate>2020-12-15T15:28:43Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>H001058</bioguideId>
+            <fullName>Rep. Huizenga, Bill [R-MI-2]</fullName>
+            <firstName>Bill</firstName>
+            <middleName />
+            <lastName>Huizenga</lastName>
+            <party>R</party>
+            <state>MI</state>
+            <identifiers>
+              <lisID>2028</lisID>
+              <bioguideId>H001058</bioguideId>
+              <gpoId>7987</gpoId>
+            </identifiers>
+            <district>2</district>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2019-12-10T05:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>729</number>
+          <title>Coastal and Great Lakes Communities Enhancement Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links>
+          <link>
+            <name>House Report 116-330</name>
+          </link>
+        </links>
+        <notes />
+        <actions>
+          <count>7</count>
+          <actions>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>16:05:07</actionTime>
+              <links />
+              <text>On agreeing to the Huizenga amendment (A003) Agreed to by voice vote.</text>
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>15:59:37</actionTime>
+              <links />
+              <text>Amendment (A003) offered by Mr. Huizenga. (consideration: CR H9993-9994; text: CR H9993)</text>
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>16:05:07</actionTime>
+              <links />
+              <text>Amendment agreed to Committee of the Whole</text>
+              <type>NotUsed</type>
+              <actionCode>76000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>15:59:37</actionTime>
+              <links />
+              <text>House amendment offered/reported by: Amendment (A003) offered by Mr. Huizenga.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>16:05:07</actionTime>
+              <links />
+              <text>House amendment agreed to: On agreeing to the Huizenga amendment (A003) Agreed to by voice vote.</text>
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <links />
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentOffered>1</amendmentOffered>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>6</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+      <amendment>
+        <number>701</number>
+        <description>An amendment numbered 4 printed in House Report 116-330 to authorize the NOAA Administrator to award grants to eligible entities for collaborative research projects on the conservation, restoration, or management of oysters in the Chesapeake Bay.</description>
+        <purpose>Amendment authorizes the NOAA Administrator to award grants to eligible entities for collaborative research projects on the conservation, restoration, or management of oysters in the Chesapeake Bay.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <latestAction>
+          <actionDate>2019-12-10</actionDate>
+          <text>On agreeing to the Brown (MD) amendment (A002) Agreed to by recorded vote: 235 - 179 (Roll no. 661).</text>
+          <actionTime>17:20:30</actionTime>
+        </latestAction>
+        <number>701</number>
+        <description>An amendment numbered 4 printed in House Report 116-330 to authorize the NOAA Administrator to award grants to eligible entities for collaborative research projects on the conservation, restoration, or management of oysters in the Chesapeake Bay.</description>
+        <purpose>Amendment authorizes the NOAA Administrator to award grants to eligible entities for collaborative research projects on the conservation, restoration, or management of oysters in the Chesapeake Bay.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <createDate>2019-12-11T08:31:35Z</createDate>
+        <updateDate>2020-12-15T15:28:43Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>B001304</bioguideId>
+            <fullName>Rep. Brown, Anthony G. [D-MD-4]</fullName>
+            <firstName>Anthony</firstName>
+            <middleName>G.</middleName>
+            <lastName>Brown</lastName>
+            <party>D</party>
+            <state>MD</state>
+            <identifiers>
+              <lisID>2331</lisID>
+              <bioguideId>B001304</bioguideId>
+              <gpoId />
+            </identifiers>
+            <district>4</district>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2019-12-10T05:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>729</number>
+          <title>Coastal and Great Lakes Communities Enhancement Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <notes />
+        <actions>
+          <count>8</count>
+          <actions>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:20:30</actionTime>
+              <links />
+              <text>On agreeing to the Brown (MD) amendment (A002) Agreed to by recorded vote: 235 - 179 (Roll no. 661).</text>
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>15:53:55</actionTime>
+              <links />
+              <text>Amendment (A002) offered by Mr. Brown (MD). (consideration: CR H9992-9993, H10000-10001; text: CR H9992)</text>
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>15:53:55</actionTime>
+              <links />
+              <text>House amendment offered/reported by: Amendment (A002) offered by Mr. Brown (MD).(consideration: CR H9992-9993, H10000-10001; text: CR H9992)</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:20:30</actionTime>
+              <links />
+              <text>Roll call votes on amendments in House</text>
+              <type>Floor</type>
+              <actionCode>75000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:20:30</actionTime>
+              <links />
+              <text>House amendment agreed to: On agreeing to the Brown (MD) amendment (A002) Agreed to by recorded vote: 235 - 179 (Roll no. 661).</text>
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:20:30</actionTime>
+              <links />
+              <text>Amendment agreed to Committee of the Whole</text>
+              <type>NotUsed</type>
+              <actionCode>76000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <links />
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+      <amendment>
+        <number>700</number>
+        <description>An amendment comprised of the following amendments printed in House Report 116-33 as en bloc No. 1: Nos. 1, 2, 3, 5, 7, 10, 11, 13, 15, 16, 17, 18, 19, 20, 21, 22, 24, 25, 27, and 28.</description>
+        <purpose>Amendments en bloc comprised of the following amendments printed in House Report 116-330 as en bloc No. 1: 1, 2, 3, 5, 7, 10, 11, 13, 15, 16, 17, 18, 19, 20, 21, 22, 24, 25, 27, and 28, which appears on pages H9989-H9991 of the Congressional Record of December 10, 2019.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <latestAction>
+          <actionDate>2019-12-10</actionDate>
+          <text>On agreeing to the Case amendments (A001) Agreed to by recorded vote: 249 - 166 (Roll no. 660).</text>
+          <actionTime>17:15:53</actionTime>
+        </latestAction>
+        <number>700</number>
+        <description>An amendment comprised of the following amendments printed in House Report 116-33 as en bloc No. 1: Nos. 1, 2, 3, 5, 7, 10, 11, 13, 15, 16, 17, 18, 19, 20, 21, 22, 24, 25, 27, and 28.</description>
+        <purpose>Amendments en bloc comprised of the following amendments printed in House Report 116-330 as en bloc No. 1: 1, 2, 3, 5, 7, 10, 11, 13, 15, 16, 17, 18, 19, 20, 21, 22, 24, 25, 27, and 28, which appears on pages H9989-H9991 of the Congressional Record of December 10, 2019.</purpose>
+        <congress>116</congress>
+        <type>HAMDT</type>
+        <createDate>2019-12-11T08:31:34Z</createDate>
+        <updateDate>2020-12-15T15:28:43Z</updateDate>
+        <sponsors>
+          <item>
+            <bioguideId>C001055</bioguideId>
+            <fullName>Rep. Case, Ed [D-HI-1]</fullName>
+            <firstName>Ed</firstName>
+            <middleName />
+            <lastName>Case</lastName>
+            <party>D</party>
+            <state>HI</state>
+            <identifiers>
+              <lisID>1693</lisID>
+              <bioguideId>C001055</bioguideId>
+              <gpoId />
+            </identifiers>
+            <district>1</district>
+          </item>
+        </sponsors>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <titles />
+        <proposedDate />
+        <submittedDate>2019-12-10T05:00:00Z</submittedDate>
+        <chamber>House of Representatives</chamber>
+        <amendedBill>
+          <congress>116</congress>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <number>729</number>
+          <title>Coastal and Great Lakes Communities Enhancement Act</title>
+        </amendedBill>
+        <amendedAmendment />
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links>
+          <link>
+            <name>House Report 116-330</name>
+          </link>
+          <link>
+            <name>pages H9989-H9991</name>
+          </link>
+        </links>
+        <notes />
+        <actions>
+          <count>8</count>
+          <actions>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:15:53</actionTime>
+              <links />
+              <text>On agreeing to the Case amendments (A001) Agreed to by recorded vote: 249 - 166 (Roll no. 660).</text>
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>15:42:39</actionTime>
+              <links />
+              <text>Amendments en bloc (A001) offered by Mr. Case. (consideration: CR H9989-9992, H10000; text: CR H9989-9991)</text>
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>15:42:39</actionTime>
+              <links />
+              <text>House amendment offered/reported by: Amendments en bloc (A001) offered by Mr. Case.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:15:53</actionTime>
+              <links />
+              <text>Amendment agreed to Committee of the Whole</text>
+              <type>NotUsed</type>
+              <actionCode>76000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:15:53</actionTime>
+              <links />
+              <text>Roll call votes on amendments in House</text>
+              <type>Floor</type>
+              <actionCode>75000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <actionTime>17:15:53</actionTime>
+              <links />
+              <text>House amendment agreed to: On agreeing to the Case amendments (A001) Agreed to by recorded vote: 249 - 166 (Roll no. 660).</text>
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+            <item>
+              <actionDate>2019-12-10</actionDate>
+              <links />
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <version>1.0.0</version>
+      </amendment>
+    </amendments>
+    <textVersions>
+      <item>
+        <type>Referred in Senate</type>
+        <date>2019-12-12T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr729rfs/xml/BILLS-116hr729rfs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2019-12-10T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr729eh/xml/BILLS-116hr729eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported in House</type>
+        <date>2019-11-13T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr729rh/xml/BILLS-116hr729rh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <date>2019-01-23T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr729ih/xml/BILLS-116hr729ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2019-12-12</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>U00228</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

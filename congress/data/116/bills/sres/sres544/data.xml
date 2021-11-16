@@ -1,0 +1,42 @@
+<bill session="116" type="sr" number="544" updated="2020-03-25T11:00:54Z">
+  <state datetime="2020-03-16">REFERRED</state>
+  <status>
+    <introduced datetime="2020-03-16"/>
+  </status>
+  <introduced datetime="2020-03-16"/>
+  <titles>
+    <title type="official" as="introduced">A resolution supporting the designation of March 2020 as "National Colorectal Cancer Awareness Month".</title>
+    <title type="display">A resolution supporting the designation of March 2020 as "National Colorectal Cancer Awareness Month".</title>
+  </titles>
+  <sponsor bioguide_id="E000285"/>
+  <cosponsors>
+    <cosponsor bioguide_id="M000639" joined="2020-03-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-03-16">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2020-03-16" state="REFERRED">
+      <text>Referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S1761-1762" label="text"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="116" relation="unknown" number="105"/>
+    <bill type="hr" session="116" relation="unknown" number="880"/>
+    <bill type="hr" session="116" relation="unknown" number="180"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cancer"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Health promotion and preventive care"/>
+  </subjects>
+  <amendments/>
+  <summary date="2020-03-16T04:00:00Z" status="Introduced in Senate">This resolution expresses support for the designation of National Colorectal Cancer Awareness Month and its goals and ideals.</summary>
+  <committee-reports/>
+</bill>

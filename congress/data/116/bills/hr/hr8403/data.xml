@@ -1,0 +1,46 @@
+<bill session="116" type="h" number="8403" updated="2020-11-02T18:45:34Z">
+  <state datetime="2020-09-25">REFERRED</state>
+  <status>
+    <introduced datetime="2020-09-25"/>
+  </status>
+  <introduced datetime="2020-09-25"/>
+  <titles>
+    <title type="short" as="introduced">Human Factors Improvements to the Aircraft Certification Act</title>
+    <title type="short" as="introduced">Human Factors Improvements to the Aircraft Certification Act</title>
+    <title type="display">Human Factors Improvements to the Aircraft Certification Act</title>
+    <title type="official" as="introduced">To require the Administrator of the Federal Aviation Administration to better integrate human factors into the aircraft certification process through the deployment of necessary enhancements to improve aviation safety, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="L000560"/>
+  <cosponsors>
+    <cosponsor bioguide_id="G000577" joined="2020-09-25"/>
+    <cosponsor bioguide_id="N000179" joined="2020-09-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-09-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2020-09-25" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2020-09-28">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Aviation" code="HSPW05" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="116" relation="unknown" number="8408"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Aviation and airports"/>
+    <term name="Congressional oversight"/>
+    <term name="Government studies and investigations"/>
+    <term name="Licensing and registrations"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

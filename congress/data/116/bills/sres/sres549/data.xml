@@ -1,0 +1,44 @@
+<bill session="116" type="sr" number="549" updated="2020-06-16T13:01:03Z">
+  <state datetime="2020-03-20">REFERRED</state>
+  <status>
+    <introduced datetime="2020-03-20"/>
+  </status>
+  <introduced datetime="2020-03-20"/>
+  <titles>
+    <title type="official" as="introduced">A resolution designating April 2020 as "Second Chance Month".</title>
+    <title type="display">A resolution designating April 2020 as "Second Chance Month".</title>
+  </titles>
+  <sponsor bioguide_id="P000449"/>
+  <cosponsors>
+    <cosponsor bioguide_id="K000367" joined="2020-03-20"/>
+    <cosponsor bioguide_id="L000575" joined="2020-06-15"/>
+    <cosponsor bioguide_id="L000174" joined="2020-06-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-03-20">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2020-03-20" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S1875-1876" label="text"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="116" relation="unknown" number="928"/>
+    <bill type="sr" session="116" relation="unknown" number="102"/>
+    <bill type="hr" session="116" relation="unknown" number="210"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Criminal procedure and sentencing"/>
+  </subjects>
+  <amendments/>
+  <summary date="2020-03-20T04:00:00Z" status="Introduced in Senate">This resolution designates April 2020 as Second Chance Month to promote awareness of unnecessary legal and social barriers that prevent individuals with criminal records from becoming productive members of society.</summary>
+  <committee-reports/>
+</bill>

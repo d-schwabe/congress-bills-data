@@ -1,0 +1,43 @@
+<bill session="116" type="h" number="8210" updated="2020-10-08T14:00:14Z">
+  <state datetime="2020-09-11">REFERRED</state>
+  <status>
+    <introduced datetime="2020-09-11"/>
+  </status>
+  <introduced datetime="2020-09-11"/>
+  <titles>
+    <title type="short" as="introduced">Methamphetamine Response Act of 2020</title>
+    <title type="short" as="introduced">Methamphetamine Response Act of 2020</title>
+    <title type="display">Methamphetamine Response Act of 2020</title>
+    <title type="official" as="introduced">To designate methamphetamine as an emerging threat, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="C001124"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001055" joined="2020-09-11"/>
+    <cosponsor bioguide_id="C001114" joined="2020-09-11"/>
+    <cosponsor bioguide_id="K000210" joined="2020-09-29"/>
+    <cosponsor bioguide_id="S001204" joined="2020-09-11"/>
+    <cosponsor bioguide_id="T000483" joined="2020-09-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-09-11">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2020-09-11" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="116" relation="identical" number="4612"/>
+    <bill type="s" session="116" relation="unknown" number="4491"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Drug, alcohol, tobacco use"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

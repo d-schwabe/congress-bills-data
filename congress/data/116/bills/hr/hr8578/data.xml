@@ -1,0 +1,44 @@
+<bill session="116" type="h" number="8578" updated="2020-12-04T20:53:30Z">
+  <state datetime="2020-10-09">REFERRED</state>
+  <status>
+    <introduced datetime="2020-10-09"/>
+  </status>
+  <introduced datetime="2020-10-09"/>
+  <titles>
+    <title type="short" as="introduced">Parris Island Protection Act</title>
+    <title type="short" as="introduced">Parris Island Protection Act</title>
+    <title type="display">Parris Island Protection Act</title>
+    <title type="official" as="introduced">To prohibit the use of Federal funds to close or realign the Marine Corps Recruit Depot located at Parris Island, South Carolina.</title>
+  </titles>
+  <sponsor bioguide_id="W000795"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001122" joined="2020-10-13"/>
+    <cosponsor bioguide_id="D000615" joined="2020-10-09"/>
+    <cosponsor bioguide_id="N000190" joined="2020-10-09"/>
+    <cosponsor bioguide_id="R000597" joined="2020-10-09"/>
+    <cosponsor bioguide_id="T000165" joined="2020-10-30"/>
+    <cosponsor bioguide_id="T000480" joined="2020-10-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-10-09">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2020-10-09" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="116" relation="identical" number="4802"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Defense spending"/>
+    <term name="Military facilities and property"/>
+    <term name="South Carolina"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

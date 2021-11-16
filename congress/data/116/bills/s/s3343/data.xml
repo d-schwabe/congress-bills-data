@@ -1,0 +1,43 @@
+<bill session="116" type="s" number="3343" updated="2020-05-27T05:57:22Z">
+  <state datetime="2020-02-27">REFERRED</state>
+  <status>
+    <introduced datetime="2020-02-27"/>
+  </status>
+  <introduced datetime="2020-02-27"/>
+  <titles>
+    <title type="short" as="introduced">Medical Supply Chain Security Act</title>
+    <title type="short" as="introduced">Medical Supply Chain Security Act</title>
+    <title type="display">Medical Supply Chain Security Act</title>
+    <title type="official" as="introduced">A bill to amend the Federal Food, Drug, and Cosmetic Act to provide enhanced security for the medical supply chain.</title>
+  </titles>
+  <sponsor bioguide_id="H001089"/>
+  <cosponsors>
+    <cosponsor bioguide_id="M000934" joined="2020-05-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-02-27">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2020-02-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="116" relation="unknown" number="6062"/>
+    <bill type="h" session="116" relation="identical" number="6049"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Congressional oversight"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Health information and medical records"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Manufacturing"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

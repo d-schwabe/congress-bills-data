@@ -1,0 +1,123 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-01-08", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-01-08", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and Labor.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5561-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "S001196", 
+      "district": "21", 
+      "name": "Stefanik, Elise M.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-01-08", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-01-08", 
+  "number": "5561", 
+  "official_title": "To amend the Workforce Innovation and Opportunity Act to require one-stop delivery systems under such Act to offer services through internet websites and to direct the Secretary of Labor to develop standards and best practices for such websites, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Widening Internet Readiness for Employment Development Act", 
+  "sponsor": {
+    "bioguide_id": "S001193", 
+    "district": "15", 
+    "name": "Swalwell, Eric", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-01-08", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Department of Labor", 
+    "Employment and training programs", 
+    "Government information and archives", 
+    "Internet and video services", 
+    "Labor and employment", 
+    "Unemployment"
+  ], 
+  "subjects_top_term": "Labor and employment", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "WIRED Act", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Widening Internet Readiness for Employment Development Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Widening Internet Readiness for Employment Development Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "WIRED Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "WIRED Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Workforce Innovation and Opportunity Act to require one-stop delivery systems under such Act to offer services through internet websites and to direct the Secretary of Labor to develop standards and best practices for such websites, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-07-13T18:41:13Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr5561.xml"
+}

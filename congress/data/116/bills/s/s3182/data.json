@@ -1,0 +1,222 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-01-13", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-01-13", 
+      "action_code": "", 
+      "committees": [
+        "SSVA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2020-01-29", 
+      "action_code": "", 
+      "committees": [
+        "SSVA"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Veterans' Affairs. Ordered to be reported with an amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2020-02-05", 
+      "action_code": "", 
+      "committee": "Veterans' Affairs", 
+      "committees": [
+        "SSVA"
+      ], 
+      "references": [], 
+      "text": "Committee on Veterans' Affairs. Reported by Senator Moran with an amendment and an amendment to the title. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2020-02-05", 
+      "action_code": "", 
+      "calendar": "Senate Legislative", 
+      "number": "415", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 415.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s3182-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "Senate Veterans' Affairs", 
+      "committee_id": "SSVA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001277", 
+      "district": null, 
+      "name": "Blumenthal, Richard", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-01-13", 
+      "state": "CT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "H001076", 
+      "district": null, 
+      "name": "Hassan, Margaret Wood", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2020-10-20", 
+      "state": "NH", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001191", 
+      "district": null, 
+      "name": "Sinema, Kyrsten", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2020-06-24", 
+      "state": "AZ", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2020-02-05", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-01-13", 
+  "number": "3182", 
+  "official_title": "A bill to direct the Secretary of Veterans Affairs to carry out the Women's Health Transition Training pilot program through at least fiscal year 2020, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2752-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2942-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "HEALTH Act", 
+  "sponsor": {
+    "bioguide_id": "S001198", 
+    "district": null, 
+    "name": "Sullivan, Dan", 
+    "state": "AK", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2020-01-29", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Census and government statistics", 
+    "Congressional oversight", 
+    "Government information and archives", 
+    "Health care coverage and access", 
+    "Health promotion and preventive care", 
+    "Internet and video services", 
+    "Military personnel and dependents", 
+    "Veterans' medical care", 
+    "Women's health"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": {
+    "as": "Introduced in Senate", 
+    "date": "2020-01-13T05:00:00Z", 
+    "text": "Helping Expand and Launch Transitional Health for Women Veterans Act or the HEALTH Act\n\nThis bill requires the Department of Veterans Affairs to continue through at least FY2020 and report on the Women's Health Transition Training pilot program. Among other elements, the report should include the number of female participants by military department, the number of courses held under the program, and the locations where the courses were held."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "HEALTH Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "HEALTH Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Helping Expand and Launch Transitional Health for Women Veterans Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Helping Expand and Launch Transitional Health for Women Veterans Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "HEALTH Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "HEALTH Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Helping Expand and Launch Transitional Health for Women Veterans Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Helping Expand and Launch Transitional Health for Women Veterans Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "HEALTH Act", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to direct the Secretary of Veterans Affairs to carry out the Women's Health Transition Training pilot program through at least fiscal year 2020, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-10-27T00:14:11Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s3182.xml"
+}

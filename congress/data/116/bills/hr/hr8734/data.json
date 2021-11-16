@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-11-09", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-11-09", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr8734-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Committee on House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-11-09", 
+  "number": "8734", 
+  "official_title": "To amend the Congressional Accountability Act of 1995 to prohibit the imposition of a nondisclosure agreement as a condition of the payment of any award or settlement in connection with a violation of such Act.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Victims' Voice and Transparency Act", 
+  "sponsor": {
+    "bioguide_id": "S001192", 
+    "district": "2", 
+    "name": "Stewart, Chris", 
+    "state": "UT", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-11-09", 
+  "subjects": [
+    "Age discrimination", 
+    "Alternative dispute resolution, mediation, arbitration", 
+    "Assault and harassment offenses", 
+    "Congress", 
+    "Congressional officers and employees", 
+    "Disability and health-based discrimination", 
+    "Employment discrimination and employee rights", 
+    "Government employee pay, benefits, personnel management", 
+    "Racial and ethnic relations", 
+    "Sex, gender, sexual orientation discrimination"
+  ], 
+  "subjects_top_term": "Congress", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Victims' Voice and Transparency Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Victims' Voice and Transparency Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Victims' Voice and Transparency Act", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Congressional Accountability Act of 1995 to prohibit the imposition of a nondisclosure agreement as a condition of the payment of any award or settlement in connection with a violation of such Act.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-12-03T19:01:20Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr8734.xml"
+}

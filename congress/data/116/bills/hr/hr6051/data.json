@@ -1,0 +1,138 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-03-02", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-03-02", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and Labor.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6051-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "N000147", 
+      "district": "0", 
+      "name": "Norton, Eleanor Holmes", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2020-07-16", 
+      "state": "DC", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000821", 
+      "district": "4", 
+      "name": "Westerman, Bruce", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-03-02", 
+      "state": "AR", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-03-02", 
+  "number": "6051", 
+  "official_title": "To authorize a pilot program for dyslexia screening and early literacy intervention using evidence-based services for students suspected of having an early reading deficiency or dyslexia, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "READ Act", 
+  "sponsor": {
+    "bioguide_id": "H001085", 
+    "district": "6", 
+    "name": "Houlahan, Chrissy", 
+    "state": "PA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-03-02", 
+  "subjects": [
+    "Congressional oversight", 
+    "Education", 
+    "Education programs funding", 
+    "Elementary and secondary education", 
+    "Employment and training programs", 
+    "Government information and archives", 
+    "Medical tests and diagnostic methods", 
+    "Neurological disorders", 
+    "Performance measurement", 
+    "Special education", 
+    "State and local government operations", 
+    "Teaching, teachers, curricula"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "READ Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "READ Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Reading Early and Addressing Dyslexia Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Reading Early and Addressing Dyslexia Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "READ Act", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize a pilot program for dyslexia screening and early literacy intervention using evidence-based services for students suspected of having an early reading deficiency or dyslexia, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-07-17T07:15:51Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr6051.xml"
+}

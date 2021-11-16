@@ -1,0 +1,122 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-09-18", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-09-18", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and Labor.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr8316-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and Labor", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-09-18", 
+  "number": "8316", 
+  "official_title": "To direct the Secretary of Education to provide relief to borrowers of student loans for whom the Department of Education found misrepresentation by the institution of higher education or a State attorney general has asserted a right to borrower defense discharge.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s3745-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Coronavirus E-BD Act of 2020", 
+  "sponsor": {
+    "bioguide_id": "T000472", 
+    "district": "41", 
+    "name": "Takano, Mark", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-09-18", 
+  "subjects": [
+    "Civil actions and liability", 
+    "Consumer credit", 
+    "Education", 
+    "Employee hiring", 
+    "Fraud offenses and financial crimes", 
+    "Government information and archives", 
+    "Government lending and loan guarantees", 
+    "Higher education", 
+    "State and local government operations", 
+    "Student aid and college costs"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Coronavirus E-BD Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Coronavirus E-BD Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Coronavirus Emergency Borrower Defense Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Coronavirus Emergency Borrower Defense Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Coronavirus E-BD Act of 2020", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To direct the Secretary of Education to provide relief to borrowers of student loans for whom the Department of Education found misrepresentation by the institution of higher education or a State attorney general has asserted a right to borrower defense discharge.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-10-08T18:30:09Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr8316.xml"
+}

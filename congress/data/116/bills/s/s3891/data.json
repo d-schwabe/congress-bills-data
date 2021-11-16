@@ -1,0 +1,127 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-06-04", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-06-04", 
+      "action_code": "", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2020-07-22", 
+      "action_code": "", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s3891-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "markup", 
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "P000595", 
+      "district": null, 
+      "name": "Peters, Gary C.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-06-04", 
+      "state": "MI", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "W000437", 
+      "district": null, 
+      "name": "Wicker, Roger F.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-06-04", 
+      "state": "MS", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-06-04", 
+  "number": "3891", 
+  "official_title": "A bill to require the Director of the National Institute of Standards and Technology to advance the development of technical standards for artificial intelligence, to establish the National Program to Advance Artificial Intelligence Research, to promote research on artificial intelligence at the National Science Foundation, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Advancing Artificial Intelligence Research Act of 2020", 
+  "sponsor": {
+    "bioguide_id": "G000562", 
+    "district": null, 
+    "name": "Gardner, Cory", 
+    "state": "CO", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2020-07-22", 
+  "subjects": [
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Advancing Artificial Intelligence Research Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Advancing Artificial Intelligence Research Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Advancing Artificial Intelligence Research Act of 2020", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to require the Director of the National Institute of Standards and Technology to advance the development of technical standards for artificial intelligence, to establish the National Program to Advance Artificial Intelligence Research, to promote research on artificial intelligence at the National Science Foundation, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-09-15T21:20:17Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s3891.xml"
+}

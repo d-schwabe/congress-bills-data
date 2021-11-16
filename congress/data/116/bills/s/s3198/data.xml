@@ -1,0 +1,40 @@
+<bill session="116" type="s" number="3198" updated="2020-12-28T14:39:00Z">
+  <state datetime="2020-01-15">REFERRED</state>
+  <status>
+    <introduced datetime="2020-01-15"/>
+  </status>
+  <introduced datetime="2020-01-15"/>
+  <titles>
+    <title type="display">Suicide Prevention Act</title>
+    <title type="short" as="introduced">Suicide Prevention Act</title>
+    <title type="official" as="introduced">A bill to authorize a pilot program to expand and intensify surveillance of self-harm in partnership with State and local public health departments, to establish a grant program to provide self-harm and suicide prevention services in hospital emergency departments, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="R000122"/>
+  <cosponsors>
+    <cosponsor bioguide_id="K000393" joined="2020-01-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-01-15">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2020-01-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S247" label="Sponsor introductory remarks on measure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="116" relation="identical" number="5619"/>
+    <bill type="h" session="116" relation="unknown" number="14"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+  </subjects>
+  <amendments/>
+  <summary date="2020-01-15T05:00:00Z" status="Introduced in Senate">Suicide Prevention Act
+
+This bill establishes two grant programs to prevent self-harm and suicide. The Centers for Disease Control and Prevention must award grants to state, local, and&#160;tribal health departments to expand surveillance of self-harm, and the Substance Abuse and Mental Health Services Administration must award grants to hospital emergency departments for programs to prevent suicide attempts among patients after discharge.</summary>
+  <committee-reports/>
+</bill>

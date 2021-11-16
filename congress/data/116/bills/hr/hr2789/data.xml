@@ -1,0 +1,41 @@
+<bill session="116" type="h" number="2789" updated="2020-07-13T18:37:56Z">
+  <state datetime="2019-05-16">REFERRED</state>
+  <status>
+    <introduced datetime="2019-05-16"/>
+  </status>
+  <introduced datetime="2019-05-16"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Public Health Service Act to establish a health insurance Federal Invisible Risk Sharing Program.</title>
+    <title type="display">To amend the Public Health Service Act to establish a health insurance Federal Invisible Risk Sharing Program.</title>
+  </titles>
+  <sponsor bioguide_id="S001183"/>
+  <cosponsors>
+    <cosponsor bioguide_id="F000449" joined="2019-05-16"/>
+    <cosponsor bioguide_id="W000806" joined="2019-05-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2019-05-16">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2019-05-16" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2019-05-17">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="District of Columbia"/>
+    <term name="Jurisdiction and venue"/>
+    <term name="State and local courts"/>
+  </subjects>
+  <amendments/>
+  <summary date="2019-05-16T04:00:00Z" status="Introduced in House">This bill requires the Centers for Medicare &amp; Medicaid Services to administer a Federal Invisible Risk Sharing Program that pays health insurers for claims by eligible individuals in order to lower health-insurance premiums in the individual market.</summary>
+  <committee-reports/>
+</bill>

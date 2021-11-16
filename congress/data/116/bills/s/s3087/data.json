@@ -1,0 +1,106 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-12-18", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-12-18", 
+      "action_code": "", 
+      "committees": [
+        "SSVA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s3087-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Veterans' Affairs", 
+      "committee_id": "SSVA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "G000562", 
+      "district": null, 
+      "name": "Gardner, Cory", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-12-18", 
+      "state": "CO", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-12-18", 
+  "number": "3087", 
+  "official_title": "A bill to prohibit the Secretary of Veterans Affairs from denying home loans for veterans who legally work in the marijuana industry on the basis of the nature of such work, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5477-116", 
+      "identified_by": "CRS", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "W000817", 
+    "district": null, 
+    "name": "Warren, Elizabeth", 
+    "state": "MA", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-12-18", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Drug trafficking and controlled substances", 
+    "Drug, alcohol, tobacco use", 
+    "Government lending and loan guarantees", 
+    "Housing finance and home ownership", 
+    "Veterans' education, employment, rehabilitation", 
+    "Veterans' loans, housing, homeless programs"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to prohibit the Secretary of Veterans Affairs from denying home loans for veterans who legally work in the marijuana industry on the basis of the nature of such work, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A bill to prohibit the Secretary of Veterans Affairs from denying home loans for veterans who legally work in the marijuana industry on the basis of the nature of such work, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2020-12-28T14:40:11Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s3087.xml"
+}

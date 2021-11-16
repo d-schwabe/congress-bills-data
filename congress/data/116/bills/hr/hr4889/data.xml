@@ -1,0 +1,52 @@
+<bill session="116" type="h" number="4889" updated="2020-07-13T18:40:27Z">
+  <state datetime="2019-10-28">REFERRED</state>
+  <status>
+    <introduced datetime="2019-10-28"/>
+  </status>
+  <introduced datetime="2019-10-28"/>
+  <titles>
+    <title type="official" as="introduced">To improve communication between the Federal Bureau of Investigation and State law enforcement agencies.</title>
+    <title type="short" as="introduced">Threat Information Protocol for Sharing Act of 2019</title>
+    <title type="short" as="introduced">Threat Information Protocol for Sharing Act of 2019</title>
+    <title type="display">Threat Information Protocol for Sharing Act of 2019</title>
+  </titles>
+  <sponsor bioguide_id="S001214"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001306" joined="2019-10-28"/>
+    <cosponsor bioguide_id="C001123" joined="2019-10-28"/>
+    <cosponsor bioguide_id="D000600" joined="2019-10-28"/>
+    <cosponsor bioguide_id="G000578" joined="2019-10-28"/>
+    <cosponsor bioguide_id="G000582" joined="2019-11-20"/>
+    <cosponsor bioguide_id="T000463" joined="2019-10-28"/>
+    <cosponsor bioguide_id="Y000065" joined="2019-10-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2019-10-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2019-10-28" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2019-12-18">
+      <text>Referred to the Subcommittee on Crime, Terrorism, and Homeland Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, and Homeland Security" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="116" relation="identical" number="2708"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Congressional oversight"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Government studies and investigations"/>
+    <term name="Intergovernmental relations"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

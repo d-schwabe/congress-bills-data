@@ -1,0 +1,99 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-11-19", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-11-19", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on House Administration.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr8781-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Committee on House Administration", 
+      "committee_id": "HSHA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "G000591", 
+      "district": "3", 
+      "name": "Guest, Michael", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2020-12-09", 
+      "state": "MS", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-11-19", 
+  "number": "8781", 
+  "official_title": "To amend the Help America Vote Act of 2002 to require individuals applying to register to vote in elections for Federal office to provide a complete Social Security number with the application, to require States to use Social Security numbers to cross-check the identifications of individuals who vote in elections for Federal office in the State with the identifications of individuals who are registered to vote in such elections, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Restoring Faith in Our Elections Act", 
+  "sponsor": {
+    "bioguide_id": "B001299", 
+    "district": "3", 
+    "name": "Banks, Jim", 
+    "state": "IN", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-11-19", 
+  "subjects": [
+    "Government operations and politics"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Restoring Faith in Our Elections Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Restoring Faith in Our Elections Act", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Help America Vote Act of 2002 to require individuals applying to register to vote in elections for Federal office to provide a complete Social Security number with the application, to require States to use Social Security numbers to cross-check the identifications of individuals who vote in elections for Federal office in the State with the identifications of individuals who are registered to vote in such elections, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-12-10T08:15:46Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr8781.xml"
+}

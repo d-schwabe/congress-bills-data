@@ -1,0 +1,117 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-02-13", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-13", 
+      "action_code": "", 
+      "how": "by Unanimous Consent", 
+      "links": [
+        {
+          "name": "S1080", 
+          "url": "https://www.congress.gov/congressional-record/volume-166/senate-section/page/S1080"
+        }, 
+        {
+          "name": "S1083", 
+          "url": "https://www.congress.gov/congressional-record/volume-166/senate-section/page/S1083"
+        }
+      ], 
+      "references": [
+        {
+          "reference": "CR S1083", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S1080", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:SIMPLERES", 
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "sres503-116", 
+  "bill_type": "sres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "R000595", 
+      "district": null, 
+      "name": "Rubio, Marco", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-02-13", 
+      "state": "FL", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2020-02-13", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2020-02-13", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-02-13", 
+  "number": "503", 
+  "official_title": "A resolution commending the University of West Florida Argonauts football team for its National Collegiate Athletic Association Division II national championship victory.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "S001217", 
+    "district": null, 
+    "name": "Scott, Rick", 
+    "state": "FL", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2020-02-13", 
+  "subjects": [
+    "Athletes", 
+    "Congressional tributes", 
+    "Florida", 
+    "Higher education", 
+    "School athletics", 
+    "Sports and recreation"
+  ], 
+  "subjects_top_term": "Sports and recreation", 
+  "summary": {
+    "as": "Passed Senate", 
+    "date": "2020-02-13T14:08:53Z", 
+    "text": "This resolution commends the University of West Florida Argonauts football team for its National Collegiate Athletic Association Division II national championship victory."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A resolution commending the University of West Florida Argonauts football team for its National Collegiate Athletic Association Division II national championship victory.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A resolution commending the University of West Florida Argonauts football team for its National Collegiate Athletic Association Division II national championship victory.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2020-05-07T04:32:40Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/sres/BILLSTATUS-116sres503.xml"
+}

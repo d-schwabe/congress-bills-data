@@ -1,0 +1,119 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-11-21", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-11-21", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Foreign Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-12-06", 
+      "action_code": "", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Asia, the Pacific and Nonproliferation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres724-116", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA", 
+      "subcommittee": "Subcommittee on Asia, the Pacific and Nonproliferation", 
+      "subcommittee_id": "05"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-11-21", 
+  "number": "724", 
+  "official_title": "Condemning the human rights violations taking place in Jammu and Kashmir and supporting Kashmiri self-determination.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "T000481", 
+    "district": "13", 
+    "name": "Tlaib, Rashida", 
+    "state": "MI", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-11-21", 
+  "subjects": [
+    "Asia", 
+    "Conflicts and wars", 
+    "Detention of persons", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Health care coverage and access", 
+    "Human rights", 
+    "India", 
+    "International affairs", 
+    "International organizations and cooperation", 
+    "Pakistan", 
+    "Protest and dissent", 
+    "Religion", 
+    "Sovereignty, recognition, national governance and status", 
+    "Telephone and wireless communication", 
+    "United Nations"
+  ], 
+  "subjects_top_term": "International affairs", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-11-21T05:00:00Z", 
+    "text": "This resolution expresses support for Kashmiri self-determination and calls on India to uphold human rights standards in Kashmir and Jammu. The resolution also urges India and Pakistan to settle territorial disputes without the use of force."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Condemning the human rights violations taking place in Jammu and Kashmir and supporting Kashmiri self-determination.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Condemning the human rights violations taking place in Jammu and Kashmir and supporting Kashmiri self-determination.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2020-07-13T18:48:13Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hres/BILLSTATUS-116hres724.xml"
+}

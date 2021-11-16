@@ -1,0 +1,64 @@
+<bill session="116" type="s" number="1636" updated="2020-12-16T09:57:48Z">
+  <state datetime="2020-12-14">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2020-12-14"/>
+  </status>
+  <introduced datetime="2019-05-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Food, Drug, and Cosmetic Act with respect to the scope of new chemical exclusivity.</title>
+    <title type="display">Ensuring Innovation Act</title>
+    <title type="short" as="introduced">Ensuring Innovation Act</title>
+  </titles>
+  <sponsor bioguide_id="R000307"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001075" joined="2019-05-23"/>
+    <cosponsor bioguide_id="S001203" joined="2019-05-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2019-05-23">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2019-05-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+    <action datetime="2020-12-14">
+      <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2020-12-14">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S7470" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2020-12-14" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+      <reference ref="CR S7470" label="text of amendment in the nature of a substitute"/>
+    </vote>
+    <action datetime="2020-12-15">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2020-12-15T15:03:07-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2020-12-15T15:41:26-05:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Discharged, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="116" relation="unknown" number="4955"/>
+    <bill type="h" session="116" relation="unknown" number="19"/>
+    <bill type="s" session="116" relation="unknown" number="1895"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Chemistry"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2707"/>
+  </amendments>
+  <committee-reports/>
+</bill>

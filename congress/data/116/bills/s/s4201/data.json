@@ -1,0 +1,156 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-07-02", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-07-02", 
+      "action_code": "", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s4201-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "B001267", 
+      "district": null, 
+      "name": "Bennet, Michael F.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-07-02", 
+      "state": "CO", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001310", 
+      "district": null, 
+      "name": "Braun, Mike", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-07-02", 
+      "state": "IN", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B000944", 
+      "district": null, 
+      "name": "Brown, Sherrod", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-07-02", 
+      "state": "OH", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000359", 
+      "district": null, 
+      "name": "Graham, Lindsey", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2020-07-27", 
+      "state": "SC", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "J000300", 
+      "district": null, 
+      "name": "Jones, Doug", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-07-02", 
+      "state": "AL", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001203", 
+      "district": null, 
+      "name": "Smith, Tina", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2020-07-27", 
+      "state": "MN", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-07-02", 
+  "number": "4201", 
+  "official_title": "A bill to direct the Federal Communications Commission to take certain actions to accelerate the Rural Digital Opportunity Fund Phase I auction, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr7022-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr7447-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "P000449", 
+    "district": null, 
+    "name": "Portman, Rob", 
+    "state": "OH", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-07-02", 
+  "subjects": [
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to direct the Federal Communications Commission to take certain actions to accelerate the Rural Digital Opportunity Fund Phase I auction, and for other purposes.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "A bill to direct the Federal Communications Commission to take certain actions to accelerate the Rural Digital Opportunity Fund Phase I auction, and for other purposes.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2020-08-18T04:26:20Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s4201.xml"
+}

@@ -1,0 +1,125 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-06-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-06-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-06-04", 
+      "action_code": "", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3053-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "14"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-06-03", 
+  "number": "3053", 
+  "official_title": "To amend title V of the Social Security Act to reauthorize the Personal Responsibility Education Program.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2700-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "PREP Reauthorization Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "B001303", 
+    "district": "0", 
+    "name": "Blunt Rochester, Lisa", 
+    "state": "DE", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-06-03", 
+  "subjects": [
+    "Child care and development", 
+    "Family planning and birth control", 
+    "HIV/AIDS", 
+    "Health promotion and preventive care", 
+    "Sex and reproductive health", 
+    "Sexually transmitted diseases", 
+    "Social welfare", 
+    "Teenage pregnancy"
+  ], 
+  "subjects_top_term": "Social welfare", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-06-03T04:00:00Z", 
+    "text": "PREP Reauthorization Act of 2019\n\nThis bill reauthorizes through FY2024 certain grants, awarded to states and U.S. territories, that fund education programs for young people to prevent pregnancy and sexually transmitted infections."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "PREP Reauthorization Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title V of the Social Security Act to reauthorize the Personal Responsibility Education Program.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend title V of the Social Security Act to reauthorize the Personal Responsibility Education Program.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2020-12-28T14:38:30Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr3053.xml"
+}

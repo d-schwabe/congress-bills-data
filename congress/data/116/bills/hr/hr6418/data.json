@@ -1,0 +1,293 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-03-31", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-03-31", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2020-09-16", 
+      "action_code": "", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-09-16", 
+      "action_code": "", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2020-12-10T12:23:31-05:00", 
+      "action_code": "H30200", 
+      "references": [], 
+      "text": "Ms. Kelly (IL) asked unanimous consent to discharge from committee and consider.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-12-10", 
+      "action_code": "H12300", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Committee on Oversight and Reform discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-12-10T12:23:33-05:00", 
+      "action_code": "H30000", 
+      "references": [
+        {
+          "reference": "CR H7136", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered by unanimous consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-12-10T12:24:04-05:00", 
+      "action_code": "H37100", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H7136", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed without objection.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2020-12-10T12:24:05-05:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-12-11", 
+      "action_code": "", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2020-12-17", 
+      "action_code": "", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [
+        {
+          "reference": "CR S7643-7644", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-12-17", 
+      "action_code": "", 
+      "how": "by Unanimous Consent", 
+      "references": [], 
+      "result": "pass", 
+      "status": "PASSED:BILL", 
+      "text": "Passed Senate without amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2020-12-18", 
+      "action_code": "", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-12-24", 
+      "action_code": "E20000", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6418-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "discharged", 
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }, 
+    {
+      "activity": [
+        "discharged", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "A000055", 
+      "district": "4", 
+      "name": "Aderholt, Robert B.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-03-31", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "B001274", 
+      "district": "5", 
+      "name": "Brooks, Mo", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-03-31", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "P000609", 
+      "district": "6", 
+      "name": "Palmer, Gary J.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-03-31", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000591", 
+      "district": "2", 
+      "name": "Roby, Martha", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-03-31", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000575", 
+      "district": "3", 
+      "name": "Rogers, Mike D.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-03-31", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001185", 
+      "district": "7", 
+      "name": "Sewell, Terri A.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-03-31", 
+      "state": "AL", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2020-09-16", 
+    "awaiting_signature": true, 
+    "awaiting_signature_since": "2020-12-24", 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2020-12-10T12:24:04-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2020-12-17", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-03-31", 
+  "number": "6418", 
+  "official_title": "To designate the facility of the United States Postal Service located at 509 Fairhope Avenue in Fairhope, Alabama, as the \"William 'Jack' Jackson Edwards III Post Office Building\".", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "B001289", 
+    "district": "1", 
+    "name": "Byrne, Bradley", 
+    "state": "AL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASSED:BILL", 
+  "status_at": "2020-12-17", 
+  "subjects": [
+    "Alabama", 
+    "Congressional tributes", 
+    "Government buildings, facilities, and property", 
+    "Government operations and politics", 
+    "Postal service"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2020-03-31T04:00:00Z", 
+    "text": "Designates the facility of the United States Postal Service located at 509 Fairhope Avenue in Fairhope, Alabama, as the \"William 'Jack' Jackson Edwards III Post Office Building.\""
+  }, 
+  "titles": [
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To designate the facility of the United States Postal Service located at 509 Fairhope Avenue in Fairhope, Alabama, as the \"William 'Jack' Jackson Edwards III Post Office Building\".", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To designate the facility of the United States Postal Service located at 509 Fairhope Avenue in Fairhope, Alabama, as the \"William 'Jack' Jackson Edwards III Post Office Building\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-12-24T22:43:45Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr6418.xml"
+}

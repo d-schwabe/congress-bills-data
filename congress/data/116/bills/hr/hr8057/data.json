@@ -1,0 +1,119 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-08-14", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-08-14", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Agriculture.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2020-10-01", 
+      "action_code": "", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Commodity Exchanges, Energy, and Credit.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr8057-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on Commodity Exchanges, Energy, and Credit", 
+      "subcommittee_id": "22"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-08-14", 
+  "number": "8057", 
+  "official_title": "To amend the Consolidated Farm and Rural Development Act with respect to the conservation loan and loan guarantee program.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Healthy Soil, Resilient Farmers Act of 2020", 
+  "sponsor": {
+    "bioguide_id": "S001209", 
+    "district": "7", 
+    "name": "Spanberger, Abigail Davis", 
+    "state": "VA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-08-14", 
+  "subjects": [
+    "Agricultural conservation and pollution", 
+    "Agricultural practices and innovations", 
+    "Agricultural prices, subsidies, credit", 
+    "Agriculture and food", 
+    "Farmland", 
+    "Government lending and loan guarantees", 
+    "Interest, dividends, interest rates"
+  ], 
+  "subjects_top_term": "Agriculture and food", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Healthy Soil, Resilient Farmers Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Healthy Soil, Resilient Farmers Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Healthy Soil, Resilient Farmers Act of 2020", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Consolidated Farm and Rural Development Act with respect to the conservation loan and loan guarantee program.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-10-02T07:14:15Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr8057.xml"
+}

@@ -1,0 +1,44 @@
+<bill session="116" type="s" number="4696" updated="2020-11-19T10:13:00Z">
+  <state datetime="2020-09-24">REFERRED</state>
+  <status>
+    <introduced datetime="2020-09-24"/>
+  </status>
+  <introduced datetime="2020-09-24"/>
+  <titles>
+    <title type="short" as="introduced">University of Alaska Fiscal Foundation Act</title>
+    <title type="short" as="introduced">University of Alaska Fiscal Foundation Act</title>
+    <title type="display">University of Alaska Fiscal Foundation Act</title>
+    <title type="official" as="introduced">A bill to provide for the continuation of higher education through the conveyance to the University of Alaska of certain public land in the State of Alaska, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="M001153"/>
+  <cosponsors>
+    <cosponsor bioguide_id="S001198" joined="2020-09-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-09-24">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2020-09-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2020-11-18">
+      <text>Committee on Energy and Natural Resources Senate Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+    <committee subcommittee="Public Lands, Forests, and Mining" code="SSEG03" name="Senate Energy and Natural Resources" activity="Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="116" relation="identical" number="8398"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Alaska"/>
+    <term name="Congressional oversight"/>
+    <term name="Higher education"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

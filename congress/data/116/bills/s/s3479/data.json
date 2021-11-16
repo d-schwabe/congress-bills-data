@@ -1,0 +1,144 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-03-12", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-03-12", 
+      "action_code": "", 
+      "committees": [
+        "SSAF"
+      ], 
+      "references": [
+        {
+          "reference": "CR S1743", 
+          "type": "text"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s3479-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Agriculture, Nutrition, and Forestry", 
+      "committee_id": "SSAF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001070", 
+      "district": null, 
+      "name": "Casey, Robert P., Jr.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2020-06-17", 
+      "state": "PA", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "C001096", 
+      "district": null, 
+      "name": "Cramer, Kevin", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2020-06-17", 
+      "state": "ND", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "R000605", 
+      "district": null, 
+      "name": "Rounds, Mike", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2020-06-17", 
+      "state": "SD", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001203", 
+      "district": null, 
+      "name": "Smith, Tina", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2020-06-17", 
+      "state": "MN", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000770", 
+      "district": null, 
+      "name": "Stabenow, Debbie", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-03-12", 
+      "state": "MI", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-03-12", 
+  "number": "3479", 
+  "official_title": "A bill to amend the Federal Crop Insurance Act to encourage the planting of cover crops following prevented planting, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Cover Crop Flexibility Act of 2020", 
+  "sponsor": {
+    "bioguide_id": "T000250", 
+    "district": null, 
+    "name": "Thune, John", 
+    "state": "SD", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-03-12", 
+  "subjects": [
+    "Agriculture and food"
+  ], 
+  "subjects_top_term": "Agriculture and food", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Cover Crop Flexibility Act of 2020", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Cover Crop Flexibility Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Federal Crop Insurance Act to encourage the planting of cover crops following prevented planting, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-12-28T14:37:39Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s3479.xml"
+}

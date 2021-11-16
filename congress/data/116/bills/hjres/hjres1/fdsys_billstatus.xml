@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>1</billNumber>
+    <createDate>2019-01-04T13:32:48Z</createDate>
+    <updateDate>2020-12-28T14:38:38Z</updateDate>
+    <originChamber>House</originChamber>
+    <billType>HJRES</billType>
+    <introducedDate>2019-01-03</introducedDate>
+    <congress>116</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>[Congressional Record Volume 165, Number 1 (Thursday, January 3, 2019)][House]From the Congressional Record Online through the Government Publishing Office [<a href="http://www.gpo.gov">www.gpo.gov</a>]By Mrs. LOWEY:H.J. Res. 1.Congress has the power to enact this legislation pursuantto the following:The principal constitutional authority for thislegislation is clause 7 of section 9 of article I of theConstitution of the United States (the appropriation power),which states:``No Money shall be drawn from the Treasury, but inConsequence of Appropriations made by Law. . . .''In addition, clause 1 of section 8 of article I of theConstitution (the spending power) provides:``The Congress shall have the Power . . . to pay the Debtsand provide for the common Defence and general Welfare of theUnited States . . .''Together, these specific constitutional provisionsestablish the congressional power of the purse, grantingCongress the authority to appropriate funds, to determinetheir purpose, amount, and period of availability, and to setforth terms and conditions governing their use.[Page H218]</pre>]]></constitutionalAuthorityStatementText>
+    <recordedVotes>
+      <recordedVote>
+        <rollNumber>9</rollNumber>
+        <url>https://clerk.house.gov/evs/2019/roll009.xml</url>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <chamber>House</chamber>
+        <congress>116</congress>
+        <date>2019-01-04T02:35:56Z</date>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+      <recordedVote>
+        <rollNumber>8</rollNumber>
+        <url>https://clerk.house.gov/evs/2019/roll008.xml</url>
+        <fullActionName>Motion to Commit/Recommit Results</fullActionName>
+        <chamber>House</chamber>
+        <congress>116</congress>
+        <date>2019-01-04T02:26:11Z</date>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+    </recordedVotes>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsap00</systemCode>
+          <name>Appropriations Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2019-01-03T23:57:16Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2019-01-03T22:55:45Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <relatedBills>
+      <item>
+        <latestTitle>Consolidated Appropriations Act, 2019</latestTitle>
+        <congress>116</congress>
+        <number>31</number>
+        <type>HJRES</type>
+        <latestAction>
+          <actionDate>2019-02-15</actionDate>
+          <text>Became Public Law No: 116-6.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2019-02-11</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion to proceed to consideration of measure withdrawn in Senate.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-02-11</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Cloture motion on the motion to proceed to the consideration of measure presented in Senate. (CR S1155)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-02-11</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Motion to proceed to consideration of measure made in Senate. (CR S1152)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2019-01-08</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 6.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-01-04</actionDate>
+        <committees />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2019-01-03</actionDate>
+        <actionTime>21:35:58</actionTime>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-01-03</actionDate>
+        <actionTime>21:35:56</actionTime>
+        <links />
+        <text>On passage Passed by recorded vote: 239 - 192 (Roll no. 9). (text: CR H190)</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-01-03</actionDate>
+        <actionTime>21:35:56</actionTime>
+        <links />
+        <text>Passed/agreed to in House: On passage Passed by recorded vote: 239 - 192 (Roll no. 9).(text: CR H190)</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-01-03</actionDate>
+        <actionTime>21:26:11</actionTime>
+        <links />
+        <text>On motion to recommit Failed by the Yeas and Nays: 197 - 233 (Roll No. 8).</text>
+        <type>Floor</type>
+        <actionCode>H36210</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsap00</systemCode>
+            <name>Appropriations Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-01-03</actionDate>
+        <actionTime>20:55:40</actionTime>
+        <links />
+        <text>The previous question on the motion to recommit was ordered without objection.</text>
+        <type>Floor</type>
+        <actionCode>H8A000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-01-03</actionDate>
+        <actionTime>20:54:17</actionTime>
+        <links />
+        <text>Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Granger motion to recommit.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-01-03</actionDate>
+        <actionTime>20:54:06</actionTime>
+        <links />
+        <text>Ms. Granger moved to recommit to the Committee on Appropriations.</text>
+        <type>Floor</type>
+        <actionCode>H36200</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsap00</systemCode>
+            <name>Appropriations Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-01-03</actionDate>
+        <actionTime>20:53:11</actionTime>
+        <links />
+        <text>The previous question was ordered pursuant to the rule.</text>
+        <type>Floor</type>
+        <actionCode>H35000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-01-03</actionDate>
+        <actionTime>20:24:48</actionTime>
+        <links />
+        <text>DEBATE - The House proceeded with thirty minutes of debate on H.J. Res. 1.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-01-03</actionDate>
+        <actionTime>20:23:18</actionTime>
+        <links />
+        <text>Considered under the provisions of rule H. Res. 5. (consideration: CR H190-196)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <text>Committee on Appropriations discharged.</text>
+        <type>Discharge</type>
+        <actionCode>H12300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsap00</systemCode>
+            <name>Appropriations Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <text>Committee on Appropriations discharged.</text>
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsap00</systemCode>
+            <name>Appropriations Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <text>Referred to the House Committee on Appropriations.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsap00</systemCode>
+            <name>Appropriations Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2019-01-03</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <motionToConsider>2</motionToConsider>
+        <clotureMotionPresented>1</clotureMotionPresented>
+        <placedOnCalendarSection>2</placedOnCalendarSection>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <motionToCommitRecommitResults>1</motionToCommitRecommitResults>
+        <placeholderTextForHA>1</placeholderTextForHA>
+        <generalDebate>2</generalDebate>
+        <motionToCommitRecommitOffered>1</motionToCommitRecommitOffered>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <considerationByHouse>1</considerationByHouse>
+        <committeeDischarged>1</committeeDischarged>
+        <houseCommitteeDischarged>1</houseCommitteeDischarged>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>5</senate>
+        <houseOfRepresentatives>15</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>L000480</bioguideId>
+        <fullName>Rep. Lowey, Nita M. [D-NY-17]</fullName>
+        <firstName>NITA</firstName>
+        <middleName>M.</middleName>
+        <lastName>LOWEY</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <lisID>709</lisID>
+          <bioguideId>L000480</bioguideId>
+          <gpoId>8079</gpoId>
+        </identifiers>
+        <district>17</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors />
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2019-01-03</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2019-01-07T17:50:37Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This joint resolution provides continuing FY2019 appropriations for the Department of Homeland Security (DHS) through the earlier of February 8, 2019, or the enactment of the applicable appropriations legislation. </p> <p>It is known as a continuing resolution (CR) and ends the partial DHS shutdown that began on December 22, 2018, because the existing CR expired and the FY2019 DHS appropriations bill has not been enacted. </p> <p>The CR also</p> <ul> <li>compensates DHS employees furloughed as a result of any lapse in appropriations that began on or about December 22, 2018, and ended upon the enactment of this joint resolution;</li> <li>reimburses or compensates certain states, federal grantees, and furloughed state employees for the lapse in DHS appropriations; and</li> <li>ratifies and approves certain obligations incurred in anticipation of the appropriations made and the authority granted by this joint resolution. </li> </ul> <p>Additionally, the CR has the effect of extending through February 8, 2019, several immigration programs and authorities that were extended in prior CRs and expired on December 21, 2018. </p>]]></text>
+          <updateDate>2019-01-03T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+        <item>
+          <versionCode>53</versionCode>
+          <actionDate>2019-01-03</actionDate>
+          <actionDesc>Passed House</actionDesc>
+          <lastSummaryUpdateDate>2019-01-08T22:50:24Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This joint resolution provides continuing FY2019 appropriations for the Department of Homeland Security (DHS) through the earlier of February 8, 2019, or the enactment of the applicable appropriations legislation. </p> <p>It is known as a continuing resolution (CR) and ends the partial DHS shutdown that began on December 22, 2018, because the existing CR expired and the FY2019 DHS appropriations bill has not been enacted. </p> <p>The CR also</p> <ul> <li>compensates DHS employees furloughed as a result of any lapse in appropriations that began on or about December 22, 2018, and ended upon the enactment of this joint resolution;</li> <li>reimburses or compensates certain states, federal grantees, and furloughed state employees for the lapse in DHS appropriations; and</li> <li>ratifies and approves certain obligations incurred in anticipation of the appropriations made and the authority granted by this joint resolution. </li> </ul> <p>Additionally, the CR has the effect of extending through February 8, 2019, several immigration programs and authorities that were extended in prior CRs and expired on December 21, 2018. </p>]]></text>
+          <updateDate>2019-01-03T19:19:09Z</updateDate>
+          <name>Passed House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Making further continuing appropriations for the Department of Homeland Security for fiscal year 2019, and for other purposes.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>Making further continuing appropriations for the Department of Homeland Security for fiscal year 2019, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Making further continuing appropriations for the Department of Homeland Security for fiscal year 2019, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Placed on Calendar Senate</type>
+        <date>2019-01-08T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hjres1pcs/xml/BILLS-116hjres1pcs.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2019-01-03T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hjres1eh/xml/BILLS-116hjres1eh.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2019-02-11</actionDate>
+      <text>Motion to proceed to consideration of measure withdrawn in Senate.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0006</number>
+      </item>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

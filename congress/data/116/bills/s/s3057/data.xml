@@ -1,0 +1,39 @@
+<bill session="116" type="s" number="3057" updated="2020-02-13T20:29:44Z">
+  <state datetime="2019-12-16">REFERRED</state>
+  <status>
+    <introduced datetime="2019-12-16"/>
+  </status>
+  <introduced datetime="2019-12-16"/>
+  <titles>
+    <title type="short" as="introduced">Modernization of the Older Americans Act Amendments</title>
+    <title type="short" as="introduced">Modernization of the Older Americans Act Amendments</title>
+    <title type="display">Modernization of the Older Americans Act Amendments</title>
+    <title type="official" as="introduced">A bill to modernize the Older Americans Act of 1965, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="C001035"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001070" joined="2019-12-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2019-12-16">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2019-12-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S7053-7057" label="Sponsor introductory remarks on measure"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="116" relation="unknown" number="1671"/>
+    <bill type="h" session="116" relation="unknown" number="4853"/>
+    <bill type="h" session="116" relation="unknown" number="4833"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

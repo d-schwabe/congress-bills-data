@@ -1,0 +1,110 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-03-12", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-03-12", 
+      "action_code": "", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s3477-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "R000615", 
+      "district": null, 
+      "name": "Romney, Mitt", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-03-12", 
+      "state": "UT", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-03-12", 
+  "number": "3477", 
+  "official_title": "A bill to establish a matched savings program for low-income students.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Earn to Learn Act", 
+  "sponsor": {
+    "bioguide_id": "S001191", 
+    "district": null, 
+    "name": "Sinema, Kyrsten", 
+    "state": "AZ", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-03-12", 
+  "subjects": [
+    "Academic performance and assessments", 
+    "Bank accounts, deposits, capital", 
+    "Congressional oversight", 
+    "Education", 
+    "Education of the disadvantaged", 
+    "Education programs funding", 
+    "Financial literacy", 
+    "Higher education", 
+    "Income tax exclusion", 
+    "Performance measurement", 
+    "Student aid and college costs", 
+    "Vocational and technical education"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Earn to Learn Act", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Earn to Learn Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to establish a matched savings program for low-income students.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-12-29T16:30:17Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s3477.xml"
+}

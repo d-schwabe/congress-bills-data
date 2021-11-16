@@ -1,0 +1,107 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-09-24", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-09-24", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Reform.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr8385-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Oversight and Reform", 
+      "committee_id": "HSGO"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-09-24", 
+  "number": "8385", 
+  "official_title": "To establish the Taxpayer Protection Program to provide forgivable loans to State, territory, Tribal, and local governments, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Taxpayer Protection Act of 2020", 
+  "sponsor": {
+    "bioguide_id": "L000585", 
+    "district": "18", 
+    "name": "LaHood, Darin", 
+    "state": "IL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-09-24", 
+  "subjects": [
+    "Appropriations", 
+    "Cardiovascular and respiratory health", 
+    "Economic performance and conditions", 
+    "Emergency medical services and trauma care", 
+    "Government employee pay, benefits, personnel management", 
+    "Government information and archives", 
+    "Government lending and loan guarantees", 
+    "Government operations and politics", 
+    "Indian social and development programs", 
+    "Infectious and parasitic diseases", 
+    "State and local finance", 
+    "State and local government operations", 
+    "U.S. territories and protectorates", 
+    "Unemployment"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Taxpayer Protection Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Taxpayer Protection Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Taxpayer Protection Act of 2020", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish the Taxpayer Protection Program to provide forgivable loans to State, territory, Tribal, and local governments, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-10-27T18:01:55Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr8385.xml"
+}

@@ -1,0 +1,97 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-10-27", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-10-27", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSSM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Small Business.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr8686-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Small Business", 
+      "committee_id": "HSSM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-10-27", 
+  "number": "8686", 
+  "official_title": "To amend the CARES Act to require an extension of subsidies for certain loan payments, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Small Business COVID\u201319 Debt Relief Extension Act of 2020", 
+  "sponsor": {
+    "bioguide_id": "C001072", 
+    "district": "7", 
+    "name": "Carson, Andre", 
+    "state": "IN", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-10-27", 
+  "subjects": [
+    "Cardiovascular and respiratory health", 
+    "Commerce", 
+    "Emergency medical services and trauma care", 
+    "Government lending and loan guarantees", 
+    "Infectious and parasitic diseases", 
+    "Interest, dividends, interest rates", 
+    "Minority and disadvantaged businesses", 
+    "Small business", 
+    "Veterans' loans, housing, homeless programs", 
+    "Women in business"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Small Business COVID\u201319 Debt Relief Extension Act of 2020", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Small Business COVID\u201319 Debt Relief Extension Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the CARES Act to require an extension of subsidies for certain loan payments, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-12-28T17:46:01Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr8686.xml"
+}

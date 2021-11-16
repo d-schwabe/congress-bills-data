@@ -1,0 +1,40 @@
+<bill session="116" type="s" number="3527" updated="2020-12-28T14:37:47Z">
+  <state datetime="2020-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="2020-03-18"/>
+  </status>
+  <introduced datetime="2020-03-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to waive required minimum distribution rules for retirement plans in 2020.</title>
+    <title type="display">A bill to waive required minimum distribution rules for retirement plans in 2020.</title>
+  </titles>
+  <sponsor bioguide_id="M000133"/>
+  <cosponsors>
+    <cosponsor bioguide_id="D000618" joined="2020-03-18"/>
+    <cosponsor bioguide_id="D000563" joined="2020-03-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-03-18">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2020-03-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="116" relation="unknown" number="3557"/>
+    <bill type="h" session="116" relation="identical" number="6335"/>
+    <bill type="h" session="116" relation="unknown" number="6377"/>
+    <bill type="h" session="116" relation="unknown" number="748"/>
+    <bill type="h" session="116" relation="unknown" number="6379"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+  <summary date="2020-03-18T04:00:00Z" status="Introduced in Senate">This bill waives required minimum distributions from certain tax-exempt retirement plans for calendar year 2020.</summary>
+  <committee-reports/>
+</bill>

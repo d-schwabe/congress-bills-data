@@ -1,0 +1,2125 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-03", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Foreign Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-01-10T15:05:00-05:00", 
+      "action_code": "H30300", 
+      "references": [], 
+      "text": "Mr. Engel moved to suspend the rules and pass the bill.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-10T15:05:20-05:00", 
+      "action_code": "H30000", 
+      "references": [
+        {
+          "reference": "CR H430-432", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-10T15:05:21-05:00", 
+      "action_code": "H8D000", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 133.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-10T15:11:20-05:00", 
+      "action_code": "H37300", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H430-431", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2019-01-10T15:11:29-05:00", 
+      "action_code": "H38310", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-01-11", 
+      "action_code": "", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Foreign Relations.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-12-11", 
+      "action_code": "", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "text": "Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2019-12-17", 
+      "action_code": "", 
+      "committee": "Foreign Relations", 
+      "committees": [
+        "SSFR"
+      ], 
+      "references": [], 
+      "text": "Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2019-12-17", 
+      "action_code": "", 
+      "calendar": "Senate Legislative", 
+      "number": "336", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 336.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }, 
+    {
+      "acted_at": "2020-01-15", 
+      "action_code": "", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S250-251", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S250-251", 
+          "type": "text of amendment in the nature of a substitute"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_BACK:SENATE", 
+      "text": "Passed Senate with an amendment by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote2", 
+      "where": "s"
+    }, 
+    {
+      "acted_at": "2020-01-16", 
+      "action_code": "", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-12-21T18:15:20-05:00", 
+      "action_code": "H40150", 
+      "references": [
+        {
+          "reference": "CR H7301-7315", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Mrs. Lowey moved that the House agree with an amendment to the Senate amendment.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-12-21T18:15:25-05:00", 
+      "action_code": "H8D000", 
+      "bill_ids": [
+        "hres1271-116"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H.Res. 1271, the House proceeded with one hour of debate on the motion to agree in the Senate amendment with an amendment to H.R. 133.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-12-21T19:22:37-05:00", 
+      "action_code": "H40150", 
+      "references": [], 
+      "text": "Mrs. Lowey moved that the House agree in Senate amendment with portion of amendment comprising divisions B, C, E and F", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-12-21T19:26:27-05:00", 
+      "action_code": "H40150", 
+      "references": [], 
+      "text": "Mrs. Lowey moved that the House agree in Senate amendment with amendment (except divisions B, C, E and F).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-12-21T19:33:56-05:00", 
+      "action_code": "H8D000", 
+      "bill_ids": [
+        "hres1271-116"
+      ], 
+      "references": [], 
+      "text": "Pursuant to the provisions of H.Res. 1271, the previous question was ordered on the motion to agree to the Senate amendment with an amendment to H.R. 133.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-12-21T20:27:59-05:00", 
+      "action_code": "H41610", 
+      "references": [], 
+      "text": "On motion to agree in Senate amendment with portion of amendment comprising divisions B, C, E and F Agreed to by the Yeas and Nays: 327 - 85 (Roll no. 250).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-12-21T21:11:14-05:00", 
+      "action_code": "H41610", 
+      "references": [], 
+      "text": "On motion to agree in Senate amendment with amendment (except divisions B, C, E and F) Agreed to by the Yeas and Nays: 359 - 53 (Roll no. 251).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-12-21T21:11:31-05:00", 
+      "action_code": "H41610", 
+      "how": "without objection", 
+      "references": [
+        {
+          "reference": "CR H7323-7878", 
+          "type": "text of amendment in the nature of a substitute"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_BACK:HOUSE", 
+      "suspension": null, 
+      "text": "On motion that the House agree with an amendment to the Senate amendment Agreed to without objection.", 
+      "type": "vote", 
+      "vote_type": "pingpong", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2020-12-21T21:11:32-05:00", 
+      "action_code": "H41931", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-12-21", 
+      "action_code": "", 
+      "references": [], 
+      "text": "Message on House action received in Senate and at desk: House amendment to Senate amendment.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-12-21", 
+      "action_code": "", 
+      "references": [
+        {
+          "reference": "CR S7922-7923, S7924-7928", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Senate agreed, having achieved 60 votes in the affirmative, to the House amendment to the Senate amendment to H.R. 133 by Yea-Nay Vote. 92 - 6. Record Vote Number: 289.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-12-22", 
+      "action_code": "", 
+      "references": [], 
+      "text": "Message on Senate action sent to the House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-12-24", 
+      "action_code": "E20000", 
+      "references": [], 
+      "text": "Presented to President.", 
+      "type": "topresident"
+    }, 
+    {
+      "acted_at": "2020-12-27", 
+      "action_code": "E30000", 
+      "references": [], 
+      "status": "ENACTED:SIGNED", 
+      "text": "Signed by President.", 
+      "type": "signed"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "samdt2731-116", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "2731"
+    }
+  ], 
+  "bill_id": "hr133-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "reporting", 
+        "markup", 
+        "referral"
+      ], 
+      "committee": "Senate Foreign Relations", 
+      "committee_id": "SSFR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001084", 
+      "district": "1", 
+      "name": "Cicilline, David N.", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-08", 
+      "state": "RI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "G000581", 
+      "district": "15", 
+      "name": "Gonzalez, Vicente", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-03", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "M001157", 
+      "district": "10", 
+      "name": "McCaul, Michael T.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-01-03", 
+      "state": "TX", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S000344", 
+      "district": "30", 
+      "name": "Sherman, Brad", 
+      "original_cosponsor": false, 
+      "sponsored_at": "2019-01-08", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2019-01-10T15:05:00-05:00", 
+    "awaiting_signature": true, 
+    "awaiting_signature_since": "2020-12-27", 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2020-12-21T21:11:31-05:00", 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2020-01-15", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-01-03", 
+  "number": "133", 
+  "official_title": "Making consolidated appropriations for the fiscal year ending September 30, 2021, providing coronavirus emergency response and relief, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s587-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hconres127-116", 
+      "identified_by": "House", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hres1271-116", 
+      "identified_by": "House", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr1980-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2420-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s959-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1267-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr7608-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr7609-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr7610-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr7611-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr7612-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr7613-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr7614-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr7616-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr7617-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr7667-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr7668-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr7669-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "ACCESS BROADBAND Act", 
+  "sponsor": {
+    "bioguide_id": "C001063", 
+    "district": "28", 
+    "name": "Cuellar, Henry", 
+    "state": "TX", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "ENACTED:SIGNED", 
+  "status_at": "2020-12-27", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Administrative remedies", 
+    "Advanced technology and technological innovations", 
+    "Afghanistan", 
+    "Africa", 
+    "African Development Foundation", 
+    "Aging", 
+    "Agricultural conservation and pollution", 
+    "Agricultural education", 
+    "Agricultural insurance", 
+    "Agricultural marketing and promotion", 
+    "Agricultural prices, subsidies, credit", 
+    "Agricultural research", 
+    "Agricultural trade", 
+    "Air quality", 
+    "Alaska", 
+    "Alaska Natives and Hawaiians", 
+    "Alcoholic beverages", 
+    "Alliances", 
+    "Alternative and renewable resources", 
+    "Alternative dispute resolution, mediation, arbitration", 
+    "Alternative treatments", 
+    "American Battle Monuments Commission", 
+    "American Samoa", 
+    "Animal and plant health", 
+    "Appropriations", 
+    "Aquaculture", 
+    "Aquatic ecology", 
+    "Arab-Israeli relations", 
+    "Architect of the Capitol", 
+    "Armed Forces Retirement Home", 
+    "Armenia", 
+    "Arms control and nonproliferation", 
+    "Asia", 
+    "Assault and harassment offenses", 
+    "Astronomy", 
+    "Atmospheric science and weather", 
+    "Aviation and airports", 
+    "Azerbaijan", 
+    "Bangladesh", 
+    "Banking and financial institutions regulation", 
+    "Bankruptcy", 
+    "Books and print media", 
+    "Border security and unlawful immigration", 
+    "Building construction", 
+    "Burma", 
+    "Business education", 
+    "Business expenses", 
+    "Business investment and capital", 
+    "Buy American requirements", 
+    "California", 
+    "Cambodia", 
+    "Cameroon", 
+    "Canada", 
+    "Cardiovascular and respiratory health", 
+    "Caribbean area", 
+    "Cemeteries and funerals", 
+    "Census and government statistics", 
+    "Centers for Disease Control and Prevention (CDC)", 
+    "Central African Republic", 
+    "Central Intelligence Agency (CIA)", 
+    "Chad", 
+    "Charitable contributions", 
+    "Chemical and biological weapons", 
+    "Child care and development", 
+    "Child health", 
+    "Child safety and welfare", 
+    "China", 
+    "Civics education", 
+    "Civil actions and liability", 
+    "Climate change and greenhouse gases", 
+    "Collective security", 
+    "Colombia", 
+    "Commission on Civil Rights", 
+    "Committee for Purchase from People Who Are Blind or Severely Disabled", 
+    "Community life and organization", 
+    "Competitiveness, trade promotion, trade deficits", 
+    "Computer security and identity theft", 
+    "Computers and information technology", 
+    "Conflicts and wars", 
+    "Congressional Budget Office (CBO)", 
+    "Congressional Research Service (CRS)", 
+    "Congressional agencies", 
+    "Congressional committees", 
+    "Congressional leadership", 
+    "Congressional officers and employees", 
+    "Congressional operations and organization", 
+    "Congressional oversight", 
+    "Corporation for National and Community Service", 
+    "Corporation for Public Broadcasting", 
+    "Correctional facilities and imprisonment", 
+    "Credit and credit markets", 
+    "Crime prevention", 
+    "Crimes against women", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal justice information and records", 
+    "Criminal procedure and sentencing", 
+    "Cuba", 
+    "Cultural exchanges and relations", 
+    "Defense spending", 
+    "Democratic Republic of the Congo", 
+    "Department of Agriculture", 
+    "Department of Commerce", 
+    "Department of Defense", 
+    "Department of Education", 
+    "Department of Energy", 
+    "Department of Health and Human Services", 
+    "Department of Homeland Security", 
+    "Department of Housing and Urban Development", 
+    "Department of Justice", 
+    "Department of Labor", 
+    "Department of State", 
+    "Department of Transportation", 
+    "Department of Veterans Affairs", 
+    "Department of the Interior", 
+    "Department of the Treasury", 
+    "Detention of persons", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Director of National Intelligence", 
+    "Disability and health-based discrimination", 
+    "Disability assistance", 
+    "Disaster relief and insurance", 
+    "District of Columbia", 
+    "Domestic violence and child abuse", 
+    "Drug Enforcement Administration (DEA)", 
+    "Drug trafficking and controlled substances", 
+    "Drug, alcohol, tobacco use", 
+    "Economic development", 
+    "Economics and public finance", 
+    "Education of the disadvantaged", 
+    "Education programs funding", 
+    "Educational facilities and institutions", 
+    "Educational technology and distance education", 
+    "Egypt", 
+    "El Salvador", 
+    "Elections, voting, political campaign regulation", 
+    "Electric power generation and transmission", 
+    "Elementary and secondary education", 
+    "Emergency medical services and trauma care", 
+    "Employee benefits and pensions", 
+    "Employee leave", 
+    "Employment and training programs", 
+    "Employment discrimination and employee rights", 
+    "Employment taxes", 
+    "Energy assistance for the poor and aged", 
+    "Energy efficiency and conservation", 
+    "Energy storage, supplies, demand", 
+    "Environmental Protection Agency (EPA)", 
+    "Environmental assessment, monitoring, research", 
+    "Environmental regulatory procedures", 
+    "Equal Employment Opportunity Commission (EEOC)", 
+    "Europe", 
+    "Evidence and witnesses", 
+    "Executive Office of the President", 
+    "Executive agency funding and structure", 
+    "Export-Import Bank of the United States", 
+    "Family services", 
+    "Farm Credit Administration", 
+    "Federal Bureau of Investigation (FBI)", 
+    "Federal Communications Commission (FCC)", 
+    "Federal Mediation and Conciliation Service", 
+    "Federal Mine Safety and Health Review Commission", 
+    "Federal appellate courts", 
+    "Federal-Indian relations", 
+    "Financial services and investments", 
+    "Firearms and explosives", 
+    "Fishes", 
+    "Floods and storm protection", 
+    "Food and Drug Administration (FDA)", 
+    "Food assistance and relief", 
+    "Food industry and services", 
+    "Food supply, safety, and labeling", 
+    "Foreign aid and international relief", 
+    "Foreign language and bilingual programs", 
+    "Foreign loans and debt", 
+    "Fraud offenses and financial crimes", 
+    "Free trade and trade barriers", 
+    "Fruit and vegetables", 
+    "Gaza Strip", 
+    "Georgia", 
+    "Georgia (Republic)", 
+    "Government Accountability Office (GAO)", 
+    "Government Publishing Office (GPO)", 
+    "Government buildings, facilities, and property", 
+    "Government employee pay, benefits, personnel management", 
+    "Government ethics and transparency, public corruption", 
+    "Government information and archives", 
+    "Government lending and loan guarantees", 
+    "Government liability", 
+    "Government studies and investigations", 
+    "Government trust funds", 
+    "Guam", 
+    "Guatemala", 
+    "HIV/AIDS", 
+    "Haiti", 
+    "Hazardous wastes and toxic substances", 
+    "Health care costs and insurance", 
+    "Health care coverage and access", 
+    "Health care quality", 
+    "Health facilities and institutions", 
+    "Health information and medical records", 
+    "Health personnel", 
+    "Health programs administration and funding", 
+    "Health promotion and preventive care", 
+    "Health technology, devices, supplies", 
+    "Higher education", 
+    "Historic sites and heritage areas", 
+    "Historical and cultural resources", 
+    "Home and outpatient care", 
+    "Homelessness and emergency shelter", 
+    "Honduras", 
+    "Hong Kong", 
+    "Horticulture and plants", 
+    "Hospital care", 
+    "House Committee on Appropriations", 
+    "House of Representatives", 
+    "Housing and community development funding", 
+    "Housing for the elderly and disabled", 
+    "Human rights", 
+    "Human trafficking", 
+    "Idaho", 
+    "Immigration status and procedures", 
+    "Immunology and vaccination", 
+    "Income tax credits", 
+    "Income tax deductions", 
+    "Income tax exclusion", 
+    "India", 
+    "Indian social and development programs", 
+    "Infectious and parasitic diseases", 
+    "Infrastructure development", 
+    "Insurance industry and regulation", 
+    "Intellectual property", 
+    "Intelligence activities, surveillance, classified information", 
+    "Inter-American Foundation", 
+    "Internal Revenue Service (IRS)", 
+    "International Affairs", 
+    "International exchange and broadcasting", 
+    "International law and treaties", 
+    "International monetary system and foreign exchange", 
+    "International organizations and cooperation", 
+    "Internet and video services", 
+    "Iran", 
+    "Iraq", 
+    "Israel", 
+    "Joint Committee on Taxation", 
+    "Joint Economic Committee", 
+    "Jordan", 
+    "Judicial procedure and administration", 
+    "Judicial review and appeals", 
+    "Juvenile crime and gang violence", 
+    "Kentucky", 
+    "Lakes and rivers", 
+    "Landlord and tenant", 
+    "Laos", 
+    "Latin America", 
+    "Law enforcement administration and funding", 
+    "Law enforcement officers", 
+    "Lawyers and legal services", 
+    "Lebanon", 
+    "Legal Services Corporation", 
+    "Legislative rules and procedure", 
+    "Liberia", 
+    "Libraries and archives", 
+    "Library of Congress", 
+    "Libya", 
+    "Licensing and registrations", 
+    "Life, casualty, property insurance", 
+    "Livestock", 
+    "Long-term, rehabilitative, and terminal care", 
+    "Low- and moderate-income housing", 
+    "Malawi", 
+    "Manufacturing", 
+    "Marine Mammal Commission", 
+    "Marine and coastal resources, fisheries", 
+    "Meat", 
+    "Medicaid", 
+    "Medical education", 
+    "Medical research", 
+    "Medical tests and diagnostic methods", 
+    "Medicare", 
+    "Medicare Payment Advisory Commission", 
+    "Members of Congress", 
+    "Mental health", 
+    "Metals", 
+    "Mexico", 
+    "Middle East", 
+    "Military assistance, sales, and agreements", 
+    "Military education and training", 
+    "Military facilities and property", 
+    "Military medicine", 
+    "Military operations and strategy", 
+    "Military personnel and dependents", 
+    "Military procurement, research, weapons development", 
+    "Militias and paramilitary groups", 
+    "Minnesota", 
+    "Minority and disadvantaged businesses", 
+    "Minority education", 
+    "Missing persons", 
+    "Mississippi River", 
+    "Montana", 
+    "Morocco", 
+    "Motor carriers", 
+    "Multilateral development programs", 
+    "Museums, exhibitions, cultural centers", 
+    "Music", 
+    "National Aeronautics and Space Administration", 
+    "National Guard and reserves", 
+    "National Institutes of Health (NIH)", 
+    "National Labor Relations Board (NLRB)", 
+    "National Mediation Board", 
+    "National Railroad Passenger Corporation (Amtrak)", 
+    "National Science Foundation", 
+    "National and community service", 
+    "National symbols", 
+    "Navigation, waterways, harbors", 
+    "Nepal", 
+    "Nevada", 
+    "New York State", 
+    "News media and reporting", 
+    "Niger", 
+    "Nigeria", 
+    "North Dakota", 
+    "North Korea", 
+    "Northern Mariana Islands", 
+    "Nuclear weapons", 
+    "Nursing", 
+    "Nutrition and diet", 
+    "Occupational Safety and Health Review Commission", 
+    "Office of the U.S. Trade Representative", 
+    "Oil and gas", 
+    "Oregon", 
+    "Pacific Ocean", 
+    "Pakistan", 
+    "Palestinians", 
+    "Parks, recreation areas, trails", 
+    "Peace Corps", 
+    "Performing arts", 
+    "Pest management", 
+    "Philippines", 
+    "Pipelines", 
+    "Policy sciences", 
+    "Political parties and affiliation", 
+    "Postal service", 
+    "Preschool education", 
+    "Prescription drugs", 
+    "Presidents and presidential powers, Vice Presidents", 
+    "Public contracts and procurement", 
+    "Public housing", 
+    "Public transit", 
+    "Public utilities and utility rates", 
+    "Puerto Rico", 
+    "Railroad Retirement Board", 
+    "Railroads", 
+    "Refugees, asylum, displaced persons", 
+    "Religion", 
+    "Research administration and funding", 
+    "Research and development", 
+    "Roads and highways", 
+    "Rule of law and government transparency", 
+    "Rural conditions and development", 
+    "Russia", 
+    "Sanctions", 
+    "Saudi Arabia", 
+    "Seafood", 
+    "Securities", 
+    "Self-employed", 
+    "Senate", 
+    "Senate Committee on Appropriations", 
+    "Sex offenses", 
+    "Small Business Administration", 
+    "Small business", 
+    "Smithsonian Institution", 
+    "Social Security Administration", 
+    "Social security and elderly assistance", 
+    "Social work, volunteer service, charitable organizations", 
+    "Solid waste and recycling", 
+    "South Dakota", 
+    "South Sudan", 
+    "Sovereignty, recognition, national governance and status", 
+    "Space flight and exploration", 
+    "Spacecraft and satellites", 
+    "Special education", 
+    "Specialized courts", 
+    "Sri Lanka", 
+    "State and local courts", 
+    "State and local government operations", 
+    "Student aid and college costs", 
+    "Sudan", 
+    "Syria", 
+    "Tax administration and collection, taxpayers", 
+    "Tax-exempt organizations", 
+    "Teaching, teachers, curricula", 
+    "Technology assessment", 
+    "Telecommunication rates and fees", 
+    "Television and film", 
+    "Temporary and part-time employment", 
+    "Terrorism", 
+    "Texas", 
+    "Thailand", 
+    "Tibet", 
+    "Trade adjustment assistance", 
+    "Trade agreements and negotiations", 
+    "Trade and Development Agency", 
+    "Trade restrictions", 
+    "Transportation employees", 
+    "Transportation programs funding", 
+    "Transportation safety and security", 
+    "Travel and tourism", 
+    "Tunisia", 
+    "U.S. Agency for Global Media", 
+    "U.S. Agency for International Development (USAID)", 
+    "U.S. Capitol", 
+    "U.S. Commission on International Religious Freedom", 
+    "U.S. International Trade Commission", 
+    "U.S. Postal Service", 
+    "U.S. territories and protectorates", 
+    "Ukraine", 
+    "Unemployment", 
+    "United Nations", 
+    "User charges and fees", 
+    "Utah", 
+    "Venezuela", 
+    "Veterans' education, employment, rehabilitation", 
+    "Veterans' loans, housing, homeless programs", 
+    "Veterans' medical care", 
+    "Veterans' organizations and recognition", 
+    "Veterans' pensions and compensation", 
+    "Veterinary medicine and animal diseases", 
+    "Vietnam", 
+    "Violent crime", 
+    "Virgin Islands", 
+    "Vocational and technical education", 
+    "Wages and earnings", 
+    "War crimes, genocide, crimes against humanity", 
+    "Washington State", 
+    "Water quality", 
+    "Water resources funding", 
+    "Water use and supply", 
+    "Watersheds", 
+    "West Bank", 
+    "Women's health", 
+    "Women's rights", 
+    "Worker safety and health", 
+    "World health", 
+    "Yemen", 
+    "Zimbabwe"
+  ], 
+  "subjects_top_term": "Economics and public finance", 
+  "summary": {
+    "as": "Passed Senate", 
+    "date": "2020-01-15T14:48:52Z", 
+    "text": "United States-Mexico Economic Partnership Act\n\nThis bill directs the Department of State to develop a strategy to enhance economic cooperation and expand professional and educational exchange programs between the United States and Mexico.\n\nThe State Department shall develop strategies to encourage more academic exchanges between the countries, as well as exchanges to encourage strengthening business skills and entrepreneurship.\n\nThe State Department shall also promote energy infrastructure coordination and educational development. It shall also assess ways to develop partnerships between the countries' medical and nursing schools. The plan should ensure that accreditation standards for such schools are comparable so that students in Mexico can pass the licensing exams needed to practice in the United States."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "United States-Mexico Economic Partnership Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "United States-Mexico Economic Partnership Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "United States-Mexico Economic Partnership Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed senate", 
+      "is_for_portion": false, 
+      "title": "United States-Mexico Economic Partnership Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": false, 
+      "title": "Consolidated Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "ACCESS BROADBAND Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Advancing Critical Connectivity Expands Service, Small Business Resources,Opportunities, Access, and Data Based on Assessed Need and Demand Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "AI in Government Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Aircraft Certification, Safety, and Accountability Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "American COMPETE Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "American Competitiveness Of a More Productive Emerging Tech Economy Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "American Innovation and Manufacturing Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "American Miner Benefits Improvement Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Aquifer Recharge Flexibility Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Beat China by Harnessing Important, National Airwaves for 5G Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Beat CHINA for 5G Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Belarus Democracy, Human Rights, and Sovereignty Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Broadband Interagency Coordination Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "CASE Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Clean Up the Code Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Clean Water for Rural Communities Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Commerce, Justice, Science, and Related Agencies Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "COMMS Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Communications Outreach Media and Mail Standards Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Construction Consensus Procurement Improvement Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Continued Assistance for Unemployed Workers Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Continued Assistance to Rail Workers Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Copyright Alternative in Small-Claims Enforcement Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Coronavirus Economic Relief for Transportation Services Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Coronavirus Response and Relief Supplemental Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Counter Threats Advisory Board Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "COVID-19 Consumer Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "COVID-19 Regulatory Relief and Work From Home Safety Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "COVID-related Tax Relief Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Department of Commerce Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Department of Defense Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Department of Education Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Department of Health and Human Services Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Department of Homeland Security Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Department of Housing and Urban Development Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Department of Justice Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Department of Labor Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Department of State, Foreign Operations, and Related Programs Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Department of the Interior, Environment, and Related Agencies Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Department of the Treasury Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Department of Transportation Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "DHS Countering Unmanned Aircraft Systems Coordinator Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "DHS Overseas Personnel Enhancement Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "District of Columbia Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Don't Break Up the T-Band Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "DOTGOV Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "DOTGOV Online Trust in Government Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Energy Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Energy and Water Development and Related Agencies Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Executive Office of the President Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "FAFSA Simplification Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Financial Services and General Government Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Gandhi-King Scholarly Exchange Initiative Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Horseracing Integrity and Safety Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Intelligence Authorization Act for Fiscal Year 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Judiciary Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Legislative Branch Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Leonel Rondon Pipeline Safety Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Miracle Mountain Designation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Montana Water Rights Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Motor Carrier Safety Grant Relief Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "National Bio and Agro-Defense Facility Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "New River Gorge National Park and Preserve Designation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Nita M. Lowey Middle East Partnership for Peace Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "No Surprises Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "PIPES Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Portable Fuel Container Safety Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Preventing Online Sales of E-Cigarettes to Children Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Protecting our Infrastructure of Pipelines and Enhancing Safety Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "REAL ID Modernization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Robert Levinson Hostage Recovery and Hostage-Taking Accountability Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Saguaro National Park Boundary Expansion Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Science Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Smithsonian American Women's History Museum Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Snow Water Supply Forecasting Program Authorization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Southwest Border Security Technology Improvement Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Sudan Claims Resolution Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Supporting Foster Youth and Families through the Pandemic Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Synthetic Opioid Exposure Prevention and Training Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Taiwan Assurance Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Taxpayer Certainty and Disaster Tax Relief Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "The United States - Northern Triangle Enhanced Engagement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Theodore Roosevelt Presidential Library Conveyance Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "TM Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Trademark Modernization Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "United States-Mexico Economic Partnership Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "USE IT Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Utilizing Significant Emissions with Innovative Technologies Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "enacted", 
+      "is_for_portion": true, 
+      "title": "Water Resources Development Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "ACCESS BROADBAND Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Advancing Critical Connectivity Expands Service, Small Business Resources, Opportunities, Access, and Data Based on Assessed Need and Demand Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "AI in Government Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Aircraft Certification, Safety, and Accountability Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "American COMPETE Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "American Competitiveness Of a More Productive Emerging Tech Economy Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "American Innovation and Manufacturing Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "American Miner Benefits Improvement Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Aquifer Recharge Flexibility Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Beat China by Harnessing Important, National Airwaves for 5G Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Beat CHINA for 5G Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Belarus Democracy, Human Rights, and Sovereignty Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Broadband Interagency Coordination Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "CASE Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Clean Up the Code Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Clean Water for Rural Communities Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Commerce, Justice, Science, and Related Agencies Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "COMMS Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Communications Outreach Media and Mail Standards Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Consolidated Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Construction Consensus Procurement Improvement Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Continued Assistance for Unemployed Workers Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Continued Assistance to Rail Workers Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Copyright Alternative in Small-Claims Enforcement Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Coronavirus Economic Relief for Transportation Services Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Coronavirus Response and Relief Supplemental Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Counter Threats Advisory Board Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "COVID-19 Consumer Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "COVID-19 Regulatory Relief and Work From Home Safety Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "COVID-related Tax Relief Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Department of Commerce Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Department of Defense Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Department of Education Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Department of Health and Human Services Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Department of Homeland Security Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Department of Housing and Urban Development Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Department of Justice Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Department of Labor Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Department of State, Foreign Operations, and Related Programs Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Department of the Interior, Environment, and Related Agencies Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Department of the Treasury Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Department of Transportation Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "DHS Countering Unmanned Aircraft Systems Coordinator Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "DHS Overseas Personnel Enhancement Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "District of Columbia Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Don't Break Up the T-Band Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "DOTGOV Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "DOTGOV Online Trust in Government Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Energy Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Energy and Water Development and Related Agencies Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Executive Office of the President Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "FAFSA Simplification Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Financial Services and General Government Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Gandhi-King Scholarly Exchange Initiative Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Horseracing Integrity and Safety Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Intelligence Authorization Act for Fiscal Year 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Judiciary Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Legislative Branch Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Leonel Rondon Pipeline Safety Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Miracle Mountain Designation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Montana Water Rights Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Motor Carrier Safety Grant Relief Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "National Bio and Agro-Defense Facility Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "New River Gorge National Park and Preserve Designation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Nita M. Lowey Middle East Partnership for Peace Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "No Surprises Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "PIPES Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Portable Fuel Container Safety Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Preventing Online Sales of E-Cigarettes to Children Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Protecting our Infrastructure of Pipelines and Enhancing Safety Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "REAL ID Modernization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Robert Levinson Hostage Recovery and Hostage-Taking Accountability Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Saguaro National Park Boundary Expansion Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Science Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Smithsonian American Women's History Museum Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Snow Water Supply Forecasting Program Authorization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Southwest Border Security Technology Improvement Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Sudan Claims Resolution Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Supporting Foster Youth and Families through the Pandemic Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Synthetic Opioid Exposure Prevention and Training Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Taiwan Assurance Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Taxpayer Certainty and Disaster Tax Relief Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "The United States - Northern Triangle Enhanced Engagement Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Theodore Roosevelt Presidential Library Conveyance Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "TM Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Trademark Modernization Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2021", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "United States-Mexico Economic Partnership Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "USE IT Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Utilizing Significant Emissions with Innovative Technologies Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Water Resources Development Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Consolidated Appropriations Act, 2021", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To promote economic partnership and cooperation between the United States and Mexico.", 
+      "type": "official"
+    }, 
+    {
+      "as": "amended by house", 
+      "is_for_portion": false, 
+      "title": "Making consolidated appropriations for the fiscal year ending September 30, 2021, providing coronavirus emergency response and relief, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-12-29T19:15:32Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr133.xml"
+}

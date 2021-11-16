@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>7667</billNumber>
+    <createDate>2020-07-17T07:12:12Z</createDate>
+    <updateDate>2020-12-29T19:15:30Z</updateDate>
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <introducedDate>2020-07-16</introducedDate>
+    <congress>116</congress>
+    <constitutionalAuthorityStatementText />
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsap00</systemCode>
+          <name>Appropriations Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2020-07-17T00:22:28Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 116-455</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <latestTitle>Defense, Commerce, Justice, Science, Energy and Water Development, Financial Services and General Government, Labor, Health and Human Services, Education, Transportation, Housing, and Urban Development Appropriations Act, 2021</latestTitle>
+        <congress>116</congress>
+        <number>7617</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-08-12</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Appropriations.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Consolidated Appropriations Act, 2021</latestTitle>
+        <congress>116</congress>
+        <number>133</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-12-27</actionDate>
+          <text>Signed by President.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2020-07-16</actionDate>
+        <links />
+        <text>Placed on the Union Calendar, Calendar No. 366.</text>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-07-16</actionDate>
+        <links />
+        <text>The House Committee on Appropriations reported an original measure, H. Rept. 116-455, by Mr. Serrano.</text>
+        <type>Committee</type>
+        <actionCode>H12100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsap00</systemCode>
+            <name>Appropriations Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2020-07-16</actionDate>
+        <links />
+        <text>The House Committee on Appropriations reported an original measure, H. Rept. 116-455, by Mr. Serrano.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsap00</systemCode>
+            <name>Appropriations Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2020-07-16</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <reportedToHouse>1</reportedToHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>S000248</bioguideId>
+        <fullName>Rep. Serrano, Jose E. [D-NY-15]</fullName>
+        <firstName>JOSE</firstName>
+        <middleName>E.</middleName>
+        <lastName>SERRANO</lastName>
+        <party>D</party>
+        <state>NY</state>
+        <identifiers>
+          <lisID>1042</lisID>
+          <bioguideId>S000248</bioguideId>
+          <gpoId>8077</gpoId>
+        </identifiers>
+        <district>15</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors />
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Alaska</name>
+          </item>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Atmospheric science and weather</name>
+          </item>
+          <item>
+            <name>California</name>
+          </item>
+          <item>
+            <name>Census and government statistics</name>
+          </item>
+          <item>
+            <name>Commission on Civil Rights</name>
+          </item>
+          <item>
+            <name>Community life and organization</name>
+          </item>
+          <item>
+            <name>Competitiveness, trade promotion, trade deficits</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Correctional facilities and imprisonment</name>
+          </item>
+          <item>
+            <name>Crime prevention</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Crimes against women</name>
+          </item>
+          <item>
+            <name>Department of Commerce</name>
+          </item>
+          <item>
+            <name>Department of Justice</name>
+          </item>
+          <item>
+            <name>Detention of persons</name>
+          </item>
+          <item>
+            <name>Disaster relief and insurance</name>
+          </item>
+          <item>
+            <name>Drug Enforcement Administration (DEA)</name>
+          </item>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>Economic development</name>
+          </item>
+          <item>
+            <name>Employment discrimination and employee rights</name>
+          </item>
+          <item>
+            <name>Equal Employment Opportunity Commission (EEOC)</name>
+          </item>
+          <item>
+            <name>Executive Office of the President</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Federal Bureau of Investigation (FBI)</name>
+          </item>
+          <item>
+            <name>Firearms and explosives</name>
+          </item>
+          <item>
+            <name>Fishes</name>
+          </item>
+          <item>
+            <name>Idaho</name>
+          </item>
+          <item>
+            <name>Intellectual property</name>
+          </item>
+          <item>
+            <name>Judicial procedure and administration</name>
+          </item>
+          <item>
+            <name>Juvenile crime and gang violence</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+          <item>
+            <name>Lawyers and legal services</name>
+          </item>
+          <item>
+            <name>Legal Services Corporation</name>
+          </item>
+          <item>
+            <name>Manufacturing</name>
+          </item>
+          <item>
+            <name>Marine Mammal Commission</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Minority and disadvantaged businesses</name>
+          </item>
+          <item>
+            <name>National Aeronautics and Space Administration</name>
+          </item>
+          <item>
+            <name>National Science Foundation</name>
+          </item>
+          <item>
+            <name>Nevada</name>
+          </item>
+          <item>
+            <name>Office of Science and Technology Policy</name>
+          </item>
+          <item>
+            <name>Office of the U.S. Trade Representative</name>
+          </item>
+          <item>
+            <name>Oregon</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+          <item>
+            <name>Science and engineering education</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+          <item>
+            <name>Space flight and exploration</name>
+          </item>
+          <item>
+            <name>Spacecraft and satellites</name>
+          </item>
+          <item>
+            <name>State and local courts</name>
+          </item>
+          <item>
+            <name>Technology transfer and commercialization</name>
+          </item>
+          <item>
+            <name>Trade adjustment assistance</name>
+          </item>
+          <item>
+            <name>U.S. International Trade Commission</name>
+          </item>
+          <item>
+            <name>U.S. and foreign investments</name>
+          </item>
+          <item>
+            <name>Violent crime</name>
+          </item>
+          <item>
+            <name>Washington State</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2020-07-16</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2020-07-30T18:18:56Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Commerce, Justice, Science, and Related Agencies Appropriations Act, 2021</b></p> <p>This bill provides FY2021 appropriations to the Department of Commerce, the Department of Justice (DOJ), the science agencies, and several related agencies. </p> <p>The bill provides appropriations to the Department of Commerce for</p> <ul> <li> the International Trade Administration, </li> <li>the Bureau of Industry and Security, </li> <li>the Economic Development Administration,</li> <li> the Minority Business Development Agency, </li> <li>Economic and Statistical Analysis, </li> <li> the Bureau of the Census, </li> <li> the National Telecommunications and Information Administration, </li> <li> the U.S. Patent and Trademark Office, </li> <li> the National Institute of Standards and Technology, </li> <li> the National Oceanic and Atmospheric Administration, and </li> <li> Departmental Management. </li> </ul> <p>The bill provides appropriations to DOJ for </p> <ul> <li> General Administration; </li> <li> the U.S. Parole Commission; </li> <li> Legal Activities; </li> <li> the U.S. Marshals Service; </li> <li> the National Security Division; </li> <li> Interagency Law Enforcement; </li> <li>the Federal Bureau of Investigation; </li> <li> the Drug Enforcement Administration; </li> <li> the Bureau of Alcohol, Tobacco, Firearms and Explosives; and</li> <li>the Federal Prison System.</li> </ul> <p>The bill also provides appropriations to DOJ for State and State and Local Law Enforcement Activities, including </p> <ul> <li>the Office on Violence Against Women,</li> <li> the Office of Justice Programs, and</li> <li>Community Oriented Policing Services (COPS).</li> </ul> <p>The bill provides appropriations for science agencies, including </p> <ul> <li> the Office of Science and Technology Policy, </li> <li>the National Space Council, </li> <li> National Aeronautics and Space Administration (NASA), and </li> <li> the National Science Foundation. </li> </ul> <p>The bill provides appropriations to related agencies, including</p> <ul> <li> the Commission on Civil Rights, </li> <li> the Equal Employment Opportunity Commission, </li> <li> the U.S. International Trade Commission, </li> <li> the Legal Services Corporation, </li> <li> the Marine Mammal Commission, </li> <li> the Office of the U.S. Trade Representative, and </li> <li> the State Justice Institute. </li> </ul> <p> The bill also sets forth requirements and restrictions for using funds provided by this and other appropriations Acts. </p>]]></text>
+          <updateDate>2020-07-16T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+        <item>
+          <versionCode>07</versionCode>
+          <actionDate>2020-07-16</actionDate>
+          <actionDesc>Reported to House</actionDesc>
+          <lastSummaryUpdateDate>2020-07-30T18:20:56Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Commerce, Justice, Science, and Related Agencies Appropriations Act, 2021</b></p> <p>This bill provides FY2021 appropriations to the Department of Commerce, the Department of Justice (DOJ), the science agencies, and several related agencies. </p> <p>The bill provides appropriations to the Department of Commerce for</p> <ul> <li> the International Trade Administration, </li> <li>the Bureau of Industry and Security, </li> <li>the Economic Development Administration,</li> <li> the Minority Business Development Agency, </li> <li>Economic and Statistical Analysis, </li> <li> the Bureau of the Census, </li> <li> the National Telecommunications and Information Administration, </li> <li> the U.S. Patent and Trademark Office, </li> <li> the National Institute of Standards and Technology, </li> <li> the National Oceanic and Atmospheric Administration, and </li> <li> Departmental Management. </li> </ul> <p>The bill provides appropriations to DOJ for </p> <ul> <li> General Administration; </li> <li> the U.S. Parole Commission; </li> <li> Legal Activities; </li> <li> the U.S. Marshals Service; </li> <li> the National Security Division; </li> <li> Interagency Law Enforcement; </li> <li>the Federal Bureau of Investigation; </li> <li> the Drug Enforcement Administration; </li> <li> the Bureau of Alcohol, Tobacco, Firearms and Explosives; and</li> <li>the Federal Prison System.</li> </ul> <p>The bill also provides appropriations to DOJ for State and State and Local Law Enforcement Activities, including </p> <ul> <li>the Office on Violence Against Women,</li> <li> the Office of Justice Programs, and</li> <li>Community Oriented Policing Services (COPS).</li> </ul> <p>The bill provides appropriations for science agencies, including </p> <ul> <li> the Office of Science and Technology Policy, </li> <li>the National Space Council, </li> <li> National Aeronautics and Space Administration (NASA), and </li> <li> the National Science Foundation. </li> </ul> <p>The bill provides appropriations to related agencies, including</p> <ul> <li> the Commission on Civil Rights, </li> <li> the Equal Employment Opportunity Commission, </li> <li> the U.S. International Trade Commission, </li> <li> the Legal Services Corporation, </li> <li> the Marine Mammal Commission, </li> <li> the Office of the U.S. Trade Representative, and </li> <li> the State Justice Institute. </li> </ul> <p> The bill also sets forth requirements and restrictions for using funds provided by this and other appropriations Acts. </p>]]></text>
+          <updateDate>2020-07-16T11:01:45Z</updateDate>
+          <name>Reported to House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Commerce, Justice, Science, and Related Agencies Appropriations Act, 2021</title>
+    <titles>
+      <item>
+        <titleType>Short Title(s) as Introduced for portions of this bill</titleType>
+        <parentTitleType />
+        <title>Science Appropriations Act, 2021</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced for portions of this bill</titleType>
+        <parentTitleType />
+        <title>Department of Justice Appropriations Act, 2021</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced for portions of this bill</titleType>
+        <parentTitleType />
+        <title>Department of Commerce Appropriations Act, 2021</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Introduced</titleType>
+        <parentTitleType />
+        <title>Commerce, Justice, Science, and Related Agencies Appropriations Act, 2021</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House for portions of this bill</titleType>
+        <parentTitleType />
+        <title>Science Appropriations Act, 2021</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House</titleType>
+        <parentTitleType />
+        <title>Commerce, Justice, Science, and Related Agencies Appropriations Act, 2021</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House for portions of this bill</titleType>
+        <parentTitleType />
+        <title>Department of Justice Appropriations Act, 2021</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Title(s) as Reported to House for portions of this bill</titleType>
+        <parentTitleType />
+        <title>Department of Commerce Appropriations Act, 2021</title>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Commerce, Justice, Science, and Related Agencies Appropriations Act, 2021</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>Making appropriations for the Departments of Commerce and Justice, Science, and Related Agencies for the fiscal year ending September 30, 2021, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Reported in House</type>
+        <date>2020-07-16T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hr7667rh/xml/BILLS-116hr7667rh.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2020-07-16</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 366.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>U00366</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

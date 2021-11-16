@@ -1,0 +1,109 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-12-19", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-12-19", 
+      "action_code": "", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s3123-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "S001191", 
+      "district": null, 
+      "name": "Sinema, Kyrsten", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-12-19", 
+      "state": "AZ", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-12-19", 
+  "number": "3123", 
+  "official_title": "A bill to amend the Home Owners' Loan Act with respect to the registration and supervision of insurance savings and loan holding companies, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "State Insurance Regulation Preservation Act", 
+  "sponsor": {
+    "bioguide_id": "T000476", 
+    "district": null, 
+    "name": "Tillis, Thom", 
+    "state": "NC", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-12-19", 
+  "subjects": [
+    "Finance and financial sector"
+  ], 
+  "subjects_top_term": "Finance and financial sector", 
+  "summary": {
+    "as": "Introduced in Senate", 
+    "date": "2019-12-19T05:00:00Z", 
+    "text": "State Insurance Regulation Preservation Act \n\nThis bill provides for the registration of insurance savings and loan holding companies. Certain Federal Reserve Board (FRB) regulations as applied to these companies must be tailored to the insurance business and applicable state insurance requirements.\n\nThe bill generally excludes assets attributable to the business of insurance for the purpose of calculating whether these companies are subject to certain FRB assessments and fees."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "State Insurance Regulation Preservation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "State Insurance Regulation Preservation Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "State Insurance Regulation Preservation Act", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Home Owners' Loan Act with respect to the registration and supervision of insurance savings and loan holding companies, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-11-28T05:36:20Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s3123.xml"
+}

@@ -1,0 +1,61 @@
+<bill session="116" type="s" number="3325" updated="2020-12-28T14:37:47Z">
+  <state datetime="2020-12-08">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2020-12-08"/>
+  </status>
+  <introduced datetime="2020-02-24"/>
+  <titles>
+    <title type="short" as="introduced">PARENTS Act of 2020</title>
+    <title type="short" as="introduced">Providing Adequate Resources to Enhance Needed Time with Sons and Daughters Act of 2020</title>
+    <title type="short" as="passed senate">PARENTS Act of 2020</title>
+    <title type="short" as="passed senate">Providing Adequate Resources to Enhance Needed Time with Sons and Daughters Act of 2020</title>
+    <title type="display">PARENTS Act of 2020</title>
+    <title type="official" as="introduced">A bill to amend part D of title IV of the Social Security Act to allow States to use incentive payments available under the child support enforcement program to improve parent-child relationships, increase child support collections, and improve outcomes for children by supporting parenting time agreements for noncustodial parents in uncontested agreements, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="C001056"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C000141" joined="2020-02-24"/>
+    <cosponsor bioguide_id="M000639" joined="2020-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-02-24">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2020-02-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <action datetime="2020-12-08">
+      <text>Senate Committee on Finance discharged by Unanimous Consent.</text>
+      <reference ref="CR S7287" label="consideration"/>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="2020-12-08" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+      <reference ref="CR S7287" label="text"/>
+    </vote>
+    <action datetime="2020-12-09T15:42:24-05:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2020-12-09T15:55:05-05:00">
+      <text>Held at the desk.</text>
+    </action>
+    <action datetime="2020-12-09">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Discharged, Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="116" relation="unknown" number="3283"/>
+    <bill type="h" session="116" relation="identical" number="7725"/>
+  </relatedbills>
+  <subjects>
+    <term name="Families"/>
+    <term name="Family relationships"/>
+    <term name="Family services"/>
+    <term name="Separation, divorce, custody, support"/>
+    <term name="State and local finance"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

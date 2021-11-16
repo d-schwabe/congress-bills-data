@@ -1,0 +1,59 @@
+<bill session="116" type="h" number="7425" updated="2020-12-24T08:13:44Z">
+  <state datetime="2020-06-30">REFERRED</state>
+  <status>
+    <introduced datetime="2020-06-30"/>
+  </status>
+  <introduced datetime="2020-06-30"/>
+  <titles>
+    <title type="display">DIRECT Act</title>
+    <title type="short" as="introduced">DIRECT Act</title>
+    <title type="short" as="introduced">Direct Interstate Retail Exemption for Certain Transactions Act</title>
+    <title type="official" as="introduced">To amend the Federal Meat Inspection Act and the Poultry Products Inspection Act to allow for the interstate internet sales of certain State-inspected meat, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="J000301"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001306" joined="2020-07-01"/>
+    <cosponsor bioguide_id="C001118" joined="2020-08-28"/>
+    <cosponsor bioguide_id="C001063" joined="2020-06-30"/>
+    <cosponsor bioguide_id="G000584" joined="2020-08-28"/>
+    <cosponsor bioguide_id="G000377" joined="2020-08-28"/>
+    <cosponsor bioguide_id="G000591" joined="2020-07-09"/>
+    <cosponsor bioguide_id="H001088" joined="2020-07-01"/>
+    <cosponsor bioguide_id="H001077" joined="2020-08-18"/>
+    <cosponsor bioguide_id="M001198" joined="2020-07-01"/>
+    <cosponsor bioguide_id="M001195" joined="2020-07-09"/>
+    <cosponsor bioguide_id="R000603" joined="2020-07-01"/>
+    <cosponsor bioguide_id="T000467" joined="2020-07-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-06-30">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2020-06-30" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2020-07-01">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H2989"/>
+    </action>
+    <action datetime="2020-08-13">
+      <text>Referred to the Subcommittee on Livestock and Foreign Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="Livestock and Foreign Agriculture" code="HSAG29" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="116" relation="unknown" number="8489"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Food supply, safety, and labeling"/>
+    <term name="Internet and video services"/>
+    <term name="Meat"/>
+    <term name="Retail and wholesale trades"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="116" type="sr" number="800" updated="2020-12-23T05:30:10Z">
+  <state datetime="2020-12-11">REFERRED</state>
+  <status>
+    <introduced datetime="2020-12-11"/>
+  </status>
+  <introduced datetime="2020-12-11"/>
+  <titles>
+    <title type="official" as="introduced">A resolution congratulating the National Urban League on 110 years of service empowering African Americans and other underserved communities while helping to foster a more just, equitable, and inclusive United States.</title>
+    <title type="display">A resolution congratulating the National Urban League on 110 years of service empowering African Americans and other underserved communities while helping to foster a more just, equitable, and inclusive United States.</title>
+  </titles>
+  <sponsor bioguide_id="B001288"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001277" joined="2020-12-11"/>
+    <cosponsor bioguide_id="B000944" joined="2020-12-11"/>
+    <cosponsor bioguide_id="G000359" joined="2020-12-11"/>
+    <cosponsor bioguide_id="J000300" joined="2020-12-11"/>
+    <cosponsor bioguide_id="M000133" joined="2020-12-11"/>
+    <cosponsor bioguide_id="R000595" joined="2020-12-11"/>
+    <cosponsor bioguide_id="S001184" joined="2020-12-11"/>
+    <cosponsor bioguide_id="S001203" joined="2020-12-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-12-11">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2020-12-11" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S7448-7449" label="text"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="116" relation="identical" number="808"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Urban and suburban affairs and development"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="116" type="h" number="7368" updated="2020-11-24T20:45:22Z">
+  <state datetime="2020-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2020-06-25"/>
+  </status>
+  <introduced datetime="2020-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Brandon Act</title>
+    <title type="short" as="introduced">Brandon Act</title>
+    <title type="display">Brandon Act</title>
+    <title type="official" as="introduced">To amend title 10, United States Code, to improve the process by which a member of the Armed Forces may be referred for a mental health evaluation.</title>
+  </titles>
+  <sponsor bioguide_id="M001196"/>
+  <cosponsors>
+    <cosponsor bioguide_id="L000589" joined="2020-08-25"/>
+    <cosponsor bioguide_id="M001160" joined="2020-08-25"/>
+    <cosponsor bioguide_id="N000147" joined="2020-08-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-06-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2020-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2020-07-01">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H3045-3046"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="116" relation="related document" number="6395"/>
+    <bill type="s" session="116" relation="identical" number="4334"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Mental health"/>
+    <term name="Military medicine"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

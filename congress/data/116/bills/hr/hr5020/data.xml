@@ -1,0 +1,43 @@
+<bill session="116" type="h" number="5020" updated="2020-07-13T18:40:35Z">
+  <state datetime="2019-11-08">REFERRED</state>
+  <status>
+    <introduced datetime="2019-11-08"/>
+  </status>
+  <introduced datetime="2019-11-08"/>
+  <titles>
+    <title type="official" as="introduced">To direct the Secretary of Veterans Affairs to seek to enter into an agreement with the National Academies of Sciences, Engineering, and Medicine or the National Cancer Institute to conduct a study on radiation exposure relating to prostate cancer.</title>
+    <title type="display">To direct the Secretary of Veterans Affairs to seek to enter into an agreement with the National Academies of Sciences, Engineering, and Medicine or the National Cancer Institute to conduct a study on radiation exposure relating to prostate cancer.</title>
+  </titles>
+  <sponsor bioguide_id="P000613"/>
+  <cosponsors>
+    <cosponsor bioguide_id="S001189" joined="2019-12-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2019-11-08">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2019-11-08" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2019-12-02">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Disability Assistance and Memorial Affairs" code="HSVR09" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Cancer"/>
+    <term name="Congressional oversight"/>
+    <term name="Government studies and investigations"/>
+    <term name="Medical research"/>
+    <term name="Radiation"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary date="2019-11-08T05:00:00Z" status="Introduced in House">This bill requires the Department of Veterans Affairs to seek to enter an agreement with the National Academies of Sciences, Engineering, and Medicine or the National Cancer Institute to conduct a study and report on whether prostate cancer should be included in the list of diseases considered to have been incurred or aggravated during active military, naval, or air service of radiation-exposed veterans.</summary>
+  <committee-reports/>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="116" type="s" number="2938" updated="2020-12-28T14:40:11Z">
+  <state datetime="2019-11-21">REFERRED</state>
+  <status>
+    <introduced datetime="2019-11-21"/>
+  </status>
+  <introduced datetime="2019-11-21"/>
+  <titles>
+    <title type="display">Fair Warning Act of 2019</title>
+    <title type="short" as="introduced">Fair Warning Act of 2019</title>
+    <title type="official" as="introduced">A bill to amend the Worker Adjustment and Retraining Notification Act to support workers who are subject to an employment loss, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="B000944"/>
+  <cosponsors>
+    <cosponsor bioguide_id="M001111" joined="2019-11-21"/>
+    <cosponsor bioguide_id="S000148" joined="2019-11-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2019-11-21">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2019-11-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="116" relation="identical" number="5205"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Business records"/>
+    <term name="Civil actions and liability"/>
+    <term name="Congressional oversight"/>
+    <term name="Employment and training programs"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Government information and archives"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

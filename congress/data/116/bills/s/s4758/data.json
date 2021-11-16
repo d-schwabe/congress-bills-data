@@ -1,0 +1,120 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-09-29", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-09-29", 
+      "action_code": "", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s4758-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "C001056", 
+      "district": null, 
+      "name": "Cornyn, John", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-09-29", 
+      "state": "TX", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-09-29", 
+  "number": "4758", 
+  "official_title": "A bill to require reporting of suspicious transmissions in order to assist in criminal investigations and counterintelligence activities relating to international terrorism, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "See Something, Say Something Online Act of 2020", 
+  "sponsor": {
+    "bioguide_id": "M001183", 
+    "district": null, 
+    "name": "Manchin, Joe, III", 
+    "state": "WV", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-09-29", 
+  "subjects": [
+    "Armed Forces and National Security", 
+    "Business records", 
+    "Civil actions and liability", 
+    "Computers and information technology", 
+    "Congressional oversight", 
+    "Consumer affairs", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Department of Justice", 
+    "Drug trafficking and controlled substances", 
+    "Executive agency funding and structure", 
+    "Internet and video services", 
+    "Public-private cooperation", 
+    "Science, technology, communications", 
+    "Terrorism", 
+    "Violent crime", 
+    "White-collar crime"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "See Something, Say Something Online Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "See Something, Say Something Online Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "See Something, Say Something Online Act of 2020", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to require reporting of suspicious transmissions in order to assist in criminal investigations and counterintelligence activities relating to international terrorism, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-11-06T05:26:13Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s4758.xml"
+}

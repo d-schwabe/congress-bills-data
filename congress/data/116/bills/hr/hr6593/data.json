@@ -1,0 +1,124 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-04-21", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-04-21", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr6593-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "P000610", 
+      "district": "0", 
+      "name": "Plaskett, Stacey E.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-04-21", 
+      "state": "VI", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "bioguide_id": "S001177", 
+      "district": "0", 
+      "name": "Sablan, Gregorio Kilili Camacho", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-04-21", 
+      "state": "MP", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-04-21", 
+  "number": "6593", 
+  "official_title": "To amend certain retirement provisions for judges serving in territorial district courts, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Territorial Judgeship Retirement Equity Act of 2020", 
+  "sponsor": {
+    "bioguide_id": "S001204", 
+    "district": "0", 
+    "name": "San Nicolas, Michael F. Q.", 
+    "state": "GU", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-04-21", 
+  "subjects": [
+    "Caribbean area", 
+    "Disability and paralysis", 
+    "Employee benefits and pensions", 
+    "Guam", 
+    "Judicial procedure and administration", 
+    "Law", 
+    "Lawyers and legal services", 
+    "Northern Mariana Islands", 
+    "U.S. territories and protectorates", 
+    "Virgin Islands"
+  ], 
+  "subjects_top_term": "Law", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Territorial Judgeship Retirement Equity Act of 2020", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Territorial Judgeship Retirement Equity Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Territorial Judgeship Retirement Equity Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend certain retirement provisions for judges serving in territorial district courts, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-07-13T18:42:28Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr6593.xml"
+}

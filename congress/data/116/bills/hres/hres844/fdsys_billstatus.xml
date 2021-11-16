@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>844</billNumber>
+    <createDate>2020-02-11T13:12:10Z</createDate>
+    <updateDate>2020-12-28T14:41:18Z</updateDate>
+    <originChamber>House</originChamber>
+    <billType>HRES</billType>
+    <introducedDate>2020-02-10</introducedDate>
+    <congress>116</congress>
+    <constitutionalAuthorityStatementText />
+    <recordedVotes>
+      <recordedVote>
+        <rollNumber>58</rollNumber>
+        <url>https://clerk.house.gov/evs/2020/roll058.xml</url>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <chamber>House</chamber>
+        <congress>116</congress>
+        <date>2020-02-11T19:22:27Z</date>
+        <sessionNumber>2</sessionNumber>
+      </recordedVote>
+      <recordedVote>
+        <rollNumber>57</rollNumber>
+        <url>https://clerk.house.gov/evs/2020/roll057.xml</url>
+        <fullActionName>Motion for Previous Question</fullActionName>
+        <chamber>House</chamber>
+        <congress>116</congress>
+        <date>2020-02-11T19:12:01Z</date>
+        <sessionNumber>2</sessionNumber>
+      </recordedVote>
+    </recordedVotes>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsru00</systemCode>
+          <name>Rules Committee</name>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2020-02-11T00:15:36Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 116-395</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <latestTitle>Requiring an affirmative vote of a majority of the Members present and voting, a quorum being present, on final passage of House Joint Resolution 79.</latestTitle>
+        <congress>116</congress>
+        <number>842</number>
+        <type>HRES</type>
+        <latestAction>
+          <actionDate>2020-02-11</actionDate>
+          <text>Pursuant to the provisions of H. Res. 844, H. Res. 842 is considered passed House. (consideration: CR H1044; text: CR H1044)</text>
+          <actionTime>14:22:36</actionTime>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Removing the deadline for the ratification of the equal rights amendment.</latestTitle>
+        <congress>116</congress>
+        <number>79</number>
+        <type>HJRES</type>
+        <latestAction>
+          <actionDate>2020-02-13</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <latestTitle>Protecting America's Wilderness Act</latestTitle>
+        <congress>116</congress>
+        <number>2546</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2020-02-13</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+          <item>
+            <type>Procedurally-related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2020-02-11</actionDate>
+        <actionTime>14:22:28</actionTime>
+        <links />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-02-11</actionDate>
+        <actionTime>14:22:27</actionTime>
+        <links />
+        <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 222 - 185 (Roll no. 58). (text: CR H1024)</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-02-11</actionDate>
+        <actionTime>14:22:27</actionTime>
+        <links />
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 222 - 185 (Roll no. 58).</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-02-11</actionDate>
+        <actionTime>14:12:01</actionTime>
+        <links />
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 222 - 186 (Roll no. 57). (consideration: CR H1035-1036)</text>
+        <type>Floor</type>
+        <actionCode>H35000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-02-11</actionDate>
+        <actionTime>13:43:19</actionTime>
+        <links />
+        <text>Considered as unfinished business. (consideration: CR H1035-1037)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-02-11</actionDate>
+        <actionTime>13:04:47</actionTime>
+        <links />
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 833, the Chair put the question on ordering the previous question and by voice vote, announced that the ayes had prevailed. Mrs. Lesko demanded the yeas and nays and the Chair postponed further proceedings on the question on ordering the previous question until a time to be announced.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-02-11</actionDate>
+        <actionTime>12:20:34</actionTime>
+        <links />
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 844.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-02-11</actionDate>
+        <actionTime>12:16:20</actionTime>
+        <links />
+        <text>Considered as privileged matter. (consideration: CR H1024-1029)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-02-10</actionDate>
+        <links />
+        <text>Placed on the House Calendar, Calendar No. 73.</text>
+        <type>Calendars</type>
+        <actionCode>H12420</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-02-10</actionDate>
+        <actionTime>19:15:37</actionTime>
+        <links />
+        <text>The resolution provides for one hour of debate on each measure. The resolution provides for consideration of H.R. 2546 under a structured rule and consideration of H.J.Res. 79 under a closed rule with a motion to recommit with or without instructions for each measure.</text>
+        <type>Floor</type>
+        <actionCode>H12700</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <item>
+        <actionDate>2020-02-10</actionDate>
+        <links />
+        <text>The House Committee on Rules reported an original measure, H. Rept. 116-395, by Ms. Scanlon.</text>
+        <type>Committee</type>
+        <actionCode>H12100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsru00</systemCode>
+            <name>Rules Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2020-02-10</actionDate>
+        <links />
+        <text>The House Committee on Rules reported an original measure, H. Rept. 116-395, by Ms. Scanlon.</text>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsru00</systemCode>
+            <name>Rules Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2020-02-10</actionDate>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees />
+      </item>
+      <actionTypeCounts>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <considerationByHouse>2</considerationByHouse>
+        <generalDebate>2</generalDebate>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <provisionsOfARule>1</provisionsOfARule>
+        <committeeReportOfAnOriginalMeasure>1</committeeReportOfAnOriginalMeasure>
+        <reportedToHouse>1</reportedToHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>13</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>S001205</bioguideId>
+        <fullName>Rep. Scanlon, Mary Gay [D-PA-5]</fullName>
+        <firstName>Mary</firstName>
+        <middleName>Gay</middleName>
+        <lastName>Scanlon</lastName>
+        <party>D</party>
+        <state>PA</state>
+        <identifiers>
+          <lisID>2373</lisID>
+          <bioguideId>S001205</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>5</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <cosponsors />
+    <cboCostEstimates />
+    <laws />
+    <notes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>House of Representatives</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDate>2020-02-10</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2020-02-11T09:02:16Z</lastSummaryUpdateDate>
+          <text><![CDATA[Sets forth the rule for consideration of the bill (H.R. 2546) to designate certain lands in the State of Colorado as components of the National Wilderness Preservation System, and for other purposes; providing for consideration of the joint resolution (H.J. Res. 79) removing the deadline for the ratification of the equal rights amendment.]]></text>
+          <updateDate>2020-02-10T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+        <item>
+          <versionCode>07</versionCode>
+          <actionDate>2020-02-10</actionDate>
+          <actionDesc>Reported to House</actionDesc>
+          <lastSummaryUpdateDate>2020-03-10T16:17:02Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This resolution sets forth the rule for consideration of H.R. 2546 (Protecting America's Wilderness Act) and H.J.Res. 79 (eliminating the deadline for the ratification of the Equal Rights Amendment, which prohibits discrimination based on sex).</p> <p> It adopts H.Res. 842 (requiring a majority vote of the Members present and voting, a quorum being present, on final passage of H.J.Res. 79).</p> <p>Certain proceedings may take place on any legislative day from February 14, 2020, through February 24, 2020.</p>]]></text>
+          <updateDate>2020-02-10T15:07:03Z</updateDate>
+          <name>Reported to House</name>
+        </item>
+        <item>
+          <versionCode>53</versionCode>
+          <actionDate>2020-02-11</actionDate>
+          <actionDesc>Passed House</actionDesc>
+          <lastSummaryUpdateDate>2020-03-10T16:17:11Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This resolution sets forth the rule for consideration of H.R. 2546 (Protecting America's Wilderness Act) and H.J.Res. 79 (eliminating the deadline for the ratification of the Equal Rights Amendment, which prohibits discrimination based on sex).</p> <p> It adopts H.Res. 842 (requiring a majority vote of the Members present and voting, a quorum being present, on final passage of H.J.Res. 79).</p> <p>Certain proceedings may take place on any legislative day from February 14, 2020, through February 24, 2020.</p>]]></text>
+          <updateDate>2020-02-11T15:27:58Z</updateDate>
+          <name>Passed House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Providing for consideration of the bill (H.R. 2546) to designate certain lands in the State of Colorado as components of the National Wilderness Preservation System, and for other purposes; providing for consideration of the joint resolution (H.J. Res. 79) removing the deadline for the ratification of the equal rights amendment; and for other purposes.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>Providing for consideration of the bill (H.R. 2546) to designate certain lands in the State of Colorado as components of the National Wilderness Preservation System, and for other purposes; providing for consideration of the joint resolution (H.J. Res. 79) removing the deadline for the ratification of the equal rights amendment; and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Providing for consideration of the bill (H.R. 2546) to designate certain lands in the State of Colorado as components of the National Wilderness Preservation System, and for other purposes; providing for consideration of the joint resolution (H.J. Res. 79) removing the deadline for the ratification of the equal rights amendment; and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <amendments />
+    <textVersions>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2020-02-11T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres844eh/xml/BILLS-116hres844eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported in House</type>
+        <date>2020-02-10T05:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-116hres844rh/xml/BILLS-116hres844rh.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2020-02-11</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>14:22:28</actionTime>
+      <links />
+    </latestAction>
+    <calendarNumbers>
+      <item>
+        <calendar>H00073</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

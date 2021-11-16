@@ -1,0 +1,36 @@
+<bill session="116" type="h" number="9053" updated="2020-12-30T08:13:40Z">
+  <state datetime="2020-12-28">REFERRED</state>
+  <status>
+    <introduced datetime="2020-12-28"/>
+  </status>
+  <introduced datetime="2020-12-28"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 40, United States Code, to prevent Members of Congress and their employees from carrying firearms in the Capitol building, and for other purposes.</title>
+    <title type="display">To amend title 40, United States Code, to prevent Members of Congress and their employees from carrying firearms in the Capitol building, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="H001068"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C001072" joined="2020-12-28"/>
+    <cosponsor bioguide_id="N000147" joined="2020-12-28"/>
+    <cosponsor bioguide_id="S001175" joined="2020-12-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-12-28">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2020-12-28" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2020-12-29">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Economic Development, Public Buildings, and Emergency Management" code="HSPW13" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <committee-reports/>
+</bill>

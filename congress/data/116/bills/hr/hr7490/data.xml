@@ -1,0 +1,65 @@
+<bill session="116" type="h" number="7490" updated="2020-12-28T20:01:21Z">
+  <state datetime="2020-07-06">REFERRED</state>
+  <status>
+    <introduced datetime="2020-07-06"/>
+  </status>
+  <introduced datetime="2020-07-06"/>
+  <titles>
+    <title type="display">RAMP&#8211;UP Act</title>
+    <title type="short" as="introduced">RAMP&#8211;UP Act</title>
+    <title type="short" as="introduced">Requiring Assistance to Meat Processors for Upgrading Plants Act</title>
+    <title type="official" as="introduced">To amend the Agricultural Marketing Act of 1946 to direct the Secretary of Agriculture to make grants for improvements to meat and poultry facilities to allow for interstate shipment, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="P000258"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000055" joined="2020-07-06"/>
+    <cosponsor bioguide_id="B000490" joined="2020-07-06"/>
+    <cosponsor bioguide_id="C001055" joined="2020-07-16"/>
+    <cosponsor bioguide_id="C001108" joined="2020-07-09"/>
+    <cosponsor bioguide_id="C001059" joined="2020-07-06"/>
+    <cosponsor bioguide_id="C001124" joined="2020-08-04"/>
+    <cosponsor bioguide_id="C001119" joined="2020-07-06"/>
+    <cosponsor bioguide_id="F000467" joined="2020-09-29"/>
+    <cosponsor bioguide_id="F000449" joined="2020-07-06"/>
+    <cosponsor bioguide_id="G000584" joined="2020-08-25"/>
+    <cosponsor bioguide_id="G000589" joined="2020-09-16"/>
+    <cosponsor bioguide_id="H001088" joined="2020-07-09"/>
+    <cosponsor bioguide_id="H001083" joined="2020-07-29"/>
+    <cosponsor bioguide_id="L000491" joined="2020-07-06"/>
+    <cosponsor bioguide_id="M001204" joined="2020-10-23"/>
+    <cosponsor bioguide_id="M001194" joined="2020-07-09"/>
+    <cosponsor bioguide_id="P000597" joined="2020-07-06"/>
+    <cosponsor bioguide_id="R000603" joined="2020-07-06"/>
+    <cosponsor bioguide_id="S001212" joined="2020-08-07"/>
+    <cosponsor bioguide_id="T000467" joined="2020-07-06"/>
+    <cosponsor bioguide_id="T000460" joined="2020-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-07-06">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2020-07-06" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2020-09-03">
+      <text>Referred to the Subcommittee on Livestock and Foreign Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="Livestock and Foreign Agriculture" code="HSAG29" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="116" relation="unknown" number="4298"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Congressional oversight"/>
+    <term name="Food industry and services"/>
+    <term name="Food supply, safety, and labeling"/>
+    <term name="Industrial facilities"/>
+    <term name="Meat"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

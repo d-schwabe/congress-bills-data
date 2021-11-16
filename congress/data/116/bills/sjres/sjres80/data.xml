@@ -1,0 +1,40 @@
+<bill session="116" type="sj" number="80" updated="2020-12-24T05:28:03Z">
+  <state datetime="2020-11-18">REFERRED</state>
+  <status>
+    <introduced datetime="2020-11-18"/>
+  </status>
+  <introduced datetime="2020-11-18"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution providing for congressional disapproval of the proposed foreign military sale to the United Arab Emirates of certain defense articles and services.</title>
+    <title type="display">A joint resolution providing for congressional disapproval of the proposed foreign military sale to the United Arab Emirates of certain defense articles and services.</title>
+  </titles>
+  <sponsor bioguide_id="M000639"/>
+  <cosponsors>
+    <cosponsor bioguide_id="M001169" joined="2020-11-18"/>
+    <cosponsor bioguide_id="P000603" joined="2020-11-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-11-18">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2020-11-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hj" session="116" relation="identical" number="103"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Congressional oversight"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Middle East"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="United Arab Emirates"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

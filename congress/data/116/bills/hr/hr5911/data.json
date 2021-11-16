@@ -1,0 +1,117 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-02-13", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-02-13", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2020-02-13", 
+      "action_code": "", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Trade.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5911-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM", 
+      "subcommittee": "Subcommittee on Trade", 
+      "subcommittee_id": "04"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-02-13", 
+  "number": "5911", 
+  "official_title": "To provide for the liquidation or reliquidation of certain entries of products of European Union member states exported on or before October 9, 2019, and entered on or after October 18, 2019.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "FAIR TARIFF Act of 2019", 
+  "sponsor": {
+    "bioguide_id": "P000096", 
+    "district": "9", 
+    "name": "Pascrell, Bill, Jr.", 
+    "state": "NJ", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-02-13", 
+  "subjects": [
+    "Private Legislation"
+  ], 
+  "subjects_top_term": null, 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2020-02-13T05:00:00Z", 
+    "text": "This bill provides for the liquidation or reliquidation of certain entries of products of European Union countries exported to the United States on or before October 9, 2019, and entered, or withdrawn from warehouse for consumption, during the 120-day period beginning on October 18, 2019."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "FAIR TARIFF Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "For Accurate Import Relief To Aid Retailers and Importers of Foreign Freights Act of 2019", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "FAIR TARIFF Act of 2019", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide for the liquidation or reliquidation of certain entries of products of European Union member states exported on or before October 9, 2019, and entered on or after October 18, 2019.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-10-17T07:14:13Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr5911.xml"
+}

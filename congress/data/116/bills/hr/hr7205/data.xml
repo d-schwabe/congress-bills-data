@@ -1,0 +1,61 @@
+<bill session="116" type="h" number="7205" updated="2020-09-16T18:00:12Z">
+  <state datetime="2020-06-15">REFERRED</state>
+  <status>
+    <introduced datetime="2020-06-15"/>
+  </status>
+  <introduced datetime="2020-06-15"/>
+  <titles>
+    <title type="short" as="introduced">Nationwide Dig Once Act of 2020</title>
+    <title type="short" as="introduced">Nationwide Dig Once Act of 2020</title>
+    <title type="display">Nationwide Dig Once Act of 2020</title>
+    <title type="official" as="introduced">To facilitate the installation of broadband infrastructure, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="E000215"/>
+  <cosponsors>
+    <cosponsor bioguide_id="A000378" joined="2020-07-09"/>
+    <cosponsor bioguide_id="D000617" joined="2020-07-09"/>
+    <cosponsor bioguide_id="M001163" joined="2020-07-09"/>
+    <cosponsor bioguide_id="M001143" joined="2020-07-09"/>
+    <cosponsor bioguide_id="M001180" joined="2020-06-15"/>
+    <cosponsor bioguide_id="M001159" joined="2020-07-21"/>
+    <cosponsor bioguide_id="R000515" joined="2020-07-09"/>
+    <cosponsor bioguide_id="S001193" joined="2020-07-09"/>
+    <cosponsor bioguide_id="T000460" joined="2020-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-06-15">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2020-06-15" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2020-06-16">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Highways and Transit" code="HSPW12" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="116" relation="unknown" number="4131"/>
+    <bill type="h" session="116" relation="unknown" number="7302"/>
+    <bill type="h" session="116" relation="unknown" number="2"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Advisory bodies"/>
+    <term name="Computers and information technology"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Infrastructure development"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Internet and video services"/>
+    <term name="Performance measurement"/>
+    <term name="Roads and highways"/>
+    <term name="State and local government operations"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

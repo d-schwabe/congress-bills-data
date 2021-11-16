@@ -1,0 +1,111 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-07-20", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-07-20", 
+      "action_code": "", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s4229-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-07-20", 
+  "number": "4229", 
+  "official_title": "A bill to reaffirm the principles and objectives set forth in the United States-Hong Kong Policy Act of 1992, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Hong Kong People's Freedom and Choice Act", 
+  "sponsor": {
+    "bioguide_id": "W000779", 
+    "district": null, 
+    "name": "Wyden, Ron", 
+    "state": "OR", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-07-20", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Alliances", 
+    "Asia", 
+    "China", 
+    "Citizenship and naturalization", 
+    "Congressional oversight", 
+    "Cultural exchanges and relations", 
+    "Department of State", 
+    "Detention of persons", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Elections, voting, political campaign regulation", 
+    "Foreign labor", 
+    "Government information and archives", 
+    "Hong Kong", 
+    "Human rights", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "News media and reporting", 
+    "Protest and dissent", 
+    "Refugees, asylum, displaced persons", 
+    "Science and engineering education", 
+    "Sovereignty, recognition, national governance and status", 
+    "Travel and tourism", 
+    "Visas and passports"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Hong Kong People's Freedom and Choice Act", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Hong Kong People's Freedom and Choice Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to reaffirm the principles and objectives set forth in the United States-Hong Kong Policy Act of 1992, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-12-09T05:36:17Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s4229.xml"
+}

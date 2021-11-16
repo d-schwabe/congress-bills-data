@@ -1,0 +1,97 @@
+<bill session="116" type="h" number="5541" updated="2020-12-11T14:15:16Z">
+  <state datetime="2020-12-09T13:31:30-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2020-12-09T13:31:30-05:00"/>
+  </status>
+  <introduced datetime="2020-01-07"/>
+  <titles>
+    <title type="short" as="introduced">Tribal Power Act</title>
+    <title type="short" as="introduced">Tribal Power Act</title>
+    <title type="short" as="passed house">Tribal Power Act</title>
+    <title type="short" as="passed house">Tribal Power Act</title>
+    <title type="display">Tribal Power Act</title>
+    <title type="official" as="introduced">To amend the Energy Policy Act of 1992 to reauthorize programs to assist consenting Indian Tribes in meeting energy education, planning, and management needs, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="O000171"/>
+  <cosponsors>
+    <cosponsor bioguide_id="B001303" joined="2020-01-30"/>
+    <cosponsor bioguide_id="M001190" joined="2020-01-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-01-07">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2020-01-07" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2020-01-07">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2020-01-08">
+      <text>Referred to the Subcommittee on Energy.</text>
+    </action>
+    <action datetime="2020-01-09">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2020-01-09">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+    </action>
+    <action datetime="2020-01-13">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </action>
+    <action datetime="2020-01-13">
+      <text>Referred to the Subcommittee for Indigenous Peoples of the United States.</text>
+    </action>
+    <action datetime="2020-07-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2020-07-15" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2020-12-08">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 116-625, Part I.</text>
+    </action>
+    <action datetime="2020-12-09T13:13:08-05:00">
+      <text>Mr. Pallone moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2020-12-09T13:13:09-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7068-7071" label="consideration"/>
+    </action>
+    <action datetime="2020-12-09T13:13:13-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5541.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2020-12-09T13:31:30-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7068-7069" label="text"/>
+    </vote>
+    <action datetime="2020-12-09T13:31:42-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2020-12-10">
+      <text>Received in the Senate and Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SLIA" name="Senate Indian Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Reporting, Markup, Referral"/>
+    <committee subcommittee="Energy" code="HSIF03" name="House Energy and Commerce" activity="Reporting, Markup, Referral"/>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Indigenous Peoples of the United States" code="HSII24" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Energy and Mineral Resources" code="HSII06" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="116" relation="unknown" number="2"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Alaska Natives and Hawaiians"/>
+    <term name="Congressional oversight"/>
+    <term name="Energy prices"/>
+    <term name="Energy storage, supplies, demand"/>
+    <term name="Government studies and investigations"/>
+    <term name="Indian social and development programs"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

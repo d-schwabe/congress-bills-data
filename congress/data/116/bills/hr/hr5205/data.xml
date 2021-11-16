@@ -1,0 +1,52 @@
+<bill session="116" type="h" number="5205" updated="2020-07-13T18:40:48Z">
+  <state datetime="2019-11-20">REFERRED</state>
+  <status>
+    <introduced datetime="2019-11-20"/>
+  </status>
+  <introduced datetime="2019-11-20"/>
+  <titles>
+    <title type="short" as="introduced">Fair Warning Act of 2019</title>
+    <title type="short" as="introduced">Fair Warning Act of 2019</title>
+    <title type="display">Fair Warning Act of 2019</title>
+    <title type="official" as="introduced">To amend the Worker Adjustment and Retraining Notification Act to support workers who are subject to an employment loss, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="R000577"/>
+  <cosponsors>
+    <cosponsor bioguide_id="H001081" joined="2020-02-04"/>
+    <cosponsor bioguide_id="J000032" joined="2019-11-26"/>
+    <cosponsor bioguide_id="L000592" joined="2019-11-26"/>
+    <cosponsor bioguide_id="N000002" joined="2019-11-26"/>
+    <cosponsor bioguide_id="N000147" joined="2019-11-26"/>
+    <cosponsor bioguide_id="P000607" joined="2019-12-05"/>
+    <cosponsor bioguide_id="S001201" joined="2019-11-26"/>
+    <cosponsor bioguide_id="T000481" joined="2019-11-26"/>
+    <cosponsor bioguide_id="T000483" joined="2019-11-20"/>
+    <cosponsor bioguide_id="W000826" joined="2019-11-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2019-11-20">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2019-11-20" state="REFERRED">
+      <text>Referred to the House Committee on Education and Labor.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and Labor" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="116" relation="identical" number="2938"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Business records"/>
+    <term name="Civil actions and liability"/>
+    <term name="Congressional oversight"/>
+    <term name="Employment and training programs"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Government information and archives"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

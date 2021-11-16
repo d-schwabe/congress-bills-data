@@ -1,0 +1,97 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-06-25", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-06-25", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr7360-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-06-25", 
+  "number": "7360", 
+  "official_title": "To amend the Middle Class Tax Relief and Job Creation Act of 2012 to codify the 60-day time frame for certain eligible facilities requests.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Wireless Resiliency and Flexible Investment Act", 
+  "sponsor": {
+    "bioguide_id": "K000378", 
+    "district": "16", 
+    "name": "Kinzinger, Adam", 
+    "state": "IL", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-06-25", 
+  "subjects": [
+    "Infrastructure development", 
+    "Science, technology, communications", 
+    "State and local government operations", 
+    "Telephone and wireless communication"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Wireless Resiliency and Flexible Investment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Wireless Resiliency and Flexible Investment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Wireless Resiliency and Flexible Investment Act", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Middle Class Tax Relief and Job Creation Act of 2012 to codify the 60-day time frame for certain eligible facilities requests.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-10-02T18:15:10Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr7360.xml"
+}

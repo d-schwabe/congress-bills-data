@@ -1,0 +1,128 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-08-07", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-08-07", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Homeland Security.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2020-09-24", 
+      "action_code": "", 
+      "committees": [
+        "HSHM"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Transportation and Maritime Security.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr7987-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Homeland Security", 
+      "committee_id": "HSHM", 
+      "subcommittee": "Subcommittee on Transportation and Maritime Security", 
+      "subcommittee_id": "07"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "K000210", 
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2020-08-07", 
+      "state": "NY", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-08-07", 
+  "number": "7987", 
+  "official_title": "To require the Transportation Security Administration to standardize the enrollment process for individuals applying for multiple TSA Security Threat Assessment programs, including the TWIC, HAZMAT Endorsement, and TSA PreCheck programs of the Administration, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "TSA Security Threat Assessment Application Modernization Act", 
+  "sponsor": {
+    "bioguide_id": "S000510", 
+    "district": "9", 
+    "name": "Smith, Adam", 
+    "state": "WA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-08-07", 
+  "subjects": [
+    "Aviation and airports", 
+    "Licensing and registrations", 
+    "Transportation and public works", 
+    "Transportation safety and security", 
+    "User charges and fees"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "TSA Security Threat Assessment Application Modernization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "TSA Security Threat Assessment Application Modernization Act", 
+      "type": "short"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "TSA Security Threat Assessment Application Modernization Act", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To require the Transportation Security Administration to standardize the enrollment process for individuals applying for multiple TSA Security Threat Assessment programs, including the TWIC, HAZMAT Endorsement, and TSA PreCheck programs of the Administration, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-10-20T19:02:29Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr7987.xml"
+}

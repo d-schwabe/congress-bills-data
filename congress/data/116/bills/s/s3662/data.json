@@ -1,0 +1,109 @@
+{
+  "actions": [
+    {
+      "acted_at": "2020-05-07", 
+      "action_code": "10000", 
+      "references": [], 
+      "text": "Introduced in Senate", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2020-05-07", 
+      "action_code": "", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s3662-116", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2020-05-07", 
+  "number": "3662", 
+  "official_title": "A bill to amend title 28, United States Code, to provide a civil action against a foreign state for deliberate concealment or distortion of information with respect to an international public health emergency, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr6519-116", 
+      "identified_by": "CRS", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Holding the Chinese Communist Party Accountable for Infecting Americans Act of 2020", 
+  "sponsor": {
+    "bioguide_id": "C001095", 
+    "district": null, 
+    "name": "Cotton, Tom", 
+    "state": "AR", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2020-05-07", 
+  "subjects": [
+    "California", 
+    "Cardiovascular and respiratory health", 
+    "Civil actions and liability", 
+    "Diplomacy, foreign officials, Americans abroad", 
+    "Emergency medical services and trauma care", 
+    "Federal appellate courts", 
+    "Federal district courts", 
+    "Fraud offenses and financial crimes", 
+    "Government liability", 
+    "Illinois", 
+    "Infectious and parasitic diseases", 
+    "Law", 
+    "New York City", 
+    "Sovereignty, recognition, national governance and status", 
+    "Texas"
+  ], 
+  "subjects_top_term": "Law", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "Holding the Chinese Communist Party Accountable for Infecting Americans Act of 2020", 
+      "type": "display"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Holding the Chinese Communist Party Accountable for Infecting Americans Act of 2020", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend title 28, United States Code, to provide a civil action against a foreign state for deliberate concealment or distortion of information with respect to an international public health emergency, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2020-12-28T14:39:00Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/s/BILLSTATUS-116s3662.xml"
+}

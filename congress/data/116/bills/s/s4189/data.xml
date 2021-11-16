@@ -1,0 +1,39 @@
+<bill session="116" type="s" number="4189" updated="2020-10-14T04:25:09Z">
+  <state datetime="2020-07-02">REFERRED</state>
+  <status>
+    <introduced datetime="2020-07-02"/>
+  </status>
+  <introduced datetime="2020-07-02"/>
+  <titles>
+    <title type="short" as="introduced">Water for Conservation and Farming Act</title>
+    <title type="short" as="introduced">Water for Conservation and Farming Act</title>
+    <title type="display">Water for Conservation and Farming Act</title>
+    <title type="official" as="introduced">A bill to provide for drought preparedness and improved water supply reliability.</title>
+  </titles>
+  <sponsor bioguide_id="W000779"/>
+  <cosponsors>
+    <cosponsor bioguide_id="M001176" joined="2020-07-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-07-02">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2020-07-02" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <reference ref="CR S4227" label="Sponsor introductory remarks on measure"/>
+    </action>
+    <action datetime="2020-07-22">
+      <text>Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+    <committee subcommittee="Water and Power" code="SSEG07" name="Senate Energy and Natural Resources" activity="Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

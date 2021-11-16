@@ -1,0 +1,43 @@
+<bill session="116" type="hr" number="1094" updated="2020-10-16T15:15:10Z">
+  <state datetime="2020-08-25">REFERRED</state>
+  <status>
+    <introduced datetime="2020-08-25"/>
+  </status>
+  <introduced datetime="2020-08-25"/>
+  <titles>
+    <title type="display">Condemning QAnon and rejecting the conspiracy theories it promotes.</title>
+    <title type="official" as="introduced">Condemning QAnon and rejecting the conspiracy theories it promotes.</title>
+  </titles>
+  <sponsor bioguide_id="M001203"/>
+  <cosponsors>
+    <cosponsor bioguide_id="F000466" joined="2020-09-21"/>
+    <cosponsor bioguide_id="G000583" joined="2020-08-28"/>
+    <cosponsor bioguide_id="K000378" joined="2020-08-28"/>
+    <cosponsor bioguide_id="L000591" joined="2020-09-21"/>
+    <cosponsor bioguide_id="R000611" joined="2020-08-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-08-25">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2020-08-25" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="116" relation="unknown" number="1154"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Crime prevention"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Political movements and philosophies"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

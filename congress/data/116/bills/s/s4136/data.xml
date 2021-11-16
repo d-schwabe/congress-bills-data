@@ -1,0 +1,44 @@
+<bill session="116" type="s" number="4136" updated="2020-12-28T20:30:59Z">
+  <state datetime="2020-07-01">REFERRED</state>
+  <status>
+    <introduced datetime="2020-07-01"/>
+  </status>
+  <introduced datetime="2020-07-01"/>
+  <titles>
+    <title type="display">Congressional Oversight to Secure Transparency of Relocations Act</title>
+    <title type="short" as="introduced">Congressional Oversight to Secure Transparency of Relocations Act</title>
+    <title type="official" as="introduced">A bill to require Federal agencies to conduct a benefit-cost analysis on relocations involving the movement of employment positions to different areas, and for other purposes.</title>
+  </titles>
+  <sponsor bioguide_id="V000128"/>
+  <cosponsors>
+    <cosponsor bioguide_id="C000141" joined="2020-07-01"/>
+    <cosponsor bioguide_id="K000384" joined="2020-07-01"/>
+    <cosponsor bioguide_id="W000805" joined="2020-07-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2020-07-01">
+      <text>Introduced in Senate</text>
+    </action>
+    <action datetime="2020-07-01" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="116" relation="unknown" number="7478"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+  </subjects>
+  <amendments/>
+  <committee-reports/>
+</bill>

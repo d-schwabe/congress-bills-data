@@ -1,0 +1,122 @@
+{
+  "actions": [
+    {
+      "acted_at": "2019-10-22", 
+      "action_code": "Intro-H", 
+      "references": [], 
+      "text": "Introduced in House", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2019-10-22", 
+      "action_code": "H11100", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2019-11-05", 
+      "action_code": "", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to the Subcommittee on National Parks, Forests, and Public Lands.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4778-116", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committee_reports": [], 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on National Parks, Forests, and Public Lands", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "116", 
+  "cosponsors": [
+    {
+      "bioguide_id": "L000578", 
+      "district": "1", 
+      "name": "LaMalfa, Doug", 
+      "original_cosponsor": true, 
+      "sponsored_at": "2019-10-22", 
+      "state": "CA", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2019-10-22", 
+  "number": "4778", 
+  "official_title": "To amend the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2008, to extend the authority to collect Shasta-Trinity Marina fees through fiscal year 2027.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "bioguide_id": "H001068", 
+    "district": "2", 
+    "name": "Huffman, Jared", 
+    "state": "CA", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2019-10-22", 
+  "subjects": [
+    "Appropriations", 
+    "California", 
+    "Department of Agriculture", 
+    "Executive agency funding and structure", 
+    "Navigation, waterways, harbors", 
+    "Public lands and natural resources", 
+    "User charges and fees"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced in House", 
+    "date": "2019-10-22T04:00:00Z", 
+    "text": "This bill extends through FY2027 the authority of the Department of Agriculture to collect fees for a marina on the Shasta-Trinity National Forest."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2008, to extend the authority to collect Shasta-Trinity Marina fees through fiscal year 2027.", 
+      "type": "official"
+    }, 
+    {
+      "as": null, 
+      "is_for_portion": false, 
+      "title": "To amend the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2008, to extend the authority to collect Shasta-Trinity Marina fees through fiscal year 2027.", 
+      "type": "display"
+    }
+  ], 
+  "updated_at": "2020-07-13T18:40:19Z", 
+  "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/116/hr/BILLSTATUS-116hr4778.xml"
+}

@@ -1,0 +1,44 @@
+<bill session="116" type="hr" number="842" updated="2020-12-28T14:41:18Z">
+  <state datetime="2020-02-10">REFERRED</state>
+  <status>
+    <introduced datetime="2020-02-10"/>
+  </status>
+  <introduced datetime="2020-02-10"/>
+  <titles>
+    <title type="official" as="introduced">Requiring an affirmative vote of a majority of the Members present and voting, a quorum being present, on final passage of House Joint Resolution 79.</title>
+    <title type="display">Requiring an affirmative vote of a majority of the Members present and voting, a quorum being present, on final passage of House Joint Resolution 79.</title>
+  </titles>
+  <sponsor bioguide_id="R000606"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2020-02-10">
+      <text>Introduced in House</text>
+    </action>
+    <action datetime="2020-02-10" state="REFERRED">
+      <text>Referred to the House Committee on Rules.</text>
+    </action>
+    <action datetime="2020-02-11T14:22:36-05:00">
+      <text>Pursuant to the provisions of H. Res. 844, H. Res. 842 is considered passed House.</text>
+      <reference ref="CR H1044" label="consideration"/>
+      <reference ref="CR H1044" label="text"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSRU" name="House Rules" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hj" session="116" relation="unknown" number="79"/>
+    <bill type="hr" session="116" relation="procedurally-related" number="844"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Due process and equal protection"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+  <summary date="2020-02-11T15:27:35Z" status="Passed House">This resolution requires a majority vote of the Members present and voting, a quorum being present, on final passage of H.J.Res. 79 (eliminating the deadline for the ratification of the Equal Rights Amendment, which prohibits discrimination based on sex).</summary>
+  <committee-reports/>
+</bill>
